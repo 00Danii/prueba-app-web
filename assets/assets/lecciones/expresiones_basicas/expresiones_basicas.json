@@ -1,0 +1,77 @@
+[
+    {
+        "esp": "bien",
+        "nah": "Cualli",
+        "aud": "lecciones/expresiones_basicas/audios/cualli.mp3"
+    },
+    {
+        "esp": "mal",
+        "nah": "Axcualli",
+        "aud": "lecciones/expresiones_basicas/audios/axcualli.mp3"
+    },
+    {
+        "esp": "muy bien",
+        "nah": "Cualtitoc",
+        "aud": "lecciones/expresiones_basicas/audios/cualtitoc.mp3"
+    },
+    {
+        "esp": "dilo otra vez",
+        "nah": "Zampa xiquihto",
+        "aud": "lecciones/expresiones_basicas/audios/zampa_xiquihto.mp3"
+    },
+    {
+        "esp": "hazlo otra vez",
+        "nah": "Zampa Xicchihua",
+        "aud": "lecciones/expresiones_basicas/audios/zampa_xicchihua.mp3"
+    },
+    {
+        "esp": "flor",
+        "nah": "Xochitl",
+        "aud": "lecciones/expresiones_basicas/audios/xochitl.mp3"
+    },
+    {
+        "esp": "mujer",
+        "nah": "Cihuatl",
+        "aud": "lecciones/expresiones_basicas/audios/cihuatl.mp3"
+    },
+    {
+        "esp": "hombre",
+        "nah": "Tlacatl",
+        "aud": "lecciones/expresiones_basicas/audios/tlacatl.mp3"
+    },
+    {
+        "esp": "mi mujer es una flor",
+        "nah": "nocihuauh ce xochitl",
+        "aud": "lecciones/expresiones_basicas/audios/nocihuauh_ce_xochitl.mp3"
+    },
+    {
+        "esp": "mas-o-menos",
+        "nah": "quentzi cualli",
+        "aud": "lecciones/expresiones_basicas/audios/quentzi_cualli.mp3"
+    },
+    {
+        "esp": "muy feo",
+        "nah": "tlahuel fieroh",
+        "aud": "lecciones/expresiones_basicas/audios/tlahuel_fieroh.mp3"
+    },
+    {
+        "esp": "muy mal",
+        "nah": "tlahuel axcualli",
+        "aud": "lecciones/expresiones_basicas/audios/tlahuel_axcualli.mp3"
+    },
+    {
+        "esp": "mi novio o novia es muy guapo o bonita",
+        "nah": "noyoltzin tlahuel yehyectzin",
+        "aud": "lecciones/expresiones_basicas/audios/noyoltzin_tlahuel_yehyectzin.mp3"
+    },
+    {
+        "esp": "esa mujer es muy alta",
+        "nah": "ne cihuatl tlahuel huahcapantic",
+        "aud": "lecciones/expresiones_basicas/audios/ne_cihuatl_tlahuel_huahcapantic.mp3"
+    },
+    {
+        "esp": "my camisa es rosada",
+        "nah": "nocoton cuahuencho",
+        "aud": "lecciones/expresiones_basicas/audios/nocoton_cuahuencho.mp3"
+    }
+]

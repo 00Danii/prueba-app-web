@@ -1,0 +1,23 @@
+[
+    {
+        "tituloEspanol": "Muere mi rostro",
+        "tituloIdioma": "Niy Kilakán",
+        "contenidoEspanol": "Mueren los ríos,*mueren las estrellas,*mueren mis ojos,*mueren mis manos,*muere mi rostro,*muere mi oído,*muere mi olfato,*muere mi sombra,*muere mi silencio,*muere mi ruido,*muere la luna,*muere el dolor,*muere mi muerte*y mi canto,*mi canto,*mi canto no morirá jamás.",
+        "contenidoIdioma": "Niy Kiln*Nikgoy kgalhtuchokgo,*nikgoy staku,*nikgoy kilakgastapu,*nikgoy kimakanín,*niy ki lakán,*niy kintekgan,*niy kinkankán,*niy kimustalekg,*niy kintsalankswat,*niy kimakasanat,*niy pa´pa´,*niy takatsanawa,*niy kilinín,*chu kintatlín,*kintatlín,*kintatlín*ni akxnikú kitinilh.",
+        "img": "assets/totonaco/lecturas/imagenes/rio.png"
+    },
+    {
+        "tituloEspanol": "Paisajes",
+        "tituloIdioma": "Lilakgastán",
+        "contenidoEspanol": "Duermo con los ojos abiertos*para contemplar mi sueño.*Nada queda lejos,*todo lo contemplo,*y en el silencio blanco*mi sueño pinta paisajes.*El tránsito libre de los ríos,*las raíces profundas,*los cantares de la tierra,*todo queda plasmado.*Ha llegado la primavera,*mi sueño canta en el bosque.",
+        "contenidoIdioma": "Lhputut klakawan akxní klhatá*klilakgastanán kintamanixni’.*Lulakatsú tasiyú katukawá,*lustlan tasiyú katukawá’,*lustlan maní kintamanixní’*katukawá lilakgastán.*Tasiyú lantla tlawan kgalhtuchokgo,*tasiyú lantla aknú kintankgaxekg,*takgaxmata xtatlín kataxawat,*paks antá talhkatawalá kkintamanixni’.*Lustlan tliy kintamanixni kkakiwín,*max xkilhtamakujá xanat ukú’.",
+        "img": "assets/totonaco/lecturas/imagenes/paisaje.png"
+    },
+    {
+        "tituloEspanol": "La espera",
+        "tituloIdioma": "Takgalhkgalhín",
+        "contenidoEspanol": "Aquel árbol de mamey*aun espera el pájaro*que en las mañanas*tsik tsik tsik canta tu nombre,*impaciente,*juega a pelotazos con su sombra.",
+        "contenidoIdioma": "Wa imá tlanka jaka*akgtlakgwantayalhá’,*kgalhkgalhimakú mpatokgtokg*ti katsisa tsik tsik tsik*litliy min takuwaní’,*nipaxawana takgamanan.",
+        "img": "assets/totonaco/lecturas/imagenes/mamey.png"
+    }
+]

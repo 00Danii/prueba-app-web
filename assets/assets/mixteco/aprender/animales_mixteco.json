@@ -1,0 +1,47 @@
+[
+    {
+        "esp": "Leon",
+        "idioma": "Tiká",
+        "img": "assets/mixteco/aprender/animales/leon.png"
+    },
+    {
+        "esp": "Lobo",
+        "idioma": "Kiti Kuaa",
+        "img": "assets/mixteco/aprender/animales/lobo.png"
+    },
+    {
+        "esp": "Vibora",
+        "idioma": "Koxo",
+        "img": "assets/lecciones/animales/imagenes/serpiente.png"
+    },
+    {
+        "esp": "Perro",
+        "idioma": "Ina",
+        "img": "assets/mixteco/aprender/animales/perro.jpg"
+    },
+    {
+        "esp": "Gato",
+        "idioma": "Vilú",
+        "img": "assets/mixteco/aprender/animales/gato.jpg"
+    },
+    {
+        "esp": "Ratón",
+        "idioma": "Chindi",
+        "img": "assets/mixteco/aprender/animales/rata.png"
+    },
+    {
+        "esp": "Caballo",
+        "idioma": "Kete",
+        "img": "assets/mixteco/aprender/animales/caballo.png"
+    },
+    {
+        "esp": "Vaca",
+        "idioma": "Ndicutú",
+        "img": "assets/mixteco/aprender/animales/vaca.png"
+    },
+    {
+        "esp": "Conejo",
+        "idioma": "Idu Kuaa",
+        "img": "assets/mixteco/aprender/animales/conejo.jpg"
+    }
+]

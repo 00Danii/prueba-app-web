@@ -1,0 +1,20 @@
+[
+    {
+        "titulo": "",
+        "subtitulo": "Números",
+        "descripcion": "Aprende los numeros en Otomí.",
+        "icono": "assets/iconos/iniciales/numeros.png",
+        "img": "assets/lecciones/imagenes/numeros.png",
+        "id": "leccionDeMaps",
+        "ruta": ""
+    },
+    {
+        "titulo": "",
+        "subtitulo": "Colores",
+        "descripcion": "Colores en el idioma Huichol.",
+        "icono": "assets/iconos/iniciales/colores.png",
+        "img": "assets/lecciones/imagenes/colores.png",
+        "id": "leccionConImagen",
+        "ruta": "assets/huichol/aprender/colores_huichol.json"
+    }
+]

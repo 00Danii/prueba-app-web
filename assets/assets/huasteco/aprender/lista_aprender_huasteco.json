@@ -1,0 +1,29 @@
+[
+    {
+        "titulo": "",
+        "subtitulo": "Animales",
+        "descripcion": "Animales en Huasteco.",
+        "icono": "assets/iconos/iniciales/animales.png",
+        "img": "assets/imagenes/animales/cuervo.png",
+        "id": "leccionConImagen",
+        "ruta": "assets/huasteco/aprender/animales_huasteco.json"
+    },
+    {
+        "titulo": "",
+        "subtitulo": "Colores",
+        "descripcion": "Colores en el idioma Huasteco.",
+        "icono": "assets/iconos/iniciales/colores.png",
+        "img": "assets/lecciones/imagenes/colores.png",
+        "id": "leccionConImagen",
+        "ruta": "assets/huasteco/aprender/colores_huasteco.json"
+    },
+    {
+        "titulo": "",
+        "subtitulo": "Números",
+        "descripcion": "Números del 1 al 10.",
+        "icono": "assets/iconos/iniciales/numeros.png",
+        "img": "assets/maya/imagenes/numeros.jpg",
+        "id": "leccionDeMaps",
+        "ruta": ""
+    }
+]

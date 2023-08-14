@@ -1,0 +1,42 @@
+[
+    {
+        "esp": "anaranjado, naranja",
+        "idioma": "cua yina’",
+        "img": "assets/mixteco/aprender/colores/naranja.jpg"
+    },
+    {
+        "esp": "blanco",
+        "idioma": "xtilh",
+        "img": "assets/mixteco/aprender/colores/blanco.jpg"
+    },
+    {
+        "esp": "café, castaño",
+        "idioma": "chag",
+        "img": "assets/mixteco/aprender/colores/cafe.jpg"
+    },
+    {
+        "esp": "morado, púrpura, color.",
+        "idioma": "bzawe",
+        "img": "assets/mixteco/aprender/colores/morado.jpg"
+    },
+    {
+        "esp": "negro",
+        "idioma": "gasj",
+        "img": "assets/mixteco/aprender/colores/negro.jpg"
+    },
+    {
+        "esp": "rojo, colorado, bermejo, carmín",
+        "idioma": "xna",
+        "img": "assets/mixteco/aprender/colores/rojo.jpg"
+    },
+    {
+        "esp": "rosa",
+        "idioma": "rhosa",
+        "img": "assets/otomi/aprender/colores/rosa.jpg"
+    },
+    {
+        "esp": "verde",
+        "idioma": "ga’",
+        "img": "assets/mixteco/aprender/colores/verde.jpg"
+    }
+]

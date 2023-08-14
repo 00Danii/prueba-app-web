@@ -1,0 +1,29 @@
+[
+    {
+        "titulo": "Ba'alche'ob",
+        "subtitulo": "Animales",
+        "descripcion": "Animales en Maya.",
+        "icono": "assets/iconos/iniciales/animales.png",
+        "img": "assets/maya/imagenes/animales.png",
+        "id": "leccionConImagen",
+        "ruta": "assets/maya/animales/animalesMaya.json"
+    },
+    {
+        "titulo": "Xook",
+        "subtitulo": "Numeros",
+        "descripcion": "Números del 1 al 20.",
+        "icono": "assets/iconos/iniciales/numeros.png",
+        "img": "assets/maya/imagenes/numeros.jpg",
+        "id": "leccionConImagen",
+        "ruta": "assets/maya/numeros/numerosMaya.json"
+    },
+    {
+        "titulo": "Boonilo'ob",
+        "subtitulo": "Colores",
+        "descripcion": "Colores primarios, secundarios y derivados en lengua Maya.",
+        "icono": "assets/iconos/iniciales/colores.png",
+        "img": "assets/maya/imagenes/colores.png",
+        "id": "leccionColores",
+        "ruta": ""
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "esp": "Mi",
+        "nah": "No",
+        "aud": "lecciones/posesivos/audios/no.mp3"
+    },
+    {
+        "esp": "Tu",
+        "nah": "Mo",
+        "aud": "lecciones/posesivos/audios/mo.mp3"
+    },
+    {
+        "esp": "De El, Ella, Eso",
+        "nah": "I",
+        "aud": "lecciones/posesivos/audios/i.mp3"
+    },
+    {
+        "esp": "Nuestro",
+        "nah": "To",
+        "aud": "lecciones/posesivos/audios/to.mp3"
+    },
+    {
+        "esp": "De ustedes",
+        "nah": "inmo",
+        "aud": "lecciones/posesivos/audios/inmo.mp3"
+    },
+    {
+        "esp": "De ellos",
+        "nah": "inin",
+        "aud": "lecciones/posesivos/audios/inin.mp3"
+    }
+]

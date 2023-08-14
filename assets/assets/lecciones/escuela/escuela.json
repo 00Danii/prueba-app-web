@@ -1,0 +1,72 @@
+[
+    {
+        "esp": "biblioteca",
+        "nah": "xinachcalli",
+        "aud": "lecciones/escuela/audios/xinachcalli.mp3"
+    },
+    {
+        "esp": "borrador",
+        "nah": "tlaixpolihuiltihquetl",
+        "aud": "lecciones/escuela/audios/tlaixpolihuiltihquetl.mp3"
+    },
+    {
+        "esp": "escritura",
+        "nah": "tlahcuilolli",
+        "aud": "lecciones/escuela/audios/tlahcuilolli.mp3"
+    },
+    {
+        "esp": "escuela",
+        "nah": "caltlamachtican",
+        "aud": "lecciones/escuela/audios/caltlamachtican.mp3"
+    },
+    {
+        "esp": "estudiante",
+        "nah": "momachtihquetl",
+        "aud": "lecciones/escuela/audios/momachtihquetl.mp3"
+    },
+    {
+        "esp": "gis",
+        "nah": "tlicolli",
+        "aud": "lecciones/escuela/audios/tlicolli.mp3"
+    },
+    {
+        "esp": "libro",
+        "nah": "amoxtli",
+        "aud": "lecciones/escuela/audios/amoxtli.mp3"
+    },
+    {
+        "esp": "mesa, escritorio",
+        "nah": "cuamezah",
+        "aud": "lecciones/escuela/audios/cuamezah.mp3"
+    },
+    {
+        "esp": "morral",
+        "nah": "morral",
+        "aud": "lecciones/escuela/audios/morral.mp3"
+    },
+    {
+        "esp": "papel",
+        "nah": "amatl",
+        "aud": "lecciones/escuela/audios/amatl.mp3"
+    },
+    {
+        "esp": "pizarrón",
+        "nah": "huapaltlahcuilolli",
+        "aud": "lecciones/escuela/audios/huapaltlahcuilolli.mp3"
+    },
+    {
+        "esp": "profesor",
+        "nah": "tlamachtihquetl",
+        "aud": "lecciones/escuela/audios/tlamachtihquetl.mp3"
+    },
+    {
+        "esp": "silla",
+        "nah": "cuaciyah",
+        "aud": "lecciones/escuela/audios/cuaciyah.mp3"
+    },
+    {
+        "esp": "tarea",
+        "nah": "chantequitl",
+        "aud": "lecciones/escuela/audios/chantequitl.mp3"
+    }
+]

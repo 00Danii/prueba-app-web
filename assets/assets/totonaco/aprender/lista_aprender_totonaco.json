@@ -1,0 +1,29 @@
+[
+    {
+        "titulo": "Taqalhiin",
+        "subtitulo": "Animales",
+        "descripcion": "Animales en Totonaco.",
+        "icono": "assets/iconos/iniciales/animales.png",
+        "img": "assets/imagenes/animales/libelula.png",
+        "id": "leccionConImagen",
+        "ruta": "assets/totonaco/aprender/animales_totonaco.json"
+    },
+    {
+        "titulo": "Liputlekgen",
+        "subtitulo": "Números",
+        "descripcion": "Números del 1 al 20.",
+        "icono": "assets/iconos/iniciales/numeros.png",
+        "img": "assets/maya/imagenes/numeros.jpg",
+        "id": "leccionDeMaps",
+        "ruta": ""
+    },
+    {
+        "titulo": "Tamanin",
+        "subtitulo": "Colores",
+        "descripcion": "Colores en idioma Totonaco",
+        "icono": "assets/iconos/iniciales/colores.png",
+        "img": "assets/maya/imagenes/colores.png",
+        "id": "leccionConImagen",
+        "ruta": "assets/totonaco/aprender/colores_totonaco.json"
+    }
+]

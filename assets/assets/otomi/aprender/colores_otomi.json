@@ -1,0 +1,52 @@
+[
+    {
+        "esp": "café (color)",
+        "idioma": "dëjü, möxo",
+        "img": "assets/mixteco/aprender/colores/cafe.jpg"
+    },
+    {
+        "esp": "morado",
+        "idioma": "ixthëni",
+        "img": "assets/mixteco/aprender/colores/morado.jpg"
+    },
+    {
+        "esp": "naranja",
+        "idioma": "nanxa",
+        "img": "assets/mixteco/aprender/colores/naranja.jpg"
+    },
+    {
+        "esp": "rosa",
+        "idioma": "oxa",
+        "img": "assets/otomi/aprender/colores/rosa.jpg"
+    },
+    {
+        "esp": "púrpura",
+        "idioma": "ixthëni",
+        "img": "assets/otomi/aprender/colores/purpura.jpg"
+    },
+    {
+        "esp": "amarillo",
+        "idioma": "k’ast’i",
+        "img": "assets/mixteco/aprender/colores/amarillo.jpg"
+    },
+    {
+        "esp": "azul",
+        "idioma": "mok’angi",
+        "img": "assets/mixteco/aprender/colores/azul.jpg"
+    },
+    {
+        "esp": "blanco",
+        "idioma": "t’axi",
+        "img": "assets/mixteco/aprender/colores/blanco.jpg"
+    },
+    {
+        "esp": "rojo",
+        "idioma": "thëni",
+        "img": "assets/mixteco/aprender/colores/rojo.jpg"
+    },
+    {
+        "esp": "verde",
+        "idioma": "k’angi",
+        "img": "assets/mixteco/aprender/colores/verde.jpg"
+    }
+]

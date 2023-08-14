@@ -1,0 +1,37 @@
+[
+    {
+        "esp": "Verde",
+        "idioma": "sïïaïyéme",
+        "img": "assets/mixteco/aprender/colores/verde.jpg"
+    },
+    {
+        "esp": "Rojo",
+        "idioma": "xetáme",
+        "img": "assets/mixteco/aprender/colores/rojo.jpg"
+    },
+    {
+        "esp": "Azul",
+        "idioma": "puyúavi",
+        "img": "assets/mixteco/aprender/colores/azul.jpg"
+    },
+    {
+        "esp": "Amarillo",
+        "idioma": "taaxáriya",
+        "img": "assets/mixteco/aprender/colores/amarillo.jpg"
+    },
+    {
+        "esp": "Naranja",
+        "idioma": "naraacáxi",
+        "img": "assets/mixteco/aprender/colores/naranja.jpg"
+    },
+    {
+        "esp": "Negro",
+        "idioma": "yïvíme",
+        "img": "assets/mixteco/aprender/colores/negro.jpg"
+    },
+    {
+        "esp": "Blanco",
+        "idioma": "pïtuxá",
+        "img": "assets/mixteco/aprender/colores/blanco.jpg"
+    }
+]

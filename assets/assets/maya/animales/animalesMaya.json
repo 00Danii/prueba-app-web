@@ -1,0 +1,117 @@
+[
+    {
+        "esp": "Águila",
+        "idioma": "kot",
+        "img": "assets/lecciones/animales/imagenes/aguila.png"
+    },
+    {
+        "esp": "Ajolote",
+        "idioma": "Sak Xiikin",
+        "img": "assets/lecciones/animales/imagenes/ajolote.png"
+    },
+    {
+        "esp": "Araña",
+        "idioma": "Aam",
+        "img": "assets/lecciones/animales/imagenes/araña.png"
+    },
+    {
+        "esp": "Ardilla",
+        "idioma": "Ku'uk",
+        "img": "assets/lecciones/animales/imagenes/ardilla.png"
+    },
+    {
+        "esp": "Armadillo",
+        "idioma": "Weech",
+        "img": "assets/lecciones/animales/imagenes/armadillo.png"
+    },
+    {
+        "esp": "Colibrí",
+        "idioma": "Ts'unu'un",
+        "img": "assets/lecciones/animales/imagenes/colibri.png"
+    },
+    {
+        "esp": "Conejo",
+        "idioma": "T'u'ul",
+        "img": "assets/lecciones/animales/imagenes/conejo.png"
+    },
+    {
+        "esp": "Cocodrilo",
+        "idioma": "Áayin",
+        "img": "assets/lecciones/animales/imagenes/cocodrilo.jpg"
+    },
+    {
+        "esp": "Escorpión",
+        "idioma": "Sina'an",
+        "img": "assets/lecciones/animales/imagenes/alacran.jpg"
+    },
+    {
+        "esp": "Gato Montés",
+        "idioma": "Miís",
+        "img": "assets/lecciones/animales/imagenes/gatoMontez.png"
+    },
+    {
+        "esp": "Iguana",
+        "idioma": "Juuj",
+        "img": "assets/lecciones/animales/imagenes/iguana.png"
+    },
+    {
+        "esp": "Jabalí, Verraco",
+        "idioma": "Kiitam",
+        "img": "assets/lecciones/animales/imagenes/jabali.png"
+    },
+    {
+        "esp": "Jaguar",
+        "idioma": "Chacmo'ol",
+        "img": "assets/lecciones/animales/imagenes/jaguar.png"
+    },
+    {
+        "esp": "Mapache",
+        "idioma": "K'uulú",
+        "img": "assets/lecciones/animales/imagenes/mapache.png"
+    },
+    {
+        "esp": "Mariposa",
+        "idioma": "Peepén",
+        "img": "assets/lecciones/animales/imagenes/mariposa.png"
+    },
+    {
+        "esp": "Mono",
+        "idioma": "Maax",
+        "img": "assets/lecciones/animales/imagenes/mono.jpg"
+    },
+    {
+        "esp": "Pájaro",
+        "idioma": "Ch'iich",
+        "img": "assets/lecciones/animales/imagenes/pajaro.png"
+    },
+    {
+        "esp": "Perro",
+        "idioma": "Peek",
+        "img": "assets/lecciones/animales/imagenes/perro.jpeg"
+    },
+    {
+        "esp": "Serpiente",
+        "idioma": "Kan",
+        "img": "assets/lecciones/animales/imagenes/serpiente.png"
+    },
+    {
+        "esp": "Tlacuache, Zarigüeya",
+        "idioma": "Ooch",
+        "img": "assets/lecciones/animales/imagenes/tlacuache.png"
+    },
+    {
+        "esp": "Tejón",
+        "idioma": "Chi'ik",
+        "img": "assets/lecciones/animales/imagenes/tejon.png"
+    },
+    {
+        "esp": "Venado, Ciervo",
+        "idioma": "Keeje",
+        "img": "assets/lecciones/animales/imagenes/venado.png"
+    },
+    {
+        "esp": "Zorro",
+        "idioma": "Ch'aamak",
+        "img": "assets/lecciones/animales/imagenes/zorro.png"
+    }
+]

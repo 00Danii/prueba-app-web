@@ -1,0 +1,47 @@
+[
+    {
+        "esp": "Blanco",
+        "idioma": "Snapapa",
+        "img": "assets/mixteco/aprender/colores/blanco.jpg"
+    },
+    {
+        "esp": "Negro",
+        "idioma": "Tsitseqe",
+        "img": "assets/mixteco/aprender/colores/negro.jpg"
+    },
+    {
+        "esp": "Rojo",
+        "idioma": "Spinini",
+        "img": "assets/mixteco/aprender/colores/rojo.jpg"
+    },
+    {
+        "esp": "Amarillo",
+        "idioma": "Smukuku",
+        "img": "assets/mixteco/aprender/colores/amarillo.jpg"
+    },
+    {
+        "esp": "Café",
+        "idioma": "Xqoniwa",
+        "img": "assets/mixteco/aprender/colores/cafe.jpg"
+    },
+    {
+        "esp": "Verde",
+        "idioma": "Xtáqni",
+        "img": "assets/mixteco/aprender/colores/verde.jpg"
+    },
+    {
+        "esp": "Azul",
+        "idioma": "Spupuku",
+        "img": "assets/mixteco/aprender/colores/azul.jpg"
+    },
+    {
+        "esp": "Naranja",
+        "idioma": "Laxuxwa",
+        "img": "assets/mixteco/aprender/colores/naranja.jpg"
+    },
+    {
+        "esp": "Morado",
+        "idioma": "Mantujwa",
+        "img": "assets/mixteco/aprender/colores/morado.jpg"
+    }
+]

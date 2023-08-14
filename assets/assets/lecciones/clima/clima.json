@@ -1,0 +1,87 @@
+[
+    {
+        "esp": "cielo",
+        "nah": "elhuicac",
+        "aud": "lecciones/clima/audios/elhuicac.mp3"
+    },
+    {
+        "esp": "despejado",
+        "nah": "tlayeccan",
+        "aud": "lecciones/clima/audios/tlayeccan.mp3"
+    },
+    {
+        "esp": "granizo, nieve",
+        "nah": "acetl",
+        "aud": "lecciones/clima/audios/acetl.mp3"
+    },
+    {
+        "esp": "hace calor",
+        "nah": "tlatotoniya",
+        "aud": "lecciones/clima/audios/tlatotoniya.mp3"
+    },
+    {
+        "esp": "hace frio",
+        "nah": "tlaceceya",
+        "aud": "lecciones/clima/audios/tlaceceya.mp3"
+    },
+    {
+        "esp": "hace mucho frio",
+        "nah": "tlahcehuetzi",
+        "aud": "lecciones/clima/audios/tlahcehuetzi.mp3"
+    },
+    {
+        "esp": "lluvia",
+        "nah": "tlaahuetzi",
+        "aud": "lecciones/clima/audios/tlaahuetzi.mp3"
+    },
+    {
+        "esp": "neblina",
+        "nah": "tlaahhuechhuetzi",
+        "aud": "lecciones/clima/audios/tlaahhuechhuetzi.mp3"
+    },
+    {
+        "esp": "nube",
+        "nah": "mixtli",
+        "aud": "lecciones/clima/audios/mixtli.mp3"
+    },
+    {
+        "esp": "nublado",
+        "nah": "tlamixtentoc",
+        "aud": "lecciones/clima/audios/tlamixtentoc.mp3"
+    },
+    {
+        "esp": "relámpago",
+        "nah": "tlahuitequi",
+        "aud": "lecciones/clima/audios/tlahuitequi.mp3"
+    },
+    {
+        "esp": "sol",
+        "nah": "tonatiuh",
+        "aud": "lecciones/clima/audios/tonatiuh.mp3"
+    },
+    {
+        "esp": "tengo calor",
+        "nah": "nipatzmiqui",
+        "aud": "lecciones/clima/audios/nipatzmiqui.mp3"
+    },
+    {
+        "esp": "tengo frio",
+        "nah": "nicececui",
+        "aud": "lecciones/clima/audios/nicececui.mp3"
+    },
+    {
+        "esp": "trueno",
+        "nah": "tlatomoni",
+        "aud": "lecciones/clima/audios/tlatomoni.mp3"
+    },
+    {
+        "esp": "viento",
+        "nah": "tlaeheca",
+        "aud": "lecciones/clima/audios/tlaeheca.mp3"
+    },
+    {
+        "esp": "viento",
+        "nah": "ehecatl",
+        "aud": "lecciones/clima/audios/ehecatl.mp3"
+    }
+]

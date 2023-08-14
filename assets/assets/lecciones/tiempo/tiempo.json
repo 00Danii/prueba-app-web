@@ -1,0 +1,137 @@
+[
+    {
+        "esp": "ahorita",
+        "nah": "namantzin",
+        "aud": "lecciones/tiempo/audios/namantzin.mp3"
+    },
+    {
+        "esp": "antier",
+        "nah": "huiptlaya",
+        "aud": "lecciones/tiempo/audios/huiptlaya.mp3"
+    },
+    {
+        "esp": "año, hoja",
+        "nah": "xihuitl",
+        "aud": "lecciones/tiempo/audios/xihuitl.mp3"
+    },
+    {
+        "esp": "ayer",
+        "nah": "yalhuaya",
+        "aud": "lecciones/tiempo/audios/yalhuaya.mp3"
+    },
+    {
+        "esp": "de día",
+        "nah": "tonayan",
+        "aud": "lecciones/tiempo/audios/tonayan.mp3"
+    },
+    {
+        "esp": "de madruga",
+        "nah": "cualcan",
+        "aud": "lecciones/tiempo/audios/cualcan.mp3"
+    },
+    {
+        "esp": "dos día después",
+        "nah": "nayopa",
+        "aud": "lecciones/tiempo/audios/nayopa.mp3"
+    },
+    {
+        "esp": "en ocho días",
+        "nah": "chicueyi",
+        "aud": "lecciones/tiempo/audios/chicueyi.mp3"
+    },
+    {
+        "esp": "en quince días",
+        "nah": "caxtoli",
+        "aud": "lecciones/tiempo/audios/caxtoli.mp3"
+    },
+    {
+        "esp": "hace ocho días",
+        "nah": "chicueyiya",
+        "aud": "lecciones/tiempo/audios/chicueyiya.mp3"
+    },
+    {
+        "esp": "hace quince días",
+        "nah": "caxtoliya",
+        "aud": "lecciones/tiempo/audios/caxtoliya.mp3"
+    },
+    {
+        "esp": "hora",
+        "nah": "cahuitl",
+        "aud": "lecciones/tiempo/audios/cahuitl.mp3"
+    },
+    {
+        "esp": "hoy, ahora",
+        "nah": "naman",
+        "aud": "lecciones/tiempo/audios/naman.mp3"
+    },
+    {
+        "esp": "luna, mes",
+        "nah": "metztli",
+        "aud": "lecciones/tiempo/audios/metztli.mp3"
+    },
+    {
+        "esp": "mañana",
+        "nah": "yohuatzinco",
+        "aud": "lecciones/tiempo/audios/yohuatzinco.mp3"
+    },
+    {
+        "esp": "mañana",
+        "nah": "moztla",
+        "aud": "lecciones/tiempo/audios/moztla.mp3"
+    },
+    {
+        "esp": "media noche",
+        "nah": "tlahcoyohual",
+        "aud": "lecciones/tiempo/audios/tlahcoyohual.mp3"
+    },
+    {
+        "esp": "medio dia",
+        "nah": "tlahcotona",
+        "aud": "lecciones/tiempo/audios/tlahcotona.mp3"
+    },
+    {
+        "esp": "minuto",
+        "nah": "pilcahuitzitzin",
+        "aud": "lecciones/tiempo/audios/pilcahuitzitzin.mp3"
+    },
+    {
+        "esp": "noche",
+        "nah": "tlayohua",
+        "aud": "lecciones/tiempo/audios/tlayohua.mp3"
+    },
+    {
+        "esp": "pasado mañana",
+        "nah": "huiptla",
+        "aud": "lecciones/tiempo/audios/huiptla.mp3"
+    },
+    {
+        "esp": "pronto",
+        "nah": "niman",
+        "aud": "lecciones/tiempo/audios/niman.mp3"
+    },
+    {
+        "esp": "tarde",
+        "nah": "tiotlac",
+        "aud": "lecciones/tiempo/audios/tiotlac.mp3"
+    },
+    {
+        "esp": "tardecita, el anocheser (vea tlaixcocomoca)",
+        "nah": "tlayohuaya",
+        "aud": "lecciones/tiempo/audios/tlayohuaya.mp3"
+    },
+    {
+        "esp": "tardecita, el anocheser (vea tlayohuaya)",
+        "nah": "tlaixcocomoca",
+        "aud": "lecciones/tiempo/audios/tlaixcocomoca.mp3"
+    },
+    {
+        "esp": "ya casi es medio día",
+        "nah": "tlahcotonaya",
+        "aud": "lecciones/tiempo/audios/tlahcotonaya.mp3"
+    },
+    {
+        "esp": "ya es muy noche",
+        "nah": "neltlayohuatocca",
+        "aud": "lecciones/tiempo/audios/neltlayohuatocca.mp3"
+    }
+]

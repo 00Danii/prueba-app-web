@@ -1,0 +1,107 @@
+[
+    {
+        "esp": "Agricultura de tala y quema",
+        "nah": "Tlahchinoa",
+        "aud": "lecciones/agricultura/audios/tlahchinoa.mp3"
+    },
+    {
+        "esp": "Azadón",
+        "nah": "Azadon",
+        "aud": "lecciones/agricultura/audios/azadon.mp3"
+    },
+    {
+        "esp": "azadonar, escardar",
+        "nah": "tlamehua",
+        "aud": "lecciones/agricultura/audios/tlamehua.mp3"
+    },
+    {
+        "esp": "chapolear",
+        "nah": "tlaixhuitequi",
+        "aud": "lecciones/agricultura/audios/tlaixhuitequi.mp3"
+    },
+    {
+        "esp": "cosechar",
+        "nah": "pixca",
+        "aud": "lecciones/agricultura/audios/pixca.mp3"
+    },
+    {
+        "esp": "deshierbar",
+        "nah": "tlaxihuimacui",
+        "aud": "lecciones/agricultura/audios/tlaxihuimacui.mp3"
+    },
+    {
+        "esp": "estaca de metal",
+        "nah": "pixco",
+        "aud": "lecciones/agricultura/audios/pixco.mp3"
+    },
+    {
+        "esp": "excavador",
+        "nah": "cavadora",
+        "aud": "lecciones/agricultura/audios/cavadora.mp3"
+    },
+    {
+        "esp": "fumigar",
+        "nah": "tlapahtia",
+        "aud": "lecciones/agricultura/audios/tlapahtia.mp3"
+    },
+    {
+        "esp": "limas",
+        "nah": "alima",
+        "aud": "lecciones/agricultura/audios/alima.mp3"
+    },
+    {
+        "esp": "machete",
+        "nah": "macheteh",
+        "aud": "lecciones/agricultura/audios/macheteh.mp3"
+    },
+    {
+        "esp": "milpa",
+        "nah": "milli",
+        "aud": "lecciones/agricultura/audios/milli.mp3"
+    },
+    {
+        "esp": "pala",
+        "nah": "pala",
+        "aud": "lecciones/agricultura/audios/pala.mp3"
+    },
+    {
+        "esp": "pico",
+        "nah": "pico",
+        "aud": "lecciones/agricultura/audios/pico.mp3"
+    },
+    {
+        "esp": "planta de maíz seca",
+        "nah": "toccuahuitl",
+        "aud": "lecciones/agricultura/audios/toccuahuitl.mp3"
+    },
+    {
+        "esp": "plantador",
+        "nah": "cuatlatoctli",
+        "aud": "lecciones/agricultura/audios/cuatlatoctli.mp3"
+    },
+    {
+        "esp": "plantita de maíz",
+        "nah": "toctli",
+        "aud": "lecciones/agricultura/audios/toctli.mp3"
+    },
+    {
+        "esp": "regar las plantas",
+        "nah": "tlaahatequia",
+        "aud": "lecciones/agricultura/audios/tlaahatequia.mp3"
+    },
+    {
+        "esp": "Sembrar algo",
+        "nah": "toca",
+        "aud": "lecciones/agricultura/audios/toca.mp3"
+    },
+    {
+        "esp": "semilla para sembrar",
+        "nah": "xinachtli",
+        "aud": "lecciones/agricultura/audios/xinachtli.mp3"
+    },
+    {
+        "esp": "tumbar tronco",
+        "nah": "cuatzontequi",
+        "aud": "lecciones/agricultura/audios/cuatzontequi.mp3"
+    }
+]

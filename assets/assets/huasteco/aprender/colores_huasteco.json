@@ -1,0 +1,42 @@
+[
+    {
+        "esp": "Amarillo",
+        "idioma": "Manū",
+        "img": "assets/mixteco/aprender/colores/amarillo.jpg"
+    },
+    {
+        "esp": "Azul",
+        "idioma": "Yasny",
+        "img": "assets/mixteco/aprender/colores/azul.jpg"
+    },
+    {
+        "esp": "Blanco",
+        "idioma": "Thakni’",
+        "img": "assets/mixteco/aprender/colores/blanco.jpg"
+    },
+    {
+        "esp": "Café",
+        "idioma": "Tsōkoy",
+        "img": "assets/mixteco/aprender/colores/cafe.jpg"
+    },
+    {
+        "esp": "Morado",
+        "idioma": "Aku’",
+        "img": "assets/mixteco/aprender/colores/morado.jpg"
+    },
+    {
+        "esp": "Negro",
+        "idioma": "T’unū",
+        "img": "assets/mixteco/aprender/colores/negro.jpg"
+    },
+    {
+        "esp": "Rojo",
+        "idioma": "Tsaknī",
+        "img": "assets/mixteco/aprender/colores/rojo.jpg"
+    },
+    {
+        "esp": "Verde",
+        "idioma": "Yashu’",
+        "img": "assets/mixteco/aprender/colores/verde.jpg"
+    }
+]

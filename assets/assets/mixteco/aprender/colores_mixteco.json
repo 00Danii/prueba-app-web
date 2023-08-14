@@ -1,0 +1,47 @@
+[
+    {
+        "esp": "Blanco",
+        "idioma": "Kuixhi",
+        "img": "assets/mixteco/aprender/colores/blanco.jpg"
+    },
+    {
+        "esp": "Negro",
+        "idioma": "Nuu",
+        "img": "assets/mixteco/aprender/colores/negro.jpg"
+    },
+    {
+        "esp": "Morado",
+        "idioma": "Yuba tayoo",
+        "img": "assets/mixteco/aprender/colores/morado.jpg"
+    },
+    {
+        "esp": "Rojo",
+        "idioma": "Kua'a",
+        "img": "assets/mixteco/aprender/colores/rojo.jpg"
+    },
+    {
+        "esp": "Verde",
+        "idioma": "Kuii",
+        "img": "assets/mixteco/aprender/colores/verde.jpg"
+    },
+    {
+        "esp": "Naranja",
+        "idioma": "Tikuaa",
+        "img": "assets/mixteco/aprender/colores/naranja.jpg"
+    },
+    {
+        "esp": "Amarillo",
+        "idioma": "Kuaan",
+        "img": "assets/mixteco/aprender/colores/amarillo.jpg"
+    },
+    {
+        "esp": "Azul",
+        "idioma": "Nchaa",
+        "img": "assets/mixteco/aprender/colores/azul.jpg"
+    },
+    {
+        "esp": "Café",
+        "idioma": "Ya'a",
+        "img": "assets/mixteco/aprender/colores/cafe.jpg"
+    }
+]

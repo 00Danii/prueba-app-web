@@ -1,0 +1,51 @@
+[
+    {
+        "tituloEspanol": "Luna llena",
+        "tituloIdioma": "Chicauhmeztli",
+        "contenidoIdioma": "Chicauhmeztli*Iztacmeztli**Ixaxayac*Malacachtli*Ilhuicatlenco*Tepetemo**Chicauhmeztli*yohualmeztli",
+        "contenidoEspanol": "Luna llena*luna blanca**Redondita*de la cara*sube al cielo*sube al monte**luna llena*de la noche",
+        "img": "assets/lecturas/imagenes/lecturaLuna.png"
+    },
+    {
+        "tituloIdioma": "Nehua ni Tecolotzintli",
+        "tituloEspanol": "Yo soy el Tecolotito",
+        "contenidoEspanol": "Yo soy el Tecolotito*que canta por la mañana*Yo soy el Tecolotito*que canta por la mañana**te cu ricu ricu ricu*te cu ricu ricu ricu*Yo soy el Tecolotito*que canta por la mañana",
+        "contenidoIdioma": "Nehua ni Tecolotzintli*nimo cuicatia ica cualcan*Nehua ni Tecolotzintli*nimo cuicatia cualcan**te cu ricu ricu ricu*te cu ricu ricu ricu*Nehua niiiii Tecolotzintli*nimo cuicatia ica cualcan",
+        "img": "assets/lecturas/imagenes/lecturaTecolote.png"
+    },
+    {
+        "tituloIdioma": "Miltequicuicatl",
+        "tituloEspanol": "Canción del agricultor",
+        "contenidoEspanol": "No se rían, no se rían, abuelitos*sin aliento, sin aliento, hijitos*calurosas, calurosas, milpitas*sin lluvia, sin lluvia, nubecitas**ya sube el agua*ya se nubla*ya truena*padrecitos*sembremos*trabajemos*para satisfacer*nuestros estomaguitos**come la tuza, come la tuza, las matitas*ya se enyerban, ya se enyerban, los zurquitos*dale un flechazo, dale un flechazo a la tuza*desyerbemos, desyerbemos las tierritas**labor primera*labor segunda*laboremos*el maicito*así siempre*desganado*panza de fuera*mi padrecito**ardillita, ardillita*no te comas mi maíz*aquí viene mi patrón*y un flechazo te dará*y en tamales te comerá*¡oh, oh, oh, oh!*¡oh, oh, oh, oh!*¡oh, oh, oh, oh!",
+        "contenidoIdioma": "Amo huetzca, amo huetzca, coltzitzi*totochehui, totochehui, piltzitzi*tonalhulo, tonalhuilo, milzitzi*amo quiahui, amo quiahui, mixtzitzi**ye atlehcahuilo*ye tia mixtemi*tia cuacualaca*tahtzizi**ma toquihua*ma tequitihua*oncan pachihuiz*tohtitzi**tozancualo, tozancualo, tocatzi*ye xihuilo, ye xinuiio, cueñtzitzi*tlaztimina, tlaztimina, tozantzi*xiximina, xiximina, tlaltzitzi**mo eecehuia*mo omehuia*mo tlalhuia*tlaoltzi**iquin nochipa*mo zotlacnequi*zan pañi ihtipetl*no tahtzi**techalotl, techalotl amo xi*concua no tlatlaol oncan hualaz*no teco mitzon nanaca tamaloz*¡oh, oh, oh, oh!*¡oh, oh, oh, oh!*¡oh, oh, oh, oh!",
+        "img": "assets/lecturas/imagenes/lecturaCampesino.png"
+    },
+    {
+        "tituloEspanol": "Duerme, duerme",
+        "tituloIdioma": "Cochiz cochiz",
+        "contenidoIdioma": "Cochiz cochiz cochiz*nopiltzin noyolotl*cochiz cochiz cochiz*nopiltzin noyolotl**xicochi xicochi*noyolotzin*noxochitzin*nocihulpitzin**xicochi xicochi*noyolotzin*nocelotzin*",
+        "contenidoEspanol": "Duerme, duerme, duerme*mi niño, mi corazón*duerme, duerme, duerme*mi niño, mi corazón**Duerme, duerme*mi corazoncito*mi florecita*mi princesita**Duerme, duerme*mi corazoncito*mi ocelotito*mi niñito",
+        "img": "assets/lecturas/imagenes/lecturaDuerme.png"
+    },
+    {
+        "tituloEspanol": "Guarda esta flor",
+        "tituloIdioma": "Xiquiyehua",
+        "contenidoEspanol": "Guarda esta flor*guárdala en tu corazón*porque yo a ti te amo*porque yo a ti te amo*con todo mi corazón*con todo mi corazón...",
+        "contenidoIdioma": "Xiquiyehua in xóchitl*xiquiyehua ipan noyólotl*i pampa ni mitztlazotla*i pampa ni mitztlazotla*ica mochi noyólo*ica mochi noyólo...",
+        "img": "assets/lecturas/imagenes/lecturaRosa.jpg"
+    },
+    {
+        "tituloEspanol": "Estoy feliz",
+        "tituloIdioma": "Axcan no paqui",
+        "contenidoIdioma": "Axcan ni paqui ni paqui ne*Axcan ni paqui ni paqui ne**Huchca ni huala*Xochitl no tlahtol**Axcan ni paqui ni paqui ne...**Xochitl no yolo*axcan cueponi*Axcan ni paqui ni paqui ne**Nican no chatzin*cualtzin altepetl**Axcan ni paqui ni paqui ne**Nohuan xihuala*cualtzin no yolo*Axcan ni paqui ni paqui ne",
+        "contenidoEspanol": "Estoy feliz, feliz estoy*Estoy feliz, feliz estoy**Vengo de lejos*Flor es mi canto**Estoy feliz, feliz estoy...**Nacen flores*de mi corazón**Estoy feliz, feliz estoy**Aquí yo vivo*lindo es mi pueblo**Estoy feliz, feliz estoy**Vengan aquí*balla es mi alma*Estoy feliz, feliz estoy",
+        "img": "assets/lecturas/imagenes/felicidad.png"
+    },
+    {
+        "tituloEspanol": "Señora Santa Ana",
+        "tituloIdioma": "Cihuatzin Santa Ana",
+        "contenidoIdioma": "Cihuatzin Santa Ana*tleica choca in conetl*pampa in xochicualli*yenhua oquepolo**ammo xichoca ce*nimitzmaca ome*ma xic huicacan*ihuaxcan totcotzin**Cihuatzin Santa Ana*tleica choca in conetl*pampa in xochicualli*yenhua oquepolo**xi cochi noconetl*xi cochi notlazoh*xicoche nopiltzin*i noyolotzin**Cihuatzin Santa Ana*tleica choca in conetl*pampa in xochicualli*yenhua oquepolo**tocitzin Santa Ana*huan coltzin Joaquin*inin xochitlalpan*ipan xochitlali**Cihuatzin Santa Ana*tleica choca in conetl*pampa in xochicualli*yenhua oquepolo**coztic tlatzilinque*ma xic tzitzilinc*inin huey teotlazoh*matlatzotzontla",
+        "contenidoEspanol": "Señora Santa Ana*porque llora el niño*por una manzana*que se le ha perdido**no llores por una*yo te daré dos*que vengan por ellas*que son las de Dios**Señora Santa Ana*porque llora el niño*por una manzana*que se le ha perdido**duerme mi niño*duérmete mi amor*duérmete pedazo de mi corazón**Señora Santa Ana*porque llora el niño*por una manzana*que se le ha perdido**Usted es abuela Santa Ana*y abuelo San Joaquin*de la primavera*en este jardín**Señora Santa Ana*porque llora el niño*por una manzana*que se le ha perdido**campanita de oro*sigue replicando*este gran tesoro*que siga soñando",
+        "img": "assets/lecturas/imagenes/lecturaSantana.JPG"
+    }
+]

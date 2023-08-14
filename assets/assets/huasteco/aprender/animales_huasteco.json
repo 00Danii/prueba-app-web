@@ -1,0 +1,112 @@
+[
+    {
+        "esp": "Ardilla",
+        "idioma": "Ot’el",
+        "img": "assets/lecciones/animales/imagenes/ardilla.png"
+    },
+    {
+        "esp": "Armadillo",
+        "idioma": "Bat’a",
+        "img": "assets/lecciones/animales/imagenes/armadillo.png"
+    },
+    {
+        "esp": "Caballo",
+        "idioma": "Bichim",
+        "img": "assets/mixteco/aprender/animales/caballo.png"
+    },
+    {
+        "esp": "Conejo",
+        "idioma": "Koy",
+        "img": "assets/lecciones/animales/imagenes/conejo.png"
+    },
+    {
+        "esp": "Coyote",
+        "idioma": "Chuch",
+        "img": "assets/lecciones/animales/imagenes/coyote.png"
+    },
+    {
+        "esp": "Gato",
+        "idioma": "Mitsu’o",
+        "img": "assets/lecciones/animales/imagenes/gatoMontez.png"
+    },
+    {
+        "esp": "Jabalí",
+        "idioma": "Alte’ol",
+        "img": "assets/lecciones/animales/imagenes/jabali.png"
+    },
+    {
+        "esp": "Mapache",
+        "idioma": "Éthem",
+        "img": "assets/lecciones/animales/imagenes/mapache.png"
+    },
+    {
+        "esp": "Murciélago",
+        "idioma": "Thut",
+        "img": "assets/imagenes/animales/murcielago.png"
+    },
+    {
+        "esp": "Perro",
+        "idioma": "Pik'o",
+        "img": "assets/mixteco/aprender/animales/perro.jpg"
+    },
+    {
+        "esp": "Rata",
+        "idioma": "Te'el",
+        "img": "assets/mixteco/aprender/animales/rata.png"
+    },
+    {
+        "esp": "Tlacuache",
+        "idioma": "Ut",
+        "img": "assets/lecciones/animales/imagenes/tlacuache.png"
+    },
+    {
+        "esp": "Toro",
+        "idioma": "Toro",
+        "img": "assets/otomi/aprender/animales/toro.png"
+    },
+    {
+        "esp": "Vaca",
+        "idioma": "Pakash",
+        "img": "assets/mixteco/aprender/animales/vaca.png"
+    },
+    {
+        "esp": "Venado",
+        "idioma": "Itsamal",
+        "img": "assets/lecciones/animales/imagenes/venado.png"
+    },
+    {
+        "esp": "Colibrí",
+        "idioma": "Chunūn",
+        "img": "assets/lecciones/animales/imagenes/colibri.png"
+    },
+    {
+        "esp": "Cuervo",
+        "idioma": "Tsok",
+        "img": "assets/imagenes/animales/cuervo.png"
+    },
+    {
+        "esp": "Tecolote",
+        "idioma": "Wajuts",
+        "img": "assets/lecturas/imagenes/lecturaTecolote.png"
+    },
+    {
+        "esp": "Araña",
+        "idioma": "Ām",
+        "img": "assets/lecciones/animales/imagenes/araña.png"
+    },
+    {
+        "esp": "Mariposa",
+        "idioma": "Lem",
+        "img": "assets/lecciones/animales/imagenes/mariposa.png"
+    },
+    {
+        "esp": "Iguana",
+        "idioma": "Salich",
+        "img": "assets/lecciones/animales/imagenes/iguana.png"
+    },
+    {
+        "esp": "Serpiente",
+        "idioma": "Tsan",
+        "img": "assets/lecciones/animales/imagenes/serpiente.png"
+    }
+]

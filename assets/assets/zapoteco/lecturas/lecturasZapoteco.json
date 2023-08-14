@@ -1,0 +1,26 @@
+[
+    {
+        "tituloEspanol": "Vergüenza",
+        "tituloIdioma": "Xtuí",
+        "contenidoEspanol": "Pon el filo*de la luna sobre tus ojos*y corta*vergüenza que se esconde*en tu canica de tierra.**Llora espejos enterrados*hasta que desaparezca la niña.",
+        "contenidoIdioma": "Gula’qui’ xtuxhu*beeu guielúlu’*ne bichuugu’ xtuí nucachilú*ndaani’ xpidola yulu’.**Biina’ guiehuana’ daabilú’*de ra guixiá dxaapahuiini’ nuu ndaani’ guielulu’.",
+        "img": "assets/zapoteco/lecturas/imagenes/verguenza.png"
+    },
+
+    {
+        "tituloEspanol": "Ojo de volcán",
+        "tituloIdioma": "Guielú dani guí",
+        "contenidoEspanol": "En el ruedo un toro*escarba el mundo con las pezuñas:*me espera.**Yo paso dormida sobre una nube*y me arrojo.",
+        "contenidoIdioma": "Ndaani’ ti le’ yuze zuguaa*cagaañe guidxilayú ne dxita ñee:*cabeza naa.**Naa ridide’ nisiaase’ luguiá’ ti za guiba’*ne riuaabie’ ra nuume.",
+        "img": "assets/zapoteco/lecturas/imagenes/volcan.png"
+    },
+
+
+    {
+        "tituloEspanol": "Pinta callejera",
+        "tituloIdioma": "Tie’neza",
+        "contenidoEspanol": "Todos buscan algo en la vida*un perro*un cielo*el sombrero*todos buscan algo*un caracol*una vela*un camino*todos buscan*un libro donde aparezca escrito lo que se busca en la vida.",
+        "contenidoIdioma": "Guira’ ruyubi xixha lu guedanabani*Ti bi’ cu’*Ti guiba’*Guidi banda*Guira’ ruyubi xixha*Ti bi’ chube*Ti gui’ ri’*Ti neza*Guira’ ruyubi*Ti xquiapadidxha ra guidxeela ca guenda ruyubi*lu guendanabani.",
+        "img": "assets/zapoteco/lecturas/imagenes/libro.png"
+    }
+]

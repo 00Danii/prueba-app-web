@@ -1,0 +1,117 @@
+[
+    {
+        "esp": "árbol, madera",
+        "nah": "Cuahuitl",
+        "aud": "lecciones/naturaleza/audios/cuahuitl.mp3"
+    },
+    {
+        "esp": "cascara de fruta o palo",
+        "nah": "ipetlayo",
+        "aud": "lecciones/naturaleza/audios/ipetlayo.mp3"
+    },
+    {
+        "esp": "cempasíchil (flor de muertos)",
+        "nah": "cempohualxochitl",
+        "aud": "lecciones/naturaleza/audios/cempohualxochitl.mp3"
+    },
+    {
+        "esp": "cerro",
+        "nah": "tepetl",
+        "aud": "lecciones/naturaleza/audios/tepetl.mp3"
+    },
+    {
+        "esp": "espina",
+        "nah": "Huitztli",
+        "aud": "lecciones/naturaleza/audios/huitztli.mp3"
+    },
+    {
+        "esp": "flor",
+        "nah": "xochitl",
+        "aud": "lecciones/naturaleza/audios/xochitl.mp3"
+    },
+    {
+        "esp": "hoja",
+        "nah": "xihuitl",
+        "aud": "lecciones/naturaleza/audios/xihuitl.mp3"
+    },
+    {
+        "esp": "lodo",
+        "nah": "zoquitl",
+        "aud": "lecciones/naturaleza/audios/zoquitl.mp3"
+    },
+    {
+        "esp": "mano de leon (Celosia cristata)",
+        "nah": "cuapelexochitl",
+        "aud": "lecciones/naturaleza/audios/cuapelexochitl.mp3"
+    },
+    {
+        "esp": "monte, bosque",
+        "nah": "cuatitlan",
+        "aud": "lecciones/naturaleza/audios/cuatitlan.mp3"
+    },
+    {
+        "esp": "oceano, lago o mar",
+        "nah": "Hueyi Atl",
+        "aud": "lecciones/naturaleza/audios/hueyi_atl.mp3"
+    },
+    {
+        "esp": "raíz",
+        "nah": "itzonyo",
+        "aud": "lecciones/naturaleza/audios/itzonyo.mp3"
+    },
+    {
+        "esp": "raíz",
+        "nah": "inelhuayo",
+        "aud": "lecciones/naturaleza/audios/inelhuayo.mp3"
+    },
+    {
+        "esp": "rama del árbol",
+        "nah": "imacuayo",
+        "aud": "lecciones/naturaleza/audios/imacuayo.mp3"
+    },
+    {
+        "esp": "rio",
+        "nah": "apan",
+        "aud": "lecciones/naturaleza/audios/apan.mp3"
+    },
+    {
+        "esp": "Savia de arbol o flor",
+        "nah": "iezzo",
+        "aud": "lecciones/naturaleza/audios/iezzo.mp3"
+    },
+    {
+        "esp": "semilla de fruta",
+        "nah": "Iyollo",
+        "aud": "lecciones/naturaleza/audios/iyollo.mp3"
+    },
+    {
+        "esp": "Sendero",
+        "nah": "cuaohtli",
+        "aud": "lecciones/naturaleza/audios/cuaohtli.mp3"
+    },
+    {
+        "esp": "tierra",
+        "nah": "tlalli",
+        "aud": "lecciones/naturaleza/audios/tlalli.mp3"
+    },
+    {
+        "esp": "tronco de un árbol",
+        "nah": "cuatomactli",
+        "aud": "lecciones/naturaleza/audios/cuatomactli.mp3"
+    },
+    {
+        "esp": "vara o ramita",
+        "nah": "cuapipitztli",
+        "aud": "lecciones/naturaleza/audios/cuapipitztli.mp3"
+    },
+    {
+        "esp": "viento, aire",
+        "nah": "ehecatl",
+        "aud": "lecciones/naturaleza/audios/ehecatl.mp3"
+    },
+    {
+        "esp": "zacate",
+        "nah": "Zacatl",
+        "aud": "lecciones/naturaleza/audios/zacatl.mp3"
+    }
+]

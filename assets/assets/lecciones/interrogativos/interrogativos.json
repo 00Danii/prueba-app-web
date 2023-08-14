@@ -1,0 +1,47 @@
+[
+    {
+        "esp": "¿qué?",
+        "nah": "Tlen?",
+        "aud": "lecciones/interrogativos/audios/tlen.mp3"
+    },
+    {
+        "esp": "¿cual?",
+        "nah": "Cantliya?",
+        "aud": "lecciones/interrogativos/audios/catlinya.mp3"
+    },
+    {
+        "esp": "¿donde?",
+        "nah": "Canin?",
+        "aud": "lecciones/interrogativos/audios/canin.mp3"
+    },
+    {
+        "esp": "¿cuando?",
+        "nah": "Quemman?",
+        "aud": "lecciones/interrogativos/audios/quemman.mp3"
+    },
+    {
+        "esp": "¿por qué?",
+        "nah": "Quenque?",
+        "aud": "lecciones/interrogativos/audios/quenque.mp3"
+    },
+    {
+        "esp": "¿quein?",
+        "nah": "Acquiya?",
+        "aud": "lecciones/interrogativos/audios/acquiya.mp3"
+    },
+    {
+        "esp": "¿quién?",
+        "nah": "Acquiya?",
+        "aud": "lecciones/interrogativos/audios/acquiya.mp3"
+    },
+    {
+        "esp": "¿de quién?",
+        "nah": "Tlen Acquiya?",
+        "aud": "lecciones/interrogativos/audios/tlen_acquiya.mp3"
+    },
+    {
+        "esp": "¿cómo?",
+        "nah": "Queniuhqui?",
+        "aud": "lecciones/interrogativos/audios/queniuhqui.mp3"
+    }
+]

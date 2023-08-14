@@ -1,0 +1,82 @@
+[
+    {
+        "esp": "Bueno (denota aprobación)",
+        "nah": "huenoh",
+        "aud": "lecciones/saludos/audios/huenoh.mp3"
+    },
+    {
+        "esp": "De Nada",
+        "nah": "axtlen",
+        "aud": "lecciones/saludos/audios/axtlen.mp3"
+    },
+    {
+        "esp": "Esta bien",
+        "nah": "cualtitoc",
+        "aud": "lecciones/saludos/audios/cualtitoc.mp3"
+    },
+    {
+        "esp": "Gracias",
+        "nah": "tlazcamati",
+        "aud": "lecciones/saludos/audios/tlazcamati.mp3"
+    },
+    {
+        "esp": "Hola (usado por coyomeh)",
+        "nah": "piyali",
+        "aud": "lecciones/saludos/audios/piyali.mp3"
+    },
+    {
+        "esp": "Lo Siento",
+        "nah": "xinechtlapopolhui",
+        "aud": "lecciones/saludos/audios/xinechtlapopolhui.mp3"
+    },
+    {
+        "esp": "No",
+        "nah": "axcanah",
+        "aud": "lecciones/saludos/audios/axcanah.mp3"
+    },
+    {
+        "esp": "No Hay",
+        "nah": "axoncah",
+        "aud": "lecciones/saludos/audios/axoncah.mp3"
+    },
+    {
+        "esp": "nos vemos (adios)",
+        "nah": "timoittazcehyoc",
+        "aud": "lecciones/saludos/audios/timoittazcehyoc.mp3"
+    },
+    {
+        "esp": "Nos vemos al rato",
+        "nah": "timoittazceh",
+        "aud": "lecciones/saludos/audios/timoittazceh.mp3"
+    },
+    {
+        "esp": "Problema",
+        "nah": "cualantli",
+        "aud": "lecciones/saludos/audios/cualantli.mp3"
+    },
+    {
+        "esp": "Que Onda",
+        "nah": "tlen panoc",
+        "aud": "lecciones/saludos/audios/tlen_panoc.mp3"
+    },
+    {
+        "esp": "Saludo",
+        "nah": "niyohua",
+        "aud": "lecciones/saludos/audios/niyohua.mp3"
+    },
+    {
+        "esp": "saludo (usadado entre macehualmeh)",
+        "nah": "nimitztlahpaloz",
+        "aud": "lecciones/saludos/audios/nimitztlahpaloz.mp3"
+    },
+    {
+        "esp": "Saludo (usado entre hombres)",
+        "nah": "timomelahuah",
+        "aud": "lecciones/saludos/audios/timomelahuah.mp3"
+    },
+    {
+        "esp": "Si",
+        "nah": "quena",
+        "aud": "lecciones/saludos/audios/quena.mp3"
+    }
+]

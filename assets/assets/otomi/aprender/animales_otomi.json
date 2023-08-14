@@ -1,0 +1,58 @@
+[
+    {
+        "esp": "asno",
+        "idioma": "nöndo",
+        "img": "assets/otomi/aprender/animales/asno.png"
+    },
+    {
+        "esp": "borrego",
+        "idioma": "dëti",
+        "img": "assets/otomi/aprender/animales/borrego.png"
+    },
+    {
+        "esp": "caballo negro",
+        "idioma": "b’ofri",
+        "img": "assets/otomi/aprender/animales/caballoNegro.jpg"
+    },
+    {
+        "esp": "abeja",
+        "idioma": "sefi",
+        "img": "assets/otomi/aprender/animales/abeja.png"
+    },
+    {
+        "esp": "búfalo",
+        "idioma": "hyote",
+        "img": "assets/otomi/aprender/animales/bufalo.png"
+    },
+    {
+        "esp": "caballo",
+        "idioma": "fani",
+        "img": "assets/mixteco/aprender/animales/caballo.png"
+    },
+    {
+        "esp": "conejo",
+        "idioma": "jua, b’anjua",
+        "img": "assets/lecciones/animales/imagenes/conejo.png"
+    },
+    {
+        "esp": "iguana",
+        "idioma": "b’ëxhni",
+        "img": "assets/lecciones/animales/imagenes/iguana.png"
+        
+    },
+    {
+        "esp": "perro",
+        "idioma": "tsaty’o",
+        "img": "assets/lecciones/animales/imagenes/perro.jpeg"
+    },
+    {
+        "esp": "toro",
+        "idioma": "doro",
+        "img": "assets/otomi/aprender/animales/toro.png"
+    },
+    {
+        "esp": "vaca",
+        "idioma": "baga, ndämfri (bos domesticus)",
+        "img": "assets/mixteco/aprender/animales/vaca.png"
+    }
+]

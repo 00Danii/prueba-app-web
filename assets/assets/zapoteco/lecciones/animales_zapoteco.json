@@ -1,0 +1,119 @@
+[
+    {
+        "esp": "ballena",
+        "idioma": "bela’daxhen",
+        "img": "assets/imagenes/animales/ballena.png"
+    },
+    {
+        "esp": "abejorro",
+        "idioma": "bezoj",
+        "img": "assets/otomi/aprender/animales/abeja.png"
+    },
+    {
+        "esp": "águila",
+        "idioma": "besia",
+        "img": "assets/lecciones/animales/imagenes/aguila.png"
+    },
+    {
+        "esp": "ardilla",
+        "idioma": "becheza’",
+        "img": "assets/lecciones/animales/imagenes/ardilla.png"
+    },
+    {
+        "esp": "armadillo",
+        "idioma": "begope’",
+        "img": "assets/lecciones/animales/imagenes/armadillo.png"
+    },
+    {
+        "esp": "asno, burro, jumento",
+        "idioma": "burh",
+        "img": "assets/otomi/aprender/animales/asno.png"
+    },
+    
+    {
+        "esp": "búho, tecolote",
+        "idioma": "dam",
+        "img": "assets/lecturas/imagenes/lecturaTecolote.png"
+    },
+    {
+        "esp": "caballo, corcel",
+        "idioma": "cabayo",
+        "img": "assets/mixteco/aprender/animales/caballo.png"
+    },
+    {
+        "esp": "caimán, cocodrilo, lagarto",
+        "idioma": "wache’daxhen",
+        "img": "assets/lecciones/animales/imagenes/cocodrilo.jpg"
+    },
+    {
+        "esp": "cangrejo",
+        "idioma": "chobe’",
+        "img": "assets/imagenes/animales/cangrejo.png"
+    },
+    {
+        "esp": "conejo",
+        "idioma": "beshjea",
+        "img": "assets/lecciones/animales/imagenes/conejo.png"
+    },
+    {
+        "esp": "cordero",
+        "idioma": "me’xhila’",
+        "img": "assets/otomi/aprender/animales/borrego.png"
+    },
+    {
+        "esp": "coyote",
+        "idioma": "beco’yo",
+        "img": "assets/lecciones/animales/imagenes/coyote.png"
+    },
+    {
+        "esp": "gato",
+        "idioma": "xhid",
+        "img": "assets/mixteco/aprender/animales/gato.jpg"
+    },
+    {
+        "esp": "gato montés, lince",
+        "idioma": "xhid yixe’",
+        "img": "assets/lecciones/animales/imagenes/gatoMontez.png"
+    },
+    {
+        "esp": "iguana",
+        "idioma": "wache’xhej",
+        "img": "assets/lecciones/animales/imagenes/iguana.png"
+    },
+    {
+        "esp": "jabalí",
+        "idioma": "cosh yixe’",
+        "img": "assets/lecciones/animales/imagenes/jabali.png"
+    },
+    {
+        "esp": "jaguar",
+        "idioma": "beztao",
+        "img": "assets/lecciones/animales/imagenes/jaguar.png"
+    },
+
+    {
+        "esp": "lobo (canis lupus)",
+        "idioma": "bez beco’",
+        "img": "assets/mixteco/aprender/animales/lobo.png"
+    },
+    {
+        "esp": "mapache",
+        "idioma": "xbanyoj",
+        "img": "assets/lecciones/animales/imagenes/mapache.png"
+    },
+    {
+        "esp": "tiburón",
+        "idioma": "bez bela’",
+        "img": "assets/imagenes/animales/tiburon.png"
+    },
+    {
+        "esp": "venado, ciervo",
+        "idioma": "bezinha’yixe’",
+        "img": "assets/lecciones/animales/imagenes/venado.png"
+    },
+    {
+        "esp": "zorro",
+        "idioma": "beco’beza",
+        "img": "assets/lecciones/animales/imagenes/zorro.png"
+    }
+]

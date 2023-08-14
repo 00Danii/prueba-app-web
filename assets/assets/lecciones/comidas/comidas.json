@@ -1,0 +1,287 @@
+[
+    {
+        "esp": "aceite",
+        "nah": "aceyiteh",
+        "aud": "lecciones/comidas/audios/aceyiteh.mp3"
+    },
+    {
+        "esp": "agua",
+        "nah": "atl",
+        "aud": "lecciones/comidas/audios/atl.mp3"
+    },
+    {
+        "esp": "ajo",
+        "nah": "ahoz",
+        "aud": "lecciones/comidas/audios/ahoz.mp3"
+    },
+    {
+        "esp": "albondigas",
+        "nah": "tohtolon",
+        "aud": "lecciones/comidas/audios/tohtolon.mp3"
+    },
+    {
+        "esp": "alcohol, vino",
+        "nah": "huinoh",
+        "aud": "lecciones/comidas/audios/huinoh.mp3"
+    },
+    {
+        "esp": "algo sin sabor",
+        "nah": "acecec",
+        "aud": "lecciones/comidas/audios/acecec.mp3"
+    },
+    {
+        "esp": "amasar",
+        "nah": "xacualoa",
+        "aud": "lecciones/comidas/audios/xacualoa.mp3"
+    },
+    {
+        "esp": "atole",
+        "nah": "atolli",
+        "aud": "lecciones/comidas/audios/atolli.mp3"
+    },
+    {
+        "esp": "borracho",
+        "nah": "ihuintiquetl",
+        "aud": "lecciones/comidas/audios/ihuintiquetl.mp3"
+    },
+    {
+        "esp": "café",
+        "nah": "cafen",
+        "aud": "lecciones/comidas/audios/cafen.mp3"
+    },
+    {
+        "esp": "carne de pavo",
+        "nah": "totolnacatl",
+        "aud": "lecciones/comidas/audios/totolnacatl.mp3"
+    },
+    {
+        "esp": "carne de pollo",
+        "nah": "piyonacatl",
+        "aud": "lecciones/comidas/audios/piyonacatl.mp3"
+    },
+    {
+        "esp": "carne de puerco",
+        "nah": "pitzonacatl",
+        "aud": "lecciones/comidas/audios/pitzonacatl.mp3"
+    },
+    {
+        "esp": "carne de res",
+        "nah": "huacaxnacatl",
+        "aud": "lecciones/comidas/audios/huacaxnacatl.mp3"
+    },
+    {
+        "esp": "cebolla",
+        "nah": "ceboiz",
+        "aud": "lecciones/comidas/audios/ceboiz.mp3"
+    },
+    {
+        "esp": "cebollitas",
+        "nah": "xonacatl",
+        "aud": "lecciones/comidas/audios/xonacatl.mp3"
+    },
+    {
+        "esp": "cerveza, algo amargo",
+        "nah": "chichic",
+        "aud": "lecciones/comidas/audios/chichic.mp3"
+    },
+    {
+        "esp": "chile",
+        "nah": "chilli",
+        "aud": "lecciones/comidas/audios/chilli.mp3"
+    },
+    {
+        "esp": "cilantro",
+        "nah": "colantoh",
+        "aud": "lecciones/comidas/audios/colantoh.mp3"
+    },
+    {
+        "esp": "comino",
+        "nah": "cominaz",
+        "aud": "lecciones/comidas/audios/cominaz.mp3"
+    },
+    {
+        "esp": "cosas comestibles",
+        "nah": "tlacualiztli",
+        "aud": "lecciones/comidas/audios/tlacualiztli.mp3"
+    },
+    {
+        "esp": "coser alguna comida",
+        "nah": "ixca",
+        "aud": "lecciones/comidas/audios/ixca.mp3"
+    },
+    {
+        "esp": "dulce",
+        "nah": "tzopelic",
+        "aud": "lecciones/comidas/audios/tzopelic.mp3"
+    },
+    {
+        "esp": "enchiladas",
+        "nah": "chiltlaxcalli",
+        "aud": "lecciones/comidas/audios/chiltlaxcalli.mp3"
+    },
+    {
+        "esp": "freir",
+        "nah": "tzoyonia",
+        "aud": "lecciones/comidas/audios/tzoyonia.mp3"
+    },
+    {
+        "esp": "frijol",
+        "nah": "etl",
+        "aud": "lecciones/comidas/audios/etl.mp3"
+    },
+    {
+        "esp": "guayaba",
+        "nah": "chalchocotl",
+        "aud": "lecciones/comidas/audios/chalchocotl.mp3"
+    },
+    {
+        "esp": "hambre",
+        "nah": "mayantli",
+        "aud": "lecciones/comidas/audios/mayantli.mp3"
+    },
+    {
+        "esp": "hervir",
+        "nah": "moloni",
+        "aud": "lecciones/comidas/audios/moloni.mp3"
+    },
+    {
+        "esp": "hierba buena",
+        "nah": "alahhuenoh",
+        "aud": "lecciones/comidas/audios/alahhuenoh.mp3"
+    },
+    {
+        "esp": "hueso",
+        "nah": "omitl",
+        "aud": "lecciones/comidas/audios/omitl.mp3"
+    },
+    {
+        "esp": "limón",
+        "nah": "ilimon",
+        "aud": "lecciones/comidas/audios/ilimon.mp3"
+    },
+    {
+        "esp": "menear",
+        "nah": "cuaneloa",
+        "aud": "lecciones/comidas/audios/cuaneloa.mp3"
+    },
+    {
+        "esp": "mole, salsa, o chile molido",
+        "nah": "chilmolli",
+        "aud": "lecciones/comidas/audios/chilmolli.mp3"
+    },
+    {
+        "esp": "naranja",
+        "nah": "alaxox",
+        "aud": "lecciones/comidas/audios/alaxox.mp3"
+    },
+    {
+        "esp": "pájaro",
+        "nah": "tototl",
+        "aud": "lecciones/comidas/audios/tototl.mp3"
+    },
+    {
+        "esp": "pavo",
+        "nah": "totolin",
+        "aud": "lecciones/comidas/audios/totolin.mp3"
+    },
+    {
+        "esp": "picar",
+        "nah": "tehtequi",
+        "aud": "lecciones/comidas/audios/tehtequi.mp3"
+    },
+    {
+        "esp": "picar en pequañas porciones",
+        "nah": "ciloa",
+        "aud": "lecciones/comidas/audios/ciloa.mp3"
+    },
+    {
+        "esp": "picoso",
+        "nah": "cococ",
+        "aud": "lecciones/comidas/audios/cococ.mp3"
+    },
+    {
+        "esp": "piloncillo",
+        "nah": "chancacah",
+        "aud": "lecciones/comidas/audios/chancacah.mp3"
+    },
+    {
+        "esp": "pimienta",
+        "nah": "pimientah",
+        "aud": "lecciones/comidas/audios/pimientah.mp3"
+    },
+    {
+        "esp": "plátano",
+        "nah": "cuaxilotl",
+        "aud": "lecciones/comidas/audios/cuaxilotl.mp3"
+    },
+    {
+        "esp": "pollo",
+        "nah": "piyo",
+        "aud": "lecciones/comidas/audios/piyo.mp3"
+    },
+    {
+        "esp": "probar",
+        "nah": "machilia",
+        "aud": "lecciones/comidas/audios/machilia.mp3"
+    },
+    {
+        "esp": "puerco",
+        "nah": "pitzotl",
+        "aud": "lecciones/comidas/audios/pitzotl.mp3"
+    },
+    {
+        "esp": "revolver",
+        "nah": "maneloa",
+        "aud": "lecciones/comidas/audios/maneloa.mp3"
+    },
+    {
+        "esp": "sal",
+        "nah": "iztatl",
+        "aud": "lecciones/comidas/audios/iztatl.mp3"
+    },
+    {
+        "esp": "salado",
+        "nah": "poyec",
+        "aud": "lecciones/comidas/audios/poyec.mp3"
+    },
+    {
+        "esp": "soda",
+        "nah": "tzopelatl",
+        "aud": "lecciones/comidas/audios/tzopelatl.mp3"
+    },
+    {
+        "esp": "tamales",
+        "nah": "chichiquilli",
+        "aud": "lecciones/comidas/audios/chichiquilli.mp3"
+    },
+    {
+        "esp": "tener sed, sed",
+        "nah": "amiqui",
+        "aud": "lecciones/comidas/audios/amiqui.mp3"
+    },
+    {
+        "esp": "tener hambre",
+        "nah": "mayana",
+        "aud": "lecciones/comidas/audios/mayana.mp3"
+    },
+    {
+        "esp": "tipos de bebida",
+        "nah": "tlaoniliztli",
+        "aud": "lecciones/comidas/audios/tlaoniliztli.mp3"
+    },
+    {
+        "esp": "tomate",
+        "nah": "tomatl",
+        "aud": "lecciones/comidas/audios/tomatl.mp3"
+    },
+    {
+        "esp": "tortilla",
+        "nah": "tlaxcalli",
+        "aud": "lecciones/comidas/audios/tlaxcalli.mp3"
+    },
+    {
+        "esp": "vaca",
+        "nah": "huacax",
+        "aud": "lecciones/comidas/audios/huacax.mp3"
+    }
+]

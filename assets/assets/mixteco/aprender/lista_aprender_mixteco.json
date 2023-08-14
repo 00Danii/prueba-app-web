@@ -1,0 +1,29 @@
+[
+    {
+        "titulo": "Ti",
+        "subtitulo": "Animales",
+        "descripcion": "Animales en el idioma Mixteco.",
+        "icono": "assets/iconos/iniciales/animales.png",
+        "img": "assets/mixteco/aprender/animales/lobo.png",
+        "id": "leccionConImagen",
+        "ruta": "assets/mixteco/aprender/animales_mixteco.json"
+    },
+    {
+        "titulo": "Ka'vi",
+        "subtitulo": "Números",
+        "descripcion": "Aprende los numeros en mixteco.",
+        "icono": "assets/iconos/iniciales/numeros.png",
+        "img": "assets/lecciones/imagenes/numeros.png",
+        "id": "leccionDeMaps",
+        "ruta": ""
+    },
+    {
+        "titulo": "Koolor",
+        "subtitulo": "Colores",
+        "descripcion": "Colores en el idioma Mixteco.",
+        "icono": "assets/iconos/iniciales/colores.png",
+        "img": "assets/lecciones/imagenes/colores.png",
+        "id": "leccionConImagen",
+        "ruta": "assets/mixteco/aprender/colores_mixteco.json"
+    }
+]

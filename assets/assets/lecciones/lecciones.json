@@ -1,0 +1,170 @@
+[
+    {
+        "titulo": "Tlapalli",
+        "subtitulo": "Colores",
+        "descripcion": "Colores primarios, secundarios y derivados.",
+        "icono": "assets/iconos/iniciales/colores.png",
+        "img": "assets/lecciones/imagenes/colores.png",
+        "id": "lec01"
+    },
+    {
+        "titulo": "Nepowaltin",
+        "subtitulo": "Números",
+        "descripcion": "Números del 1 al 100",
+        "icono": "assets/iconos/iniciales/numeros.png",
+        "img": "assets/lecciones/imagenes/numeros.png",
+        "id": "lec02"
+    },
+    {
+        "titulo": "Chipahuac",
+        "subtitulo": "Animales",
+        "descripcion": "Animales en náhuatl.",
+        "icono": "assets/iconos/iniciales/animales.png",
+        "img": "assets/lecciones/imagenes/animales.png",
+        "id": "lec03"
+    },
+    {
+        "titulo": "Millacayotl",
+        "subtitulo": "Agricultura",
+        "descripcion": "Palabras referentes a la agricultura.",
+        "icono": "assets/iconos/iniciales/agricultura.png",
+        "img": "assets/lecciones/imagenes/agricultura.png",
+        "id": "lec04",
+        "data": "assets/lecciones/agricultura/agricultura.json"
+    },
+    {
+        "titulo": "Tlalizcayotl",
+        "subtitulo": "Clima",
+        "descripcion": "Estado del tiempo.",
+        "icono": "assets/iconos/iniciales/clima.png",
+        "img": "assets/lecciones/imagenes/clima.png",
+        "id": "lec05",
+        "data": "assets/lecciones/clima/clima.json"
+    },
+    {
+        "titulo": "Mitotl",
+        "subtitulo": "Celebraciones",
+        "descripcion": "Expresiones populares en náhuatl usadas en fiestas regionales.",
+        "icono": "assets/iconos/iniciales/m.png",
+        "img": "assets/lecciones/imagenes/celebraciones.png",
+        "id": "lec06",
+        "data": "assets/lecciones/celebraciones/celebraciones.json"
+    },
+    {
+        "titulo": "Tlacualli",
+        "subtitulo": "Comidas",
+        "descripcion": "Elementos de las comidas tradiconales mexicana.",
+        "icono": "assets/iconos/iniciales/t.png",
+        "img": "assets/lecciones/imagenes/comidas.png",
+        "id": "lec07",
+        "data": "assets/lecciones/comidas/comidas.json"
+    },
+    {
+        "titulo": "Miactin",
+        "subtitulo": "Direcciones",
+        "descripcion": "Lugares y direcciones en náhuatl.",
+        "icono": "assets/iconos/iniciales/m.png",
+        "img": "assets/lecciones/imagenes/lugares.png",
+        "id": "lec08",
+        "data": "assets/lecciones/direcciones/direcciones.json"
+    },
+    {
+        "titulo": "Ollinyotl",
+        "subtitulo": "Emociones",
+        "descripcion": "Sentimientos y emociones.",
+        "icono": "assets/iconos/iniciales/o.png",
+        "img": "assets/lecciones/imagenes/emociones.png",
+        "id": "lec09",
+        "data": "assets/lecciones/emociones/emociones.json"
+    },
+    {
+        "titulo": "Caltlamachtican",
+        "subtitulo": "Escuela",
+        "descripcion": "Palabras utilizadas en el ambito escolar.",
+        "icono": "assets/iconos/iniciales/c.png",
+        "img": "assets/lecciones/imagenes/escuela.png",
+        "id": "lec10",
+        "data": "assets/lecciones/escuela/escuela.json"
+    },
+    {
+        "titulo": " ",
+        "subtitulo": "Expresiones basicas",
+        "descripcion": "Dichos y expresiones populares.",
+        "icono": "assets/iconos/iniciales/x.png",
+        "img": "assets/lecciones/imagenes/expresiones.png",
+        "id": "lec11",
+        "data": "assets/lecciones/expresiones_basicas/expresiones_basicas.json"
+    },
+    {
+        "titulo": "Chantlacahuan",
+        "subtitulo": "Familia",
+        "descripcion": "Integrantes de la familia en náhuatl.",
+        "icono": "assets/iconos/iniciales/c.png",
+        "img": "assets/lecciones/imagenes/familia.png",
+        "id": "lec12",
+        "data": "assets/lecciones/familia/familia.json"
+    },
+    {
+        "titulo": "Nauhcalpan",
+        "subtitulo": "Naturaleza",
+        "descripcion": "Elementos de la naturaleza.",
+        "icono": "assets/iconos/iniciales/n.png",
+        "img": "assets/lecciones/imagenes/naturaleza.png",
+        "id": "lec13",
+        "data": "assets/lecciones/naturaleza/naturaleza.json"
+    },
+    {
+        "titulo": "Tetlapololiztli",
+        "subtitulo": "Saludos",
+        "descripcion": "Saludos en náhuatl.",
+        "icono": "assets/iconos/iniciales/saludos.png",
+        "img": "assets/lecciones/imagenes/saludos.png",
+        "id": "lec14",
+        "data": "assets/lecciones/saludos/saludos.json"
+    },
+    {
+        "titulo": "Axcancayotl",
+        "subtitulo": "Tiempo",
+        "descripcion": "Saludos en náhuatl.",
+        "icono": "assets/iconos/iniciales/tiempo.png",
+        "img": "assets/lecciones/imagenes/tiempo.png",
+        "id": "lec15",
+        "data": "assets/lecciones/tiempo/tiempo.json"
+    },
+    {
+        "titulo": "Neltiliztli",
+        "subtitulo": "Verbos",
+        "descripcion": "Verbos y acciones en náhuatl.",
+        "icono": "assets/iconos/iniciales/verbos.png",
+        "img": "assets/lecciones/imagenes/verbos.png",
+        "id": "lec16",
+        "data": "assets/lecciones/verbos/verbos.json"
+    },
+    {
+        "titulo": "Tlahtolana",
+        "subtitulo": "Interrogativos",
+        "descripcion": "Formas de hacer preguntas en náhuatl.",
+        "icono": "assets/iconos/iniciales/interrogativos.png",
+        "img": "assets/lecciones/imagenes/interrogaciones.png",
+        "id": "lec17",
+        "data": "assets/lecciones/interrogativos/interrogativos.json"
+    },
+    {
+        "titulo": "Nahuatia",
+        "subtitulo": "Imperactivos",
+        "descripcion": "Mandar o dar ordenes en náhuatl.",
+        "icono": "assets/iconos/iniciales/n.png",
+        "img": "assets/lecciones/imagenes/imperactivos.png",
+        "id": "lec18",
+        "data": "assets/lecciones/imperactivos/imperactivos.json"
+    },
+    {
+        "titulo": "Tlacoicpilli",
+        "subtitulo": "Posesivos",
+        "descripcion": "Palabras que indican pertenencia.",
+        "icono": "assets/iconos/iniciales/t.png",
+        "img": "assets/lecciones/imagenes/posesivos.png",
+        "id": "lec19",
+        "data": "assets/lecciones/posesivos/posesivos.json"
+    }
+]

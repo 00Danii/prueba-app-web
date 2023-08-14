@@ -1,0 +1,132 @@
+[
+    {
+        "esp": "mi abuela",
+        "nah": "nototatah",
+        "aud": "lecciones/familia/audios/nototatah.mp3"
+    },
+    {
+        "esp": "mi abuelo",
+        "nah": "notonanan",
+        "aud": "lecciones/familia/audios/notonanan.mp3"
+    },
+    {
+        "esp": "mi ahijado o ahijada",
+        "nah": "notioconeuh",
+        "aud": "lecciones/familia/audios/notioconeuh.mp3"
+    },
+    {
+        "esp": "mi cuñada (mujer a mujer)",
+        "nah": "nohuez",
+        "aud": "lecciones/familia/audios/nohuez.mp3"
+    },
+    {
+        "esp": "mi cuñado (hombre a hombre)",
+        "nah": "notex",
+        "aud": "lecciones/familia/audios/notex.mp3"
+    },
+    {
+        "esp": "mi cuñado (mujer a hombre)",
+        "nah": "nohuehpol",
+        "aud": "lecciones/familia/audios/nohuehpol.mp3"
+    },
+    {
+        "esp": "mi esposa",
+        "nah": "notenan",
+        "aud": "lecciones/familia/audios/notenan.mp3"
+    },
+    {
+        "esp": "mi hermana",
+        "nah": "nomimi",
+        "aud": "lecciones/familia/audios/nomimi.mp3"
+    },
+    {
+        "esp": "mi hermano",
+        "nah": "nopipi",
+        "aud": "lecciones/familia/audios/nopipi.mp3"
+    },
+    {
+        "esp": "mi hermano o hermana",
+        "nah": "Noicniuh",
+        "aud": "lecciones/familia/audios/noicniuh.mp3"
+    },
+    {
+        "esp": "mi madre",
+        "nah": "Noma",
+        "aud": "lecciones/familia/audios/noma.mp3"
+    },
+    {
+        "esp": "mi madrina",
+        "nah": "notionan",
+        "aud": "lecciones/familia/audios/notionan.mp3"
+    },
+    {
+        "esp": "mi marido, esposo",
+        "nah": "notetah",
+        "aud": "lecciones/familia/audios/notetah.mp3"
+    },
+    {
+        "esp": "mi mujer (esposa)",
+        "nah": "nocihuauh",
+        "aud": "lecciones/familia/audios/nocihuauh.mp3"
+    },
+    {
+        "esp": "mi nieto",
+        "nah": "noixhui",
+        "aud": "lecciones/familia/audios/noixhui.mp3"
+    },
+    {
+        "esp": "mi nuera",
+        "nah": "noyeyohhui",
+        "aud": "lecciones/familia/audios/noyeyohhui.mp3"
+    },
+    {
+        "esp": "mi padre",
+        "nah": "Nopa",
+        "aud": "lecciones/familia/audios/nopa.mp3"
+    },
+    {
+        "esp": "mi padrino",
+        "nah": "notiotah",
+        "aud": "lecciones/familia/audios/notiotah.mp3"
+    },
+    {
+        "esp": "mi primo",
+        "nah": "nomachicniuh",
+        "aud": "lecciones/familia/audios/nomachicniuh.mp3"
+    },
+    {
+        "esp": "mi sobrino o sobrina",
+        "nah": "nomachconeuh",
+        "aud": "lecciones/familia/audios/nomachconeuh.mp3"
+    },
+    {
+        "esp": "mi suegra",
+        "nah": "noyexnan",
+        "aud": "lecciones/familia/audios/noyexnan.mp3"
+    },
+    {
+        "esp": "mi suegro",
+        "nah": "noyextah",
+        "aud": "lecciones/familia/audios/noyextah.mp3"
+    },
+    {
+        "esp": "mi tía",
+        "nah": "noahui",
+        "aud": "lecciones/familia/audios/noahui.mp3"
+    },
+    {
+        "esp": "mi tío",
+        "nah": "notlayi",
+        "aud": "lecciones/familia/audios/notlayi.mp3"
+    },
+    {
+        "esp": "mi yerno",
+        "nah": "nomontli",
+        "aud": "lecciones/familia/audios/nomontli.mp3"
+    },
+    {
+        "esp": "mis hijos, descendencia",
+        "nah": "Noconeuh",
+        "aud": "lecciones/familia/audios/noconeuh.mp3"
+    }
+]

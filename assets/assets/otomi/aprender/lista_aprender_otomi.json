@@ -1,0 +1,29 @@
+[
+    {
+        "titulo": "Mbon'i",
+        "subtitulo": "Animales",
+        "descripcion": "Animales domesticos en Otomí.",
+        "icono": "assets/iconos/iniciales/animales.png",
+        "img": "assets/otomi/aprender/animales/abeja.png",
+        "id": "leccionConImagen",
+        "ruta": "assets/otomi/aprender/animales_otomi.json"
+    },
+    {
+        "titulo": "Ñhonho",
+        "subtitulo": "Números",
+        "descripcion": "Aprende los numeros en Otomí.",
+        "icono": "assets/iconos/iniciales/numeros.png",
+        "img": "assets/lecciones/imagenes/numeros.png",
+        "id": "leccionDeMaps",
+        "ruta": ""
+    },
+    {
+        "titulo": "Kühü",
+        "subtitulo": "Colores",
+        "descripcion": "Colores en el idioma Otomí.",
+        "icono": "assets/iconos/iniciales/colores.png",
+        "img": "assets/lecciones/imagenes/colores.png",
+        "id": "leccionConImagen",
+        "ruta": "assets/otomi/aprender/colores_otomi.json"
+    }
+]

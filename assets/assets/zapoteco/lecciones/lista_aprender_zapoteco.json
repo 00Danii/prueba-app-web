@@ -1,0 +1,29 @@
+[
+    {
+        "titulo": "Be",
+        "subtitulo": "Animales",
+        "descripcion": "Animales en Zapoteco.",
+        "icono": "assets/iconos/iniciales/animales.png",
+        "img": "assets/imagenes/animales/tiburon.png",
+        "id": "leccionConImagen",
+        "ruta": "assets/zapoteco/lecciones/animales_zapoteco.json"
+    },
+    {
+        "titulo": "Numbr",
+        "subtitulo": "Numeros",
+        "descripcion": "Números del 1 al 20.",
+        "icono": "assets/iconos/iniciales/numeros.png",
+        "img": "assets/maya/imagenes/numeros.jpg",
+        "id": "leccionDeMaps",
+        "ruta": ""
+    },
+    {
+        "titulo": "Na’",
+        "subtitulo": "Colores",
+        "descripcion": "Colores en idioma Mazateco",
+        "icono": "assets/iconos/iniciales/colores.png",
+        "img": "assets/maya/imagenes/colores.png",
+        "id": "leccionConImagen",
+        "ruta": "assets/zapoteco/lecciones/colores_zapoteco.json"
+    }
+]

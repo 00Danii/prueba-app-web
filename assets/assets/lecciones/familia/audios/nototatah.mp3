@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>PermanentRedirect</Code><Message>The bucket you are attempting to access must be addressed using the specified endpoint. Please send all future requests to this endpoint.</Message><Endpoint>s3.amazonaws.com</Endpoint><Bucket>audios</Bucket><RequestId>YQ6RGB9WGZB6F91C</RequestId><HostId>bMZvZTumDbUCO2VHiHJ5W+a2Au4PYUiqC8hgZ7Cc9CQXb945gG/h3gSJie5CjW05j8VC35N1AP8=</HostId></Error>

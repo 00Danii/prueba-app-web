@@ -1,0 +1,5274 @@
+[
+    {
+        "idioma": "¡ah!",
+        "significado": "ah !"
+    },
+    {
+        "idioma": "¡ay!",
+        "significado": "hay !"
+    },
+    {
+        "idioma": "aca, ca",
+        "significado": "no"
+    },
+    {
+        "idioma": "acaxha",
+        "significado": "cómo"
+    },
+    {
+        "idioma": "acaxha",
+        "significado": "de que manera"
+    },
+    {
+        "idioma": "act",
+        "significado": "acta"
+    },
+    {
+        "idioma": "agost, bio’agost",
+        "significado": "agosto"
+    },
+    {
+        "idioma": "albanhil",
+        "significado": "alarife"
+    },
+    {
+        "idioma": "alcol",
+        "significado": "alcohol"
+    },
+    {
+        "idioma": "alemán, bene alheman",
+        "significado": "alemán"
+    },
+    {
+        "idioma": "Alhemania",
+        "significado": "Alemania"
+    },
+    {
+        "idioma": "alhja",
+        "significado": "cuajar"
+    },
+    {
+        "idioma": "alhja",
+        "significado": "moretón"
+    },
+    {
+        "idioma": "alnanhil",
+        "significado": "albañil"
+    },
+    {
+        "idioma": "angl",
+        "significado": "ángel"
+    },
+    {
+        "idioma": "anle",
+        "significado": "esta bien"
+    },
+    {
+        "idioma": "antioj",
+        "significado": "anteojos"
+    },
+    {
+        "idioma": "antioj",
+        "significado": "lentes"
+    },
+    {
+        "idioma": "antzle",
+        "significado": "anteriormente"
+    },
+    {
+        "idioma": "antzle",
+        "significado": "antes"
+    },
+    {
+        "idioma": "antzle",
+        "significado": "mal"
+    },
+    {
+        "idioma": "anwe’e",
+        "significado": "de veras"
+    },
+    {
+        "idioma": "arhe",
+        "significado": "puente"
+    },
+    {
+        "idioma": "arhos",
+        "significado": "arroz"
+    },
+    {
+        "idioma": "arhsi",
+        "significado": "pues"
+    },
+    {
+        "idioma": "aswa’",
+        "significado": "no es verdad"
+    },
+    {
+        "idioma": "avio",
+        "significado": "avión"
+    },
+    {
+        "idioma": "awe",
+        "significado": "si"
+    },
+    {
+        "idioma": "awe, waca, ojo’o",
+        "significado": "afirmación"
+    },
+    {
+        "idioma": "axto",
+        "significado": "telaraña"
+    },
+    {
+        "idioma": "azul",
+        "significado": "azul"
+    },
+    {
+        "idioma": "ba",
+        "significado": "muerto (enterrado)"
+    },
+    {
+        "idioma": "ba",
+        "significado": "otoño"
+    },
+    {
+        "idioma": "ba",
+        "significado": "tumba"
+    },
+    {
+        "idioma": "ba’a, shawe’",
+        "significado": "fino"
+    },
+    {
+        "idioma": "bada",
+        "significado": "mecapal"
+    },
+    {
+        "idioma": "bada",
+        "significado": "páncreas"
+    },
+    {
+        "idioma": "bagaze’",
+        "significado": "secreto"
+    },
+    {
+        "idioma": "bala’an, ba’an",
+        "significado": "honor"
+    },
+    {
+        "idioma": "banhez",
+        "significado": "felicidad"
+    },
+    {
+        "idioma": "banhez",
+        "significado": "provecho"
+    },
+    {
+        "idioma": "banhez nose’wen",
+        "significado": "feliz navidad"
+    },
+    {
+        "idioma": "banhez, gonhia",
+        "significado": "riqueza"
+    },
+    {
+        "idioma": "banhis",
+        "significado": "pato"
+    },
+    {
+        "idioma": "banhis xhilh",
+        "significado": "ánsar"
+    },
+    {
+        "idioma": "banhis xhilh",
+        "significado": "ganso"
+    },
+    {
+        "idioma": "bao’",
+        "significado": "carbón"
+    },
+    {
+        "idioma": "barco",
+        "significado": "barco"
+    },
+    {
+        "idioma": "bash",
+        "significado": "vaso"
+    },
+    {
+        "idioma": "bashe",
+        "significado": "ya"
+    },
+    {
+        "idioma": "bat",
+        "significado": "cuándo"
+    },
+    {
+        "idioma": "baxhij",
+        "significado": "adultero"
+    },
+    {
+        "idioma": "baxhij",
+        "significado": "cornudo"
+    },
+    {
+        "idioma": "bay",
+        "significado": "pañuelo"
+    },
+    {
+        "idioma": "bayia",
+        "significado": "fractura"
+    },
+    {
+        "idioma": "bchan",
+        "significado": "gallina ciega (gusano)"
+    },
+    {
+        "idioma": "bchan",
+        "significado": "larva"
+    },
+    {
+        "idioma": "bchejo",
+        "significado": "flauta"
+    },
+    {
+        "idioma": "bchheque",
+        "significado": "gancho"
+    },
+    {
+        "idioma": "bchhixe’",
+        "significado": "panal"
+    },
+    {
+        "idioma": "bchhol",
+        "significado": "tuna (higo chumbo)"
+    },
+    {
+        "idioma": "bchoz",
+        "significado": "garza"
+    },
+    {
+        "idioma": "bdaoxho",
+        "significado": "temblor"
+    },
+    {
+        "idioma": "bdaoxho",
+        "significado": "terremoto"
+    },
+    {
+        "idioma": "bdinja",
+        "significado": "derrumbar"
+    },
+    {
+        "idioma": "bdoa",
+        "significado": "chorro"
+    },
+    {
+        "idioma": "bdoja",
+        "significado": "nudo"
+    },
+    {
+        "idioma": "bdon",
+        "significado": "remolino"
+    },
+    {
+        "idioma": "bdon",
+        "significado": "tornado"
+    },
+    {
+        "idioma": "be",
+        "significado": "animal"
+    },
+    {
+        "idioma": "be’",
+        "significado": "aire"
+    },
+    {
+        "idioma": "be’",
+        "significado": "grieta"
+    },
+    {
+        "idioma": "be’",
+        "significado": "viento"
+    },
+    {
+        "idioma": "be’bdono’",
+        "significado": "viento fuerte"
+    },
+    {
+        "idioma": "be’ewe",
+        "significado": "guacamaya"
+    },
+    {
+        "idioma": "be’ewe",
+        "significado": "papagayo"
+    },
+    {
+        "idioma": "be’tashjo",
+        "significado": "viento frío"
+    },
+    {
+        "idioma": "bea",
+        "significado": "tiempo"
+    },
+    {
+        "idioma": "beb",
+        "significado": "abono"
+    },
+    {
+        "idioma": "beb",
+        "significado": "basura"
+    },
+    {
+        "idioma": "bebina’",
+        "significado": "comadreja"
+    },
+    {
+        "idioma": "bech, bech jogozio",
+        "significado": "golondrina"
+    },
+    {
+        "idioma": "beche’",
+        "significado": "hormiga"
+    },
+    {
+        "idioma": "becheza’",
+        "significado": "ardilla"
+    },
+    {
+        "idioma": "bechhe’ne, beco’dao",
+        "significado": "cachorro"
+    },
+    {
+        "idioma": "bechhjo",
+        "significado": "guajolote (pavo)"
+    },
+    {
+        "idioma": "bechhjo",
+        "significado": "pavo"
+    },
+    {
+        "idioma": "bechhoj",
+        "significado": "ave"
+    },
+    {
+        "idioma": "bechj",
+        "significado": "cuervo"
+    },
+    {
+        "idioma": "bechjbi’o",
+        "significado": "cotorra"
+    },
+    {
+        "idioma": "bechjbi’o",
+        "significado": "loro"
+    },
+    {
+        "idioma": "bechjeo",
+        "significado": "zanate (ave)"
+    },
+    {
+        "idioma": "beco’",
+        "significado": "perro"
+    },
+    {
+        "idioma": "beco’beza",
+        "significado": "zorro"
+    },
+    {
+        "idioma": "beco’bnha’",
+        "significado": "perra"
+    },
+    {
+        "idioma": "beco’nhis",
+        "significado": "nutria"
+    },
+    {
+        "idioma": "beco’rhosa",
+        "significado": "madroño (planta)"
+    },
+    {
+        "idioma": "beco’xhila’",
+        "significado": "borrego cimarrón"
+    },
+    {
+        "idioma": "beco’xhila’",
+        "significado": "carnero"
+    },
+    {
+        "idioma": "beco’xhoj (canis mexicanus)",
+        "significado": "xoloezcuintle"
+    },
+    {
+        "idioma": "beco’yo (canis latrans)",
+        "significado": "coyote"
+    },
+    {
+        "idioma": "becozj",
+        "significado": "araña"
+    },
+    {
+        "idioma": "beda",
+        "significado": "remedio"
+    },
+    {
+        "idioma": "beda, rhemed",
+        "significado": "medicina"
+    },
+    {
+        "idioma": "bedao",
+        "significado": "insecto"
+    },
+    {
+        "idioma": "bedao",
+        "significado": "pronto"
+    },
+    {
+        "idioma": "bedo",
+        "significado": "chinguiña"
+    },
+    {
+        "idioma": "bedo",
+        "significado": "lagaña"
+    },
+    {
+        "idioma": "bega",
+        "significado": "bule"
+    },
+    {
+        "idioma": "bega, labada’",
+        "significado": "guaje"
+    },
+    {
+        "idioma": "begope’",
+        "significado": "armadillo"
+    },
+    {
+        "idioma": "beja",
+        "significado": "pozo"
+    },
+    {
+        "idioma": "bejag",
+        "significado": "tepezcuintle (animal)"
+    },
+    {
+        "idioma": "bejo",
+        "significado": "nube"
+    },
+    {
+        "idioma": "bejyo",
+        "significado": "peine"
+    },
+    {
+        "idioma": "bel",
+        "significado": "culebra"
+    },
+    {
+        "idioma": "bel",
+        "significado": "serpiente"
+    },
+    {
+        "idioma": "bel",
+        "significado": "víbora"
+    },
+    {
+        "idioma": "bel gapayo",
+        "significado": "coralillo (serpiente)"
+    },
+    {
+        "idioma": "bel gonha’",
+        "significado": "lombriz"
+    },
+    {
+        "idioma": "bela’",
+        "significado": "pescado"
+    },
+    {
+        "idioma": "bela’",
+        "significado": "pez"
+    },
+    {
+        "idioma": "bela’dao",
+        "significado": "camarón"
+    },
+    {
+        "idioma": "bela’dao",
+        "significado": "gamba"
+    },
+    {
+        "idioma": "bela’daxhen",
+        "significado": "ballena"
+    },
+    {
+        "idioma": "bela’xayid",
+        "significado": "bagre"
+    },
+    {
+        "idioma": "belchhoga, nhadon",
+        "significado": "langostino"
+    },
+    {
+        "idioma": "beldao",
+        "significado": "gusano"
+    },
+    {
+        "idioma": "belha’, berha’",
+        "significado": "carne"
+    },
+    {
+        "idioma": "belhia",
+        "significado": "plaga"
+    },
+    {
+        "idioma": "belhj",
+        "significado": "estrella"
+    },
+    {
+        "idioma": "ben",
+        "significado": "necesidad"
+    },
+    {
+        "idioma": "ben goolhen",
+        "significado": "por favor"
+    },
+    {
+        "idioma": "benache’, bene",
+        "significado": "hombre (humano)"
+    },
+    {
+        "idioma": "benache’, bene",
+        "significado": "ser humano"
+    },
+    {
+        "idioma": "bene",
+        "significado": "gente"
+    },
+    {
+        "idioma": "bene",
+        "significado": "persona"
+    },
+    {
+        "idioma": "bene beyo",
+        "significado": "varón"
+    },
+    {
+        "idioma": "bene bxhej",
+        "significado": "homosexual"
+    },
+    {
+        "idioma": "bene chha’o, bene waca",
+        "significado": "adulto"
+    },
+    {
+        "idioma": "bene chhbe’",
+        "significado": "maestro"
+    },
+    {
+        "idioma": "bene gonabia’",
+        "significado": "gobernante"
+    },
+    {
+        "idioma": "bene wate, ba",
+        "significado": "muerto"
+    },
+    {
+        "idioma": "bene xhi’o",
+        "significado": "esposo"
+    },
+    {
+        "idioma": "bene xhi’o",
+        "significado": "marido"
+    },
+    {
+        "idioma": "bene’golh",
+        "significado": "anciano"
+    },
+    {
+        "idioma": "berhinque’",
+        "significado": "mariposa"
+    },
+    {
+        "idioma": "bese",
+        "significado": "dolor"
+    },
+    {
+        "idioma": "bese",
+        "significado": "piojo"
+    },
+    {
+        "idioma": "beser (apis mellifica)",
+        "significado": "abeja"
+    },
+    {
+        "idioma": "beshj",
+        "significado": "liebre"
+    },
+    {
+        "idioma": "beshjea",
+        "significado": "conejo"
+    },
+    {
+        "idioma": "besia",
+        "significado": "águila"
+    },
+    {
+        "idioma": "besia bixjo",
+        "significado": "gavilán"
+    },
+    {
+        "idioma": "besia shode",
+        "significado": "zopilote rey"
+    },
+    {
+        "idioma": "bet",
+        "significado": "mofeta (zorrillo)"
+    },
+    {
+        "idioma": "bet",
+        "significado": "zorrillo"
+    },
+    {
+        "idioma": "betwio’",
+        "significado": "urticaria"
+    },
+    {
+        "idioma": "bex",
+        "significado": "tomate"
+    },
+    {
+        "idioma": "bex yix",
+        "significado": "tomate verde"
+    },
+    {
+        "idioma": "bex zo",
+        "significado": "tomate rojo"
+    },
+    {
+        "idioma": "bex, bex zo",
+        "significado": "jitomate"
+    },
+    {
+        "idioma": "bexjonhi’",
+        "significado": "alacrán"
+    },
+    {
+        "idioma": "bexjonhi’",
+        "significado": "escorpión"
+    },
+    {
+        "idioma": "beye’",
+        "significado": "hielo"
+    },
+    {
+        "idioma": "beye’",
+        "significado": "nieve"
+    },
+    {
+        "idioma": "beyo",
+        "significado": "hombre (macho)"
+    },
+    {
+        "idioma": "beyo",
+        "significado": "viril"
+    },
+    {
+        "idioma": "beyo, bexgia",
+        "significado": "macho"
+    },
+    {
+        "idioma": "beyolao",
+        "significado": "machismo"
+    },
+    {
+        "idioma": "bez beco’",
+        "significado": "lobo"
+    },
+    {
+        "idioma": "bez bela’",
+        "significado": "tiburón"
+    },
+    {
+        "idioma": "bez yixe’",
+        "significado": "león"
+    },
+    {
+        "idioma": "bez yixe’",
+        "significado": "puma"
+    },
+    {
+        "idioma": "bez, be",
+        "significado": "bestia"
+    },
+    {
+        "idioma": "bez, be yixe’",
+        "significado": "fiera"
+    },
+    {
+        "idioma": "beza",
+        "significado": "zarzamora"
+    },
+    {
+        "idioma": "beza",
+        "significado": "zorra"
+    },
+    {
+        "idioma": "beza xtilh,",
+        "significado": "granada"
+    },
+    {
+        "idioma": "beza’ze",
+        "significado": "lechuza"
+    },
+    {
+        "idioma": "bezchij",
+        "significado": "tigrillo"
+    },
+    {
+        "idioma": "bezinha’yixe’, yixe’",
+        "significado": "ciervo"
+    },
+    {
+        "idioma": "bezinha’yixe’, yixe’",
+        "significado": "venado"
+    },
+    {
+        "idioma": "bezoachha",
+        "significado": "marometa"
+    },
+    {
+        "idioma": "bezoj",
+        "significado": "abejorro"
+    },
+    {
+        "idioma": "bezojnio",
+        "significado": "abeja negra"
+    },
+    {
+        "idioma": "bezosh",
+        "significado": "oso"
+    },
+    {
+        "idioma": "beztao",
+        "significado": "jaguar"
+    },
+    {
+        "idioma": "beztao, bez tig",
+        "significado": "tigre"
+    },
+    {
+        "idioma": "bga",
+        "significado": "collar"
+    },
+    {
+        "idioma": "bgashe",
+        "significado": "amarillo claro"
+    },
+    {
+        "idioma": "bgogo",
+        "significado": "paloma"
+    },
+    {
+        "idioma": "bgose’",
+        "significado": "huso (malacate)"
+    },
+    {
+        "idioma": "bi’",
+        "significado": "crío"
+    },
+    {
+        "idioma": "bi’",
+        "significado": "infante"
+    },
+    {
+        "idioma": "bi’a",
+        "significado": "hongo"
+    },
+    {
+        "idioma": "bi’a",
+        "significado": "mosca"
+    },
+    {
+        "idioma": "bi’a yi’, wezalj yi’",
+        "significado": "luciérnaga"
+    },
+    {
+        "idioma": "bi’ago’on",
+        "significado": "mantis religiosa"
+    },
+    {
+        "idioma": "bi’ago’on (mantis religiosa)",
+        "significado": "zacatón"
+    },
+    {
+        "idioma": "bi’alcho’",
+        "significado": "mosquito"
+    },
+    {
+        "idioma": "bi’alcho’",
+        "significado": "zancudo"
+    },
+    {
+        "idioma": "bi’angl",
+        "significado": "angelito"
+    },
+    {
+        "idioma": "bi’angl",
+        "significado": "niño muerto"
+    },
+    {
+        "idioma": "bi’ayid",
+        "significado": "murciélago"
+    },
+    {
+        "idioma": "bi’ayid",
+        "significado": "vampiro"
+    },
+    {
+        "idioma": "bi’dao",
+        "significado": "niño"
+    },
+    {
+        "idioma": "bi’dios",
+        "significado": "niño dios"
+    },
+    {
+        "idioma": "bi’nhol’le",
+        "significado": "niña"
+    },
+    {
+        "idioma": "bi’wego’",
+        "significado": "soltero"
+    },
+    {
+        "idioma": "bi’wego’, bene chhaban",
+        "significado": "adolescente"
+    },
+    {
+        "idioma": "bia",
+        "significado": "chumbera"
+    },
+    {
+        "idioma": "bia",
+        "significado": "nopal"
+    },
+    {
+        "idioma": "bich",
+        "significado": "gas"
+    },
+    {
+        "idioma": "biche’",
+        "significado": "hermano"
+    },
+    {
+        "idioma": "biche’zan",
+        "significado": "hermano (del hombre)"
+    },
+    {
+        "idioma": "bichen",
+        "significado": "por qué"
+    },
+    {
+        "idioma": "bide",
+        "significado": "chinche"
+    },
+    {
+        "idioma": "bide",
+        "significado": "estéril"
+    },
+    {
+        "idioma": "bii",
+        "significado": "qué"
+    },
+    {
+        "idioma": "biida",
+        "significado": "que"
+    },
+    {
+        "idioma": "bilh",
+        "significado": "hermana (de la mujer)"
+    },
+    {
+        "idioma": "bilhe’zan",
+        "significado": "hermano (de la mujer)"
+    },
+    {
+        "idioma": "binhe",
+        "significado": "vena"
+    },
+    {
+        "idioma": "binhe, xhi’in",
+        "significado": "semilla"
+    },
+    {
+        "idioma": "binlho",
+        "significado": "finura"
+    },
+    {
+        "idioma": "bio’",
+        "significado": "luna"
+    },
+    {
+        "idioma": "bio’",
+        "significado": "mes"
+    },
+    {
+        "idioma": "bio’ abril",
+        "significado": "abril"
+    },
+    {
+        "idioma": "bishe’",
+        "significado": "chapulín"
+    },
+    {
+        "idioma": "bishe’",
+        "significado": "saltamontes"
+    },
+    {
+        "idioma": "bislha",
+        "significado": "vapor"
+    },
+    {
+        "idioma": "bite",
+        "significado": "epazote (planta)"
+    },
+    {
+        "idioma": "biwenlaze’",
+        "significado": "mentiroso"
+    },
+    {
+        "idioma": "bixhe’galha",
+        "significado": "sueño (visión)"
+    },
+    {
+        "idioma": "bixte",
+        "significado": "polvo"
+    },
+    {
+        "idioma": "biyiwe’",
+        "significado": "demente"
+    },
+    {
+        "idioma": "biyiwe’",
+        "significado": "loco"
+    },
+    {
+        "idioma": "biz, xhid",
+        "significado": "gato"
+    },
+    {
+        "idioma": "bizalj",
+        "significado": "vanidoso"
+    },
+    {
+        "idioma": "bize’",
+        "significado": "insignificante"
+    },
+    {
+        "idioma": "bize’",
+        "significado": "rincón"
+    },
+    {
+        "idioma": "bize’lab, bize’chhen",
+        "significado": "avispa"
+    },
+    {
+        "idioma": "bla’",
+        "significado": "zapote"
+    },
+    {
+        "idioma": "bla’o",
+        "significado": "zapote negro"
+    },
+    {
+        "idioma": "bla’we",
+        "significado": "zapote blanco"
+    },
+    {
+        "idioma": "bla’yela’ze",
+        "significado": "zapote amarillo"
+    },
+    {
+        "idioma": "blaga’",
+        "significado": "tabla"
+    },
+    {
+        "idioma": "blao",
+        "significado": "mariposa gigante"
+    },
+    {
+        "idioma": "blaxh, blaxho’",
+        "significado": "rana"
+    },
+    {
+        "idioma": "blaxhe’",
+        "significado": "azulejo (ave)"
+    },
+    {
+        "idioma": "blaxho’",
+        "significado": "sapo"
+    },
+    {
+        "idioma": "blhao",
+        "significado": "importante"
+    },
+    {
+        "idioma": "blich",
+        "significado": "inflado"
+    },
+    {
+        "idioma": "blol",
+        "significado": "bola"
+    },
+    {
+        "idioma": "blol",
+        "significado": "esfera"
+    },
+    {
+        "idioma": "blol",
+        "significado": "redondo"
+    },
+    {
+        "idioma": "bnha’, nhol’le",
+        "significado": "hembra"
+    },
+    {
+        "idioma": "bolj",
+        "significado": "yema de huevo"
+    },
+    {
+        "idioma": "boshe",
+        "significado": "gemido"
+    },
+    {
+        "idioma": "boto",
+        "significado": "botón"
+    },
+    {
+        "idioma": "branzes, bene branzes",
+        "significado": "francés"
+    },
+    {
+        "idioma": "Branzia",
+        "significado": "Francia"
+    },
+    {
+        "idioma": "brex",
+        "significado": "fresa"
+    },
+    {
+        "idioma": "bseque’",
+        "significado": "rama seca"
+    },
+    {
+        "idioma": "bshinha’, bshinhadao",
+        "significado": "miel"
+    },
+    {
+        "idioma": "bshit",
+        "significado": "arco iris"
+    },
+    {
+        "idioma": "bso",
+        "significado": "adobe"
+    },
+    {
+        "idioma": "burh",
+        "significado": "asno"
+    },
+    {
+        "idioma": "burh",
+        "significado": "burro"
+    },
+    {
+        "idioma": "bxe",
+        "significado": "inicio"
+    },
+    {
+        "idioma": "bxhej",
+        "significado": "afeminado"
+    },
+    {
+        "idioma": "bxhej",
+        "significado": "cobarde"
+    },
+    {
+        "idioma": "bxhej",
+        "significado": "joto"
+    },
+    {
+        "idioma": "bxhej",
+        "significado": "maricón"
+    },
+    {
+        "idioma": "bxhile",
+        "significado": "hipnosis"
+    },
+    {
+        "idioma": "bxhin",
+        "significado": "espanto"
+    },
+    {
+        "idioma": "bxhin",
+        "significado": "fantasma"
+    },
+    {
+        "idioma": "bxhoca’",
+        "significado": "curva"
+    },
+    {
+        "idioma": "bxizo’",
+        "significado": "tejón"
+    },
+    {
+        "idioma": "byen",
+        "significado": "necesario"
+    },
+    {
+        "idioma": "byine",
+        "significado": "pajarillo"
+    },
+    {
+        "idioma": "byine, bechhoj",
+        "significado": "pájaro"
+    },
+    {
+        "idioma": "bzawe",
+        "significado": "morado (color)"
+    },
+    {
+        "idioma": "bzawe",
+        "significado": "púrpura"
+    },
+    {
+        "idioma": "bzebe",
+        "significado": "último"
+    },
+    {
+        "idioma": "bzic",
+        "significado": "chino (pelo)"
+    },
+    {
+        "idioma": "bzina",
+        "significado": "mula"
+    },
+    {
+        "idioma": "bzinha",
+        "significado": "espuma"
+    },
+    {
+        "idioma": "bzinha",
+        "significado": "ratón"
+    },
+    {
+        "idioma": "bziwe’, besjo, ne’e",
+        "significado": "sucio"
+    },
+    {
+        "idioma": "bzixhen",
+        "significado": "perdón"
+    },
+    {
+        "idioma": "bzod",
+        "significado": "gorra"
+    },
+    {
+        "idioma": "ca",
+        "significado": "como"
+    },
+    {
+        "idioma": "ca’a",
+        "significado": "servir"
+    },
+    {
+        "idioma": "cabata, ni’aze’bi",
+        "significado": "nunca"
+    },
+    {
+        "idioma": "cabayo",
+        "significado": "caballo"
+    },
+    {
+        "idioma": "cafe",
+        "significado": "café"
+    },
+    {
+        "idioma": "camio",
+        "significado": "autobús"
+    },
+    {
+        "idioma": "camio",
+        "significado": "camión"
+    },
+    {
+        "idioma": "cancze’",
+        "significado": "también"
+    },
+    {
+        "idioma": "caxhon, xhon",
+        "significado": "cajono"
+    },
+    {
+        "idioma": "caze’",
+        "significado": "identidad"
+    },
+    {
+        "idioma": "cha’o",
+        "significado": "gran"
+    },
+    {
+        "idioma": "chaajale’o",
+        "significado": "creer (fielmente)"
+    },
+    {
+        "idioma": "chag",
+        "significado": "café (color)"
+    },
+    {
+        "idioma": "chalarha",
+        "significado": "quizá"
+    },
+    {
+        "idioma": "chalazo’yejo",
+        "significado": "llover"
+    },
+    {
+        "idioma": "chalazo’yejo lase’",
+        "significado": "lloviznar"
+    },
+    {
+        "idioma": "chax, gaxhe",
+        "significado": "llamar"
+    },
+    {
+        "idioma": "chbane",
+        "significado": "abarcar territorio"
+    },
+    {
+        "idioma": "chbejyichj, chcho’on",
+        "significado": "abandonar"
+    },
+    {
+        "idioma": "chcho’on",
+        "significado": "abandonar hijos"
+    },
+    {
+        "idioma": "chdeboto",
+        "significado": "abrochar"
+    },
+    {
+        "idioma": "che",
+        "significado": "de"
+    },
+    {
+        "idioma": "che",
+        "significado": "desde"
+    },
+    {
+        "idioma": "che’eiza",
+        "significado": "cumpleaños"
+    },
+    {
+        "idioma": "che’en",
+        "significado": "bebé"
+    },
+    {
+        "idioma": "che’en",
+        "significado": "recienacido"
+    },
+    {
+        "idioma": "che’eze’",
+        "significado": "fortalecer"
+    },
+    {
+        "idioma": "chechho",
+        "significado": "nuestro"
+    },
+    {
+        "idioma": "chegeni’a",
+        "significado": "talón"
+    },
+    {
+        "idioma": "chesil",
+        "significado": "abrir herida"
+    },
+    {
+        "idioma": "chey",
+        "significado": "eclipse"
+    },
+    {
+        "idioma": "chey bio’",
+        "significado": "eclipse lunar"
+    },
+    {
+        "idioma": "chey gobiz",
+        "significado": "eclipse solar"
+    },
+    {
+        "idioma": "cheya",
+        "significado": "acabar"
+    },
+    {
+        "idioma": "cheyej, chej",
+        "significado": "ir"
+    },
+    {
+        "idioma": "chgo’o beb",
+        "significado": "abonar"
+    },
+    {
+        "idioma": "chgol",
+        "significado": "ablandar"
+    },
+    {
+        "idioma": "chhaban",
+        "significado": "chaval"
+    },
+    {
+        "idioma": "chhacaze’, chha",
+        "significado": "mientras"
+    },
+    {
+        "idioma": "chhach, nhalha",
+        "significado": "macizo"
+    },
+    {
+        "idioma": "chhachj, tin",
+        "significado": "trueno"
+    },
+    {
+        "idioma": "chhala’",
+        "significado": "deber"
+    },
+    {
+        "idioma": "chhalhj",
+        "significado": "nacer"
+    },
+    {
+        "idioma": "chhayo’o",
+        "significado": "umbral"
+    },
+    {
+        "idioma": "chhaze’",
+        "significado": "disminuir"
+    },
+    {
+        "idioma": "chhaze’, nhaze’",
+        "significado": "sembrar"
+    },
+    {
+        "idioma": "chhbe’ye’j",
+        "significado": "granizar"
+    },
+    {
+        "idioma": "chhcue’ej",
+        "significado": "abrigar"
+    },
+    {
+        "idioma": "chhde",
+        "significado": "abotonar"
+    },
+    {
+        "idioma": "chhe’e",
+        "significado": "cántaro"
+    },
+    {
+        "idioma": "chhe’le",
+        "significado": "allá abajo"
+    },
+    {
+        "idioma": "chheb",
+        "significado": "tragar"
+    },
+    {
+        "idioma": "chhechenhi’i",
+        "significado": "miedo"
+    },
+    {
+        "idioma": "chhedao",
+        "significado": "gatear"
+    },
+    {
+        "idioma": "chhediidza",
+        "significado": "charla"
+    },
+    {
+        "idioma": "chhediidza",
+        "significado": "plática"
+    },
+    {
+        "idioma": "chhegorha",
+        "significado": "crecer"
+    },
+    {
+        "idioma": "chhel, gol",
+        "significado": "noche"
+    },
+    {
+        "idioma": "chhelanhe",
+        "significado": "derretir"
+    },
+    {
+        "idioma": "chhelha",
+        "significado": "media noche"
+    },
+    {
+        "idioma": "chhen",
+        "significado": "oír"
+    },
+    {
+        "idioma": "chhenda",
+        "significado": "querer"
+    },
+    {
+        "idioma": "chhenhe",
+        "significado": "sangre"
+    },
+    {
+        "idioma": "chhetja",
+        "significado": "bajar"
+    },
+    {
+        "idioma": "chheyao",
+        "significado": "infinito"
+    },
+    {
+        "idioma": "chheyaze’",
+        "significado": "congelar"
+    },
+    {
+        "idioma": "chheyelja",
+        "significado": "arribar"
+    },
+    {
+        "idioma": "chheyelja",
+        "significado": "llegar"
+    },
+    {
+        "idioma": "chheze",
+        "significado": "tranquilo"
+    },
+    {
+        "idioma": "chhezeba",
+        "significado": "asustar"
+    },
+    {
+        "idioma": "chhgo’o",
+        "significado": "meter"
+    },
+    {
+        "idioma": "chhgo’o",
+        "significado": "penetrar"
+    },
+    {
+        "idioma": "chhi’, yi",
+        "significado": "inflamación"
+    },
+    {
+        "idioma": "chhi’i, chhi’iyo’obe",
+        "significado": "eco"
+    },
+    {
+        "idioma": "chhicolat",
+        "significado": "chocolate"
+    },
+    {
+        "idioma": "chhida",
+        "significado": "venir"
+    },
+    {
+        "idioma": "chhiljalhaze’",
+        "significado": "imaginación"
+    },
+    {
+        "idioma": "chhin",
+        "significado": "trabajo"
+    },
+    {
+        "idioma": "chho",
+        "significado": "catarro"
+    },
+    {
+        "idioma": "chho’a",
+        "significado": "al río"
+    },
+    {
+        "idioma": "chho’a",
+        "significado": "alrededor"
+    },
+    {
+        "idioma": "chho’a",
+        "significado": "boca"
+    },
+    {
+        "idioma": "chho’o, lalhi’a",
+        "significado": "patio"
+    },
+    {
+        "idioma": "chho’on, wechho’on",
+        "significado": "abandonar"
+    },
+    {
+        "idioma": "chho’os",
+        "significado": "abandonado"
+    },
+    {
+        "idioma": "chho’os",
+        "significado": "abandono"
+    },
+    {
+        "idioma": "chhoa’, walha",
+        "significado": "fuente"
+    },
+    {
+        "idioma": "chhoa’nhis, bej",
+        "significado": "manantial"
+    },
+    {
+        "idioma": "chhodze’",
+        "significado": "emborrachar"
+    },
+    {
+        "idioma": "chhodze’",
+        "significado": "embriagar"
+    },
+    {
+        "idioma": "chhoj",
+        "significado": "salida"
+    },
+    {
+        "idioma": "chhola",
+        "significado": "zumbar"
+    },
+    {
+        "idioma": "chholhatja",
+        "significado": "vacío"
+    },
+    {
+        "idioma": "chholiba",
+        "significado": "patear"
+    },
+    {
+        "idioma": "chholoa",
+        "significado": "barrer"
+    },
+    {
+        "idioma": "chhon",
+        "significado": "agarradera"
+    },
+    {
+        "idioma": "chhon bnido",
+        "significado": "abastecer"
+    },
+    {
+        "idioma": "chhonan bayen",
+        "significado": "urgente"
+    },
+    {
+        "idioma": "chhonha",
+        "significado": "hacer"
+    },
+    {
+        "idioma": "chhonhida’, chyela’, chnida’",
+        "significado": "abrazo"
+    },
+    {
+        "idioma": "chhoseja",
+        "significado": "cerrar"
+    },
+    {
+        "idioma": "chhoti’a",
+        "significado": "vender"
+    },
+    {
+        "idioma": "chhoxe’",
+        "significado": "mear"
+    },
+    {
+        "idioma": "chhoxe’",
+        "significado": "orinar"
+    },
+    {
+        "idioma": "chhoxo’a, wexo’",
+        "significado": "agarrar"
+    },
+    {
+        "idioma": "chhoya’a",
+        "significado": "bailar"
+    },
+    {
+        "idioma": "chhoyoa",
+        "significado": "llevar"
+    },
+    {
+        "idioma": "chhozaenhaga’",
+        "significado": "besar"
+    },
+    {
+        "idioma": "chhozenhaga’",
+        "significado": "escuchar"
+    },
+    {
+        "idioma": "chhozoja, wezoja",
+        "significado": "escribir"
+    },
+    {
+        "idioma": "chhtin",
+        "significado": "abortar"
+    },
+    {
+        "idioma": "chhua’a",
+        "significado": "cargar equipaje"
+    },
+    {
+        "idioma": "chhxej",
+        "significado": "mascar"
+    },
+    {
+        "idioma": "chhxej",
+        "significado": "masticar"
+    },
+    {
+        "idioma": "chhzaglao",
+        "significado": "bienvenido"
+    },
+    {
+        "idioma": "chi",
+        "significado": "diez"
+    },
+    {
+        "idioma": "chi’i",
+        "significado": "olor"
+    },
+    {
+        "idioma": "chi’i",
+        "significado": "voz"
+    },
+    {
+        "idioma": "chi’ino",
+        "significado": "trece"
+    },
+    {
+        "idioma": "chia",
+        "significado": "mi"
+    },
+    {
+        "idioma": "chia",
+        "significado": "mia"
+    },
+    {
+        "idioma": "chia",
+        "significado": "mio"
+    },
+    {
+        "idioma": "China",
+        "significado": "China"
+    },
+    {
+        "idioma": "chino, bene chino",
+        "significado": "chino"
+    },
+    {
+        "idioma": "chino’",
+        "significado": "quince"
+    },
+    {
+        "idioma": "chino’ chope",
+        "significado": "diecisiete"
+    },
+    {
+        "idioma": "chino’shone",
+        "significado": "dieciocho"
+    },
+    {
+        "idioma": "chino’tape, to galag",
+        "significado": "diecinueve"
+    },
+    {
+        "idioma": "chino’to",
+        "significado": "dieciséis"
+    },
+    {
+        "idioma": "chio",
+        "significado": "tuya"
+    },
+    {
+        "idioma": "chio",
+        "significado": "tuyo"
+    },
+    {
+        "idioma": "chita’",
+        "significado": "catorce"
+    },
+    {
+        "idioma": "chizino",
+        "significado": "doce"
+    },
+    {
+        "idioma": "chla’a bcue’",
+        "significado": "abanicar el fuego"
+    },
+    {
+        "idioma": "chla’a, soplador",
+        "significado": "abanico"
+    },
+    {
+        "idioma": "chlan",
+        "significado": "abarcar"
+    },
+    {
+        "idioma": "chlazo’beye’",
+        "significado": "nevar"
+    },
+    {
+        "idioma": "cho’a nhisdao",
+        "significado": "playa"
+    },
+    {
+        "idioma": "cho’ogo’ne’",
+        "significado": "abandonar el país"
+    },
+    {
+        "idioma": "cho’ogo’ne’",
+        "significado": "abandonar la tierra"
+    },
+    {
+        "idioma": "cho’on",
+        "significado": "desecho"
+    },
+    {
+        "idioma": "chobe’",
+        "significado": "cangrejo"
+    },
+    {
+        "idioma": "chon be’, chla’a",
+        "significado": "abanicar"
+    },
+    {
+        "idioma": "chopcho’a",
+        "significado": "hipócrita"
+    },
+    {
+        "idioma": "chope",
+        "significado": "dos"
+    },
+    {
+        "idioma": "chsha’ashe’",
+        "significado": "machacar"
+    },
+    {
+        "idioma": "chsha’ashe’",
+        "significado": "machucar"
+    },
+    {
+        "idioma": "chsho’",
+        "significado": "rasgar"
+    },
+    {
+        "idioma": "chwa’",
+        "significado": "fumar"
+    },
+    {
+        "idioma": "chwe’e",
+        "significado": "aborrecer"
+    },
+    {
+        "idioma": "chxa’",
+        "significado": "abrir la boca"
+    },
+    {
+        "idioma": "chxa’",
+        "significado": "abrir los ojos"
+    },
+    {
+        "idioma": "chxhenlaze’",
+        "significado": "paciente (prudente)"
+    },
+    {
+        "idioma": "chxhenlaze’",
+        "significado": "prudente"
+    },
+    {
+        "idioma": "chxhonj",
+        "significado": "correr"
+    },
+    {
+        "idioma": "chyin, bpa’a",
+        "significado": "peinar"
+    },
+    {
+        "idioma": "chzash",
+        "significado": "desenvolver"
+    },
+    {
+        "idioma": "chzexjwlaze’",
+        "significado": "ablandar el corazón"
+    },
+    {
+        "idioma": "chzexjwlaze’",
+        "significado": "ablandarse"
+    },
+    {
+        "idioma": "cola’bxhej",
+        "significado": "duende"
+    },
+    {
+        "idioma": "colhaa",
+        "significado": "a mis espaldas"
+    },
+    {
+        "idioma": "coqui",
+        "significado": "rey"
+    },
+    {
+        "idioma": "corhix",
+        "significado": "col"
+    },
+    {
+        "idioma": "cosh",
+        "significado": "cerdo"
+    },
+    {
+        "idioma": "cosh",
+        "significado": "marrano"
+    },
+    {
+        "idioma": "cosh",
+        "significado": "puerco"
+    },
+    {
+        "idioma": "cosh bnha’",
+        "significado": "cerda"
+    },
+    {
+        "idioma": "cosh yixe’",
+        "significado": "jabalí"
+    },
+    {
+        "idioma": "coxhe",
+        "significado": "auto"
+    },
+    {
+        "idioma": "coxhe",
+        "significado": "automóvil"
+    },
+    {
+        "idioma": "coxhe",
+        "significado": "carro"
+    },
+    {
+        "idioma": "coxhe",
+        "significado": "coche"
+    },
+    {
+        "idioma": "coxho",
+        "significado": "cojo"
+    },
+    {
+        "idioma": "coze’",
+        "significado": "espalda"
+    },
+    {
+        "idioma": "cua",
+        "significado": "masa"
+    },
+    {
+        "idioma": "cua yina’",
+        "significado": "anaranjado"
+    },
+    {
+        "idioma": "cua yina’",
+        "significado": "naranja (color)"
+    },
+    {
+        "idioma": "cuade",
+        "significado": "débil"
+    },
+    {
+        "idioma": "cuade",
+        "significado": "frágil"
+    },
+    {
+        "idioma": "cuade",
+        "significado": "marchito"
+    },
+    {
+        "idioma": "cuaga",
+        "significado": "viga"
+    },
+    {
+        "idioma": "cue’",
+        "significado": "heredad"
+    },
+    {
+        "idioma": "cue’",
+        "significado": "milpa"
+    },
+    {
+        "idioma": "cue’",
+        "significado": "parcela"
+    },
+    {
+        "idioma": "cue’",
+        "significado": "terreno"
+    },
+    {
+        "idioma": "cuezo’",
+        "significado": "sordo"
+    },
+    {
+        "idioma": "cuinha",
+        "significado": "cuerpo"
+    },
+    {
+        "idioma": "da’",
+        "significado": "difunto"
+    },
+    {
+        "idioma": "da’a",
+        "significado": "petate (estera)"
+    },
+    {
+        "idioma": "da’la",
+        "significado": "calor"
+    },
+    {
+        "idioma": "da’la",
+        "significado": "calostro"
+    },
+    {
+        "idioma": "daca",
+        "significado": "césped"
+    },
+    {
+        "idioma": "daca",
+        "significado": "pasto"
+    },
+    {
+        "idioma": "dacazeje",
+        "significado": "abarrante"
+    },
+    {
+        "idioma": "dam",
+        "significado": "búho"
+    },
+    {
+        "idioma": "dam",
+        "significado": "tecolote"
+    },
+    {
+        "idioma": "dao",
+        "significado": "espiga"
+    },
+    {
+        "idioma": "dao, rhinco",
+        "significado": "pequeño"
+    },
+    {
+        "idioma": "daxhen, cha’o",
+        "significado": "grande"
+    },
+    {
+        "idioma": "daxhiwe",
+        "significado": "demonio"
+    },
+    {
+        "idioma": "daxhiwe",
+        "significado": "diablo"
+    },
+    {
+        "idioma": "dayexo",
+        "significado": "chicharrón"
+    },
+    {
+        "idioma": "dayolhao",
+        "significado": "costumbre"
+    },
+    {
+        "idioma": "dayolhao",
+        "significado": "habito"
+    },
+    {
+        "idioma": "dazixe’",
+        "significado": "fruta"
+    },
+    {
+        "idioma": "de",
+        "significado": "ceniza"
+    },
+    {
+        "idioma": "de’e",
+        "significado": "destino"
+    },
+    {
+        "idioma": "de’e",
+        "significado": "pretexto"
+    },
+    {
+        "idioma": "diaza, bene loyo’o",
+        "significado": "familia"
+    },
+    {
+        "idioma": "dichhe",
+        "significado": "pellizco"
+    },
+    {
+        "idioma": "diidza",
+        "significado": "idioma"
+    },
+    {
+        "idioma": "diidza",
+        "significado": "lengua (idioma)"
+    },
+    {
+        "idioma": "diidza",
+        "significado": "palabra"
+    },
+    {
+        "idioma": "diidza alheman",
+        "significado": "alemán (idioma)"
+    },
+    {
+        "idioma": "diidza bixhj",
+        "significado": "chisme"
+    },
+    {
+        "idioma": "diidza chino",
+        "significado": "chino (idioma)"
+    },
+    {
+        "idioma": "diidza franzes",
+        "significado": "francés (idioma)"
+    },
+    {
+        "idioma": "diidza ingles",
+        "significado": "inglés (idioma)"
+    },
+    {
+        "idioma": "diidza italiano",
+        "significado": "italiano (idioma)"
+    },
+    {
+        "idioma": "diidza le’e",
+        "significado": "grosería"
+    },
+    {
+        "idioma": "diidza porhugas",
+        "significado": "portugués (idioma)"
+    },
+    {
+        "idioma": "diidza wenlaze’",
+        "significado": "infamia"
+    },
+    {
+        "idioma": "diidza wenlaze’",
+        "significado": "mentira"
+    },
+    {
+        "idioma": "diidza xhapon",
+        "significado": "japonés (idioma)"
+    },
+    {
+        "idioma": "diidza xhon",
+        "significado": "idioma zapoteco"
+    },
+    {
+        "idioma": "diidza xhon",
+        "significado": "zapoteco (idioma)"
+    },
+    {
+        "idioma": "diidza xtilha",
+        "significado": "castellano (idioma)"
+    },
+    {
+        "idioma": "diidza xtilha",
+        "significado": "español (idioma)"
+    },
+    {
+        "idioma": "diidza xtilha",
+        "significado": "idioma español"
+    },
+    {
+        "idioma": "diidza za",
+        "significado": "istmeño (idioma)"
+    },
+    {
+        "idioma": "diidza za",
+        "significado": "tehuano (idioma)"
+    },
+    {
+        "idioma": "dinselo",
+        "significado": "dinámica"
+    },
+    {
+        "idioma": "Dios",
+        "significado": "Dios"
+    },
+    {
+        "idioma": "dioxhclhen, dioxhclenho, dioxhi, dioxhclen",
+        "significado": "gracias"
+    },
+    {
+        "idioma": "do",
+        "significado": "cuerda"
+    },
+    {
+        "idioma": "do",
+        "significado": "hilo"
+    },
+    {
+        "idioma": "do",
+        "significado": "mecate"
+    },
+    {
+        "idioma": "doa’",
+        "significado": "agave"
+    },
+    {
+        "idioma": "doa’",
+        "significado": "maguey"
+    },
+    {
+        "idioma": "doa’nhis",
+        "significado": "mezcal"
+    },
+    {
+        "idioma": "doa’nhis",
+        "significado": "tequila (licor de agave)"
+    },
+    {
+        "idioma": "doa’zinha’",
+        "significado": "piña (fruta)"
+    },
+    {
+        "idioma": "dobe",
+        "significado": "pluma"
+    },
+    {
+        "idioma": "dola, xhinj",
+        "significado": "pecado"
+    },
+    {
+        "idioma": "dolo",
+        "significado": "rueda"
+    },
+    {
+        "idioma": "dxhinjan",
+        "significado": "infección"
+    },
+    {
+        "idioma": "dzina",
+        "significado": "exprimir"
+    },
+    {
+        "idioma": "ga",
+        "significado": "nueve"
+    },
+    {
+        "idioma": "ga, bene ga",
+        "significado": "chinanteco"
+    },
+    {
+        "idioma": "ga’",
+        "significado": "verde"
+    },
+    {
+        "idioma": "ga’alayid",
+        "significado": "desnudo"
+    },
+    {
+        "idioma": "gaa, gaaxha",
+        "significado": "dónde"
+    },
+    {
+        "idioma": "gabil",
+        "significado": "infierno"
+    },
+    {
+        "idioma": "gachhxoa’gobiz",
+        "significado": "occidente"
+    },
+    {
+        "idioma": "gaco",
+        "significado": "tapar"
+    },
+    {
+        "idioma": "gaga, chcua’an",
+        "significado": "detener"
+    },
+    {
+        "idioma": "galag",
+        "significado": "veinte"
+    },
+    {
+        "idioma": "gashe",
+        "significado": "amarillo"
+    },
+    {
+        "idioma": "gashe",
+        "significado": "güero"
+    },
+    {
+        "idioma": "gashe",
+        "significado": "rubio"
+    },
+    {
+        "idioma": "gashja",
+        "significado": "medio"
+    },
+    {
+        "idioma": "gasj",
+        "significado": "negro"
+    },
+    {
+        "idioma": "gawte",
+        "significado": "muy cerca"
+    },
+    {
+        "idioma": "gayo’",
+        "significado": "cinco"
+    },
+    {
+        "idioma": "gaze",
+        "significado": "siete"
+    },
+    {
+        "idioma": "gazet",
+        "significado": "galleta"
+    },
+    {
+        "idioma": "go’o",
+        "significado": "metido"
+    },
+    {
+        "idioma": "go’on",
+        "significado": "buey"
+    },
+    {
+        "idioma": "go’on",
+        "significado": "toro"
+    },
+    {
+        "idioma": "goba",
+        "significado": "escoba"
+    },
+    {
+        "idioma": "goban",
+        "significado": "ladrón"
+    },
+    {
+        "idioma": "gobe",
+        "significado": "tejer"
+    },
+    {
+        "idioma": "gobeze’",
+        "significado": "turno"
+    },
+    {
+        "idioma": "gobiz",
+        "significado": "sol"
+    },
+    {
+        "idioma": "gola",
+        "significado": "medida"
+    },
+    {
+        "idioma": "gola, hor",
+        "significado": "hora"
+    },
+    {
+        "idioma": "gola’",
+        "significado": "suave"
+    },
+    {
+        "idioma": "golashe",
+        "significado": "cucaracha"
+    },
+    {
+        "idioma": "golha",
+        "significado": "muy viejo"
+    },
+    {
+        "idioma": "goneyue",
+        "significado": "compromiso"
+    },
+    {
+        "idioma": "gonha’",
+        "significado": "barro (arcilla)"
+    },
+    {
+        "idioma": "gonha’",
+        "significado": "lodo"
+    },
+    {
+        "idioma": "goolhen",
+        "significado": "favor"
+    },
+    {
+        "idioma": "gop, bene gop",
+        "significado": "guardia"
+    },
+    {
+        "idioma": "gop, bene gop",
+        "significado": "policía"
+    },
+    {
+        "idioma": "gopa’",
+        "significado": "humedad"
+    },
+    {
+        "idioma": "gopa’",
+        "significado": "húmedo"
+    },
+    {
+        "idioma": "gope’",
+        "significado": "tortuga"
+    },
+    {
+        "idioma": "gope’daxhen",
+        "significado": "galápago"
+    },
+    {
+        "idioma": "gope’nhis",
+        "significado": "tortuga marina"
+    },
+    {
+        "idioma": "gosha’",
+        "significado": "pantano"
+    },
+    {
+        "idioma": "goshe",
+        "significado": "pus"
+    },
+    {
+        "idioma": "gotense",
+        "significado": "costal"
+    },
+    {
+        "idioma": "goxhe wizj",
+        "significado": "futuro"
+    },
+    {
+        "idioma": "goxhe’",
+        "significado": "fundar"
+    },
+    {
+        "idioma": "goxhi",
+        "significado": "limpiar"
+    },
+    {
+        "idioma": "gozio’",
+        "significado": "rayo"
+    },
+    {
+        "idioma": "gozio’",
+        "significado": "relámpago"
+    },
+    {
+        "idioma": "gozj,",
+        "significado": "baño"
+    },
+    {
+        "idioma": "gozo’",
+        "significado": "podrido"
+    },
+    {
+        "idioma": "gu",
+        "significado": "papa (patata)"
+    },
+    {
+        "idioma": "gu",
+        "significado": "patata"
+    },
+    {
+        "idioma": "gu zix",
+        "significado": "batata"
+    },
+    {
+        "idioma": "gu zix",
+        "significado": "camote"
+    },
+    {
+        "idioma": "Guilá",
+        "significado": "Monte Albán"
+    },
+    {
+        "idioma": "guxi",
+        "significado": "dulce (de caramelo)"
+    },
+    {
+        "idioma": "guxi",
+        "significado": "golosina"
+    },
+    {
+        "idioma": "guzenhag",
+        "significado": "oír consejos"
+    },
+    {
+        "idioma": "gwago",
+        "significado": "comer"
+    },
+    {
+        "idioma": "Inglaterha",
+        "significado": "Inglaterra"
+    },
+    {
+        "idioma": "ingles, bene ingles",
+        "significado": "inglés"
+    },
+    {
+        "idioma": "Italia",
+        "significado": "Italia"
+    },
+    {
+        "idioma": "italian, bene italian",
+        "significado": "italiano"
+    },
+    {
+        "idioma": "iza",
+        "significado": "año"
+    },
+    {
+        "idioma": "iza cobe",
+        "significado": "año nuevo"
+    },
+    {
+        "idioma": "jea",
+        "significado": "gallo"
+    },
+    {
+        "idioma": "jed",
+        "significado": "gallina"
+    },
+    {
+        "idioma": "la",
+        "significado": "libertad"
+    },
+    {
+        "idioma": "la, scha’a",
+        "significado": "caliente"
+    },
+    {
+        "idioma": "La’a",
+        "significado": "Ciudad de Oaxaca"
+    },
+    {
+        "idioma": "La’a",
+        "significado": "Oaxaca (estado)"
+    },
+    {
+        "idioma": "la’a, bene la’a",
+        "significado": "oaxaqueño"
+    },
+    {
+        "idioma": "la’shana’",
+        "significado": "rebozo"
+    },
+    {
+        "idioma": "la’ya",
+        "significado": "sacro"
+    },
+    {
+        "idioma": "lachirha",
+        "significado": "corredor (arquitectura)"
+    },
+    {
+        "idioma": "lacho’",
+        "significado": "pecho"
+    },
+    {
+        "idioma": "laga",
+        "significado": "hoja"
+    },
+    {
+        "idioma": "lanha’",
+        "significado": "pantalón"
+    },
+    {
+        "idioma": "lao",
+        "significado": "a la guerra"
+    },
+    {
+        "idioma": "lao xben",
+        "significado": "yema del dedo"
+    },
+    {
+        "idioma": "lao, yejlao",
+        "significado": "ojo"
+    },
+    {
+        "idioma": "lapz",
+        "significado": "lápiz"
+    },
+    {
+        "idioma": "lase’",
+        "significado": "llano"
+    },
+    {
+        "idioma": "lase’",
+        "significado": "valle"
+    },
+    {
+        "idioma": "lay",
+        "significado": "diente"
+    },
+    {
+        "idioma": "lay",
+        "significado": "hoja (de papel)"
+    },
+    {
+        "idioma": "laz, lazdao’",
+        "significado": "corazón"
+    },
+    {
+        "idioma": "lazdao",
+        "significado": "amor"
+    },
+    {
+        "idioma": "laze’yix",
+        "significado": "pulmón"
+    },
+    {
+        "idioma": "lba’",
+        "significado": "garganta"
+    },
+    {
+        "idioma": "lchej",
+        "significado": "cinturón"
+    },
+    {
+        "idioma": "lchej",
+        "significado": "faja"
+    },
+    {
+        "idioma": "le’e",
+        "significado": "estómago"
+    },
+    {
+        "idioma": "le’e",
+        "significado": "usted"
+    },
+    {
+        "idioma": "le’e",
+        "significado": "vientre"
+    },
+    {
+        "idioma": "le’e",
+        "significado": "vos"
+    },
+    {
+        "idioma": "le’en, le’eque",
+        "significado": "ustedes"
+    },
+    {
+        "idioma": "le’en, le’eque",
+        "significado": "vosotros"
+    },
+    {
+        "idioma": "le’equebe",
+        "significado": "ellas"
+    },
+    {
+        "idioma": "le’equebe",
+        "significado": "ellos"
+    },
+    {
+        "idioma": "lebe",
+        "significado": "él"
+    },
+    {
+        "idioma": "lebe",
+        "significado": "ella"
+    },
+    {
+        "idioma": "les",
+        "significado": "tampoco"
+    },
+    {
+        "idioma": "letr",
+        "significado": "letra"
+    },
+    {
+        "idioma": "lha",
+        "significado": "nombre"
+    },
+    {
+        "idioma": "lhaba",
+        "significado": "planta del pie"
+    },
+    {
+        "idioma": "lhaba’",
+        "significado": "gota"
+    },
+    {
+        "idioma": "lhadjo",
+        "significado": "entre"
+    },
+    {
+        "idioma": "lhanha",
+        "significado": "tizne"
+    },
+    {
+        "idioma": "lhapa’",
+        "significado": "sombrero"
+    },
+    {
+        "idioma": "lhase",
+        "significado": "delgado"
+    },
+    {
+        "idioma": "lhase",
+        "significado": "trenza"
+    },
+    {
+        "idioma": "lhate",
+        "significado": "poco"
+    },
+    {
+        "idioma": "lhawe, lhaneze’",
+        "significado": "porque"
+    },
+    {
+        "idioma": "lhaz",
+        "significado": "ocasión"
+    },
+    {
+        "idioma": "lhe’",
+        "significado": "tú"
+    },
+    {
+        "idioma": "lhe’ja",
+        "significado": "coral"
+    },
+    {
+        "idioma": "lhebe",
+        "significado": "igual"
+    },
+    {
+        "idioma": "lhego",
+        "significado": "chueco"
+    },
+    {
+        "idioma": "lhen",
+        "significado": "con"
+    },
+    {
+        "idioma": "lhio’",
+        "significado": "universo"
+    },
+    {
+        "idioma": "Lhio’ba (Mundo de muertos)",
+        "significado": "Mitla"
+    },
+    {
+        "idioma": "lhizya’, yo’o lhizya’",
+        "significado": "cárcel"
+    },
+    {
+        "idioma": "lho’a",
+        "significado": "disfraz"
+    },
+    {
+        "idioma": "lhoe",
+        "significado": "raíz"
+    },
+    {
+        "idioma": "lhon",
+        "significado": "chorrear"
+    },
+    {
+        "idioma": "li, licha",
+        "significado": "derecho"
+    },
+    {
+        "idioma": "li’j",
+        "significado": "pene"
+    },
+    {
+        "idioma": "li’j nixe’",
+        "significado": "uretra"
+    },
+    {
+        "idioma": "lib, yishe",
+        "significado": "libro"
+    },
+    {
+        "idioma": "liz",
+        "significado": "madriguera"
+    },
+    {
+        "idioma": "liz beche’",
+        "significado": "hormiguero"
+    },
+    {
+        "idioma": "ljueze’",
+        "significado": "amigo"
+    },
+    {
+        "idioma": "ljueze’",
+        "significado": "compañero"
+    },
+    {
+        "idioma": "lnhi",
+        "significado": "fiesta"
+    },
+    {
+        "idioma": "lochhe’",
+        "significado": "lengua (órgano)"
+    },
+    {
+        "idioma": "lochj",
+        "significado": "muela"
+    },
+    {
+        "idioma": "lox",
+        "significado": "barba"
+    },
+    {
+        "idioma": "lox",
+        "significado": "bigote"
+    },
+    {
+        "idioma": "loxga",
+        "significado": "Frente"
+    },
+    {
+        "idioma": "loyixe’",
+        "significado": "naturaleza"
+    },
+    {
+        "idioma": "lwa’a, lsaca’",
+        "significado": "foto"
+    },
+    {
+        "idioma": "lwa’a, lsaca’",
+        "significado": "fotografía"
+    },
+    {
+        "idioma": "lwa’a, lsaca’",
+        "significado": "imagen"
+    },
+    {
+        "idioma": "lyoze’, lbedo",
+        "significado": "fin"
+    },
+    {
+        "idioma": "lyoze’, lbedo",
+        "significado": "final"
+    },
+    {
+        "idioma": "mango",
+        "significado": "mango (fruta)"
+    },
+    {
+        "idioma": "manzin",
+        "significado": "chango"
+    },
+    {
+        "idioma": "manzin",
+        "significado": "mico"
+    },
+    {
+        "idioma": "manzin",
+        "significado": "mono"
+    },
+    {
+        "idioma": "maset",
+        "significado": "machete"
+    },
+    {
+        "idioma": "mba, banhez",
+        "significado": "feliz"
+    },
+    {
+        "idioma": "me’xhila’",
+        "significado": "cordero"
+    },
+    {
+        "idioma": "merho, xcuite",
+        "significado": "canastón"
+    },
+    {
+        "idioma": "mexhica’a, bene mexhica’a",
+        "significado": "mexicano"
+    },
+    {
+        "idioma": "Mexhico",
+        "significado": "México"
+    },
+    {
+        "idioma": "mix, bene mix",
+        "significado": "mixe"
+    },
+    {
+        "idioma": "morha",
+        "significado": "mora"
+    },
+    {
+        "idioma": "morhaza’",
+        "significado": "grano (semilla de granada)"
+    },
+    {
+        "idioma": "na’",
+        "significado": "color"
+    },
+    {
+        "idioma": "na’a",
+        "significado": "ahora"
+    },
+    {
+        "idioma": "na’a",
+        "significado": "brazo"
+    },
+    {
+        "idioma": "na’a",
+        "significado": "hoy"
+    },
+    {
+        "idioma": "nag",
+        "significado": "gaza"
+    },
+    {
+        "idioma": "nagaa, ninhaze",
+        "significado": "donde"
+    },
+    {
+        "idioma": "naxhoze’",
+        "significado": "peligro"
+    },
+    {
+        "idioma": "nazede",
+        "significado": "educado"
+    },
+    {
+        "idioma": "nazin",
+        "significado": "relleno"
+    },
+    {
+        "idioma": "nech",
+        "significado": "todavía"
+    },
+    {
+        "idioma": "nechho",
+        "significado": "primer"
+    },
+    {
+        "idioma": "nechho",
+        "significado": "primero"
+    },
+    {
+        "idioma": "nezia’",
+        "significado": "cereza"
+    },
+    {
+        "idioma": "nha",
+        "significado": "mano"
+    },
+    {
+        "idioma": "nhag",
+        "significado": "oído"
+    },
+    {
+        "idioma": "nhag",
+        "significado": "oreja"
+    },
+    {
+        "idioma": "nhapa",
+        "significado": "tener"
+    },
+    {
+        "idioma": "nhaque",
+        "significado": "ser"
+    },
+    {
+        "idioma": "nhaxte",
+        "significado": "aurora"
+    },
+    {
+        "idioma": "nhechhe",
+        "significado": "trementina"
+    },
+    {
+        "idioma": "nheda, nhaa",
+        "significado": "yo"
+    },
+    {
+        "idioma": "nhetja",
+        "significado": "sabor"
+    },
+    {
+        "idioma": "nheto’",
+        "significado": "nosotros"
+    },
+    {
+        "idioma": "nhez",
+        "significado": "camino"
+    },
+    {
+        "idioma": "nhez",
+        "significado": "vía"
+    },
+    {
+        "idioma": "nhez yo’o",
+        "significado": "autopista"
+    },
+    {
+        "idioma": "nhez yo’o",
+        "significado": "carretera"
+    },
+    {
+        "idioma": "nhis",
+        "significado": "agua"
+    },
+    {
+        "idioma": "nhis",
+        "significado": "jugo"
+    },
+    {
+        "idioma": "nhis cuan",
+        "significado": "caldo"
+    },
+    {
+        "idioma": "nhis la’ay",
+        "significado": "agua bendita"
+    },
+    {
+        "idioma": "nhis xhize’",
+        "significado": "leche materna"
+    },
+    {
+        "idioma": "nhisadoa’, nhop",
+        "significado": "aguamiel"
+    },
+    {
+        "idioma": "nhiscuasja",
+        "significado": "pozole (comida mexicana)"
+    },
+    {
+        "idioma": "nhisdao",
+        "significado": "mar"
+    },
+    {
+        "idioma": "nhisdao",
+        "significado": "océano"
+    },
+    {
+        "idioma": "nhiseye’",
+        "significado": "atole"
+    },
+    {
+        "idioma": "nhixe’",
+        "significado": "meada"
+    },
+    {
+        "idioma": "nhixe’",
+        "significado": "orina"
+    },
+    {
+        "idioma": "nhize’",
+        "significado": "leche"
+    },
+    {
+        "idioma": "nhize’",
+        "significado": "savia"
+    },
+    {
+        "idioma": "nhize’za",
+        "significado": "mantequilla"
+    },
+    {
+        "idioma": "nhol’le xhesoa",
+        "significado": "nieta"
+    },
+    {
+        "idioma": "nhol’le, bene nhol’le",
+        "significado": "mujer"
+    },
+    {
+        "idioma": "nhoo",
+        "significado": "quién"
+    },
+    {
+        "idioma": "nhope",
+        "significado": "tepache (licor de piña)"
+    },
+    {
+        "idioma": "ni’a",
+        "significado": "pata"
+    },
+    {
+        "idioma": "ni’a",
+        "significado": "pie"
+    },
+    {
+        "idioma": "ni’a",
+        "significado": "pierna"
+    },
+    {
+        "idioma": "ni’a xben",
+        "significado": "dedo del pie"
+    },
+    {
+        "idioma": "ni’achho",
+        "significado": "a pie"
+    },
+    {
+        "idioma": "ni’chho",
+        "significado": "manosear"
+    },
+    {
+        "idioma": "nia’che, cuenhe",
+        "significado": "para"
+    },
+    {
+        "idioma": "nila",
+        "significado": "hipnotizar"
+    },
+    {
+        "idioma": "nirho",
+        "significado": "cuidado"
+    },
+    {
+        "idioma": "nose’wen",
+        "significado": "navidad"
+    },
+    {
+        "idioma": "nyela’, nonhida’",
+        "significado": "abrazado"
+    },
+    {
+        "idioma": "nza’, yoz",
+        "significado": "lleno"
+    },
+    {
+        "idioma": "ojo’o",
+        "significado": "así es"
+    },
+    {
+        "idioma": "ojo’o",
+        "significado": "es correcto"
+    },
+    {
+        "idioma": "padioxh",
+        "significado": "hola"
+    },
+    {
+        "idioma": "panhel, zix",
+        "significado": "azúcar"
+    },
+    {
+        "idioma": "panhel, zix",
+        "significado": "piloncillo"
+    },
+    {
+        "idioma": "parh, che, ze",
+        "significado": "a (hacia)"
+    },
+    {
+        "idioma": "pasco",
+        "significado": "pascua"
+    },
+    {
+        "idioma": "payo",
+        "significado": "papaya"
+    },
+    {
+        "idioma": "perha",
+        "significado": "pera"
+    },
+    {
+        "idioma": "Porhuga’",
+        "significado": "Portugal"
+    },
+    {
+        "idioma": "porhugas, bene porhugas",
+        "significado": "portugués"
+    },
+    {
+        "idioma": "quex",
+        "significado": "queso"
+    },
+    {
+        "idioma": "quexha",
+        "significado": "venerable"
+    },
+    {
+        "idioma": "rhanzo’, yo’o rhanzo’",
+        "significado": "cabaña"
+    },
+    {
+        "idioma": "rhanzo’, yo’o rhanzo’",
+        "significado": "choza"
+    },
+    {
+        "idioma": "rhio’",
+        "significado": "grillo"
+    },
+    {
+        "idioma": "rhita, cobe",
+        "significado": "nuevo"
+    },
+    {
+        "idioma": "rhosa",
+        "significado": "rosa"
+    },
+    {
+        "idioma": "rhoyej, terhoyej",
+        "significado": "chupamirto"
+    },
+    {
+        "idioma": "rhoyej, terhoyej",
+        "significado": "colibrí"
+    },
+    {
+        "idioma": "rhoyej, terhoyej",
+        "significado": "picaflor"
+    },
+    {
+        "idioma": "rhuz",
+        "significado": "cruz"
+    },
+    {
+        "idioma": "san",
+        "significado": "pero"
+    },
+    {
+        "idioma": "sbate, nlan, bate",
+        "significado": "tibio"
+    },
+    {
+        "idioma": "sclhao",
+        "significado": "iniciar"
+    },
+    {
+        "idioma": "scue’go’on, chacue’",
+        "significado": "yunta"
+    },
+    {
+        "idioma": "ser",
+        "significado": "cera"
+    },
+    {
+        "idioma": "set, za",
+        "significado": "aceite"
+    },
+    {
+        "idioma": "sha’",
+        "significado": "cazuela"
+    },
+    {
+        "idioma": "shan",
+        "significado": "fétido"
+    },
+    {
+        "idioma": "shib",
+        "significado": "cabra"
+    },
+    {
+        "idioma": "shib",
+        "significado": "chivo"
+    },
+    {
+        "idioma": "shilha",
+        "significado": "comal"
+    },
+    {
+        "idioma": "shite",
+        "significado": "rato"
+    },
+    {
+        "idioma": "shitli’j",
+        "significado": "testículo"
+    },
+    {
+        "idioma": "shize’",
+        "significado": "silencio"
+    },
+    {
+        "idioma": "shode",
+        "significado": "aura"
+    },
+    {
+        "idioma": "shode",
+        "significado": "buítre"
+    },
+    {
+        "idioma": "shode",
+        "significado": "zopilote (aura)"
+    },
+    {
+        "idioma": "shogolaze’",
+        "significado": "despacio"
+    },
+    {
+        "idioma": "shojtao",
+        "significado": "tarántula (araña)"
+    },
+    {
+        "idioma": "shone",
+        "significado": "tres"
+    },
+    {
+        "idioma": "si’na",
+        "significado": "tepalcate"
+    },
+    {
+        "idioma": "sibe",
+        "significado": "alto"
+    },
+    {
+        "idioma": "sisa",
+        "significado": "insípido"
+    },
+    {
+        "idioma": "Sita’",
+        "significado": "Ciudad de México"
+    },
+    {
+        "idioma": "siy",
+        "significado": "silla"
+    },
+    {
+        "idioma": "sna’a, zede’",
+        "significado": "salado"
+    },
+    {
+        "idioma": "snhia",
+        "significado": "furioso"
+    },
+    {
+        "idioma": "sona’",
+        "significado": "interesante"
+    },
+    {
+        "idioma": "swi’a, si’a",
+        "significado": "cacao"
+    },
+    {
+        "idioma": "tacxhin",
+        "significado": "suegro"
+    },
+    {
+        "idioma": "tangolu",
+        "significado": "muñeca"
+    },
+    {
+        "idioma": "tangolu",
+        "significado": "muñeco"
+    },
+    {
+        "idioma": "tape",
+        "significado": "cuatro"
+    },
+    {
+        "idioma": "te",
+        "significado": "gris"
+    },
+    {
+        "idioma": "to",
+        "significado": "un"
+    },
+    {
+        "idioma": "to",
+        "significado": "una"
+    },
+    {
+        "idioma": "to",
+        "significado": "uno"
+    },
+    {
+        "idioma": "to chorha",
+        "significado": "veintiuno"
+    },
+    {
+        "idioma": "tola’ale",
+        "significado": "canto"
+    },
+    {
+        "idioma": "toli",
+        "significado": "directo"
+    },
+    {
+        "idioma": "tona",
+        "significado": "largo"
+    },
+    {
+        "idioma": "torhi",
+        "significado": "siempre"
+    },
+    {
+        "idioma": "trax",
+        "significado": "durazno"
+    },
+    {
+        "idioma": "uba",
+        "significado": "uva"
+    },
+    {
+        "idioma": "uba",
+        "significado": "vid"
+    },
+    {
+        "idioma": "vaca",
+        "significado": "vaca"
+    },
+    {
+        "idioma": "wachan",
+        "significado": "sábana"
+    },
+    {
+        "idioma": "wache’",
+        "significado": "lagartija"
+    },
+    {
+        "idioma": "wache’, wache’xhejle’e",
+        "significado": "lagarto"
+    },
+    {
+        "idioma": "wache’daxhen",
+        "significado": "caimán"
+    },
+    {
+        "idioma": "wache’daxhen",
+        "significado": "cocodrilo"
+    },
+    {
+        "idioma": "wache’xhej",
+        "significado": "iguana"
+    },
+    {
+        "idioma": "wag",
+        "significado": "rata"
+    },
+    {
+        "idioma": "walhaze’",
+        "significado": "paisano"
+    },
+    {
+        "idioma": "wanhe",
+        "significado": "espejo"
+    },
+    {
+        "idioma": "waque",
+        "significado": "poder"
+    },
+    {
+        "idioma": "wate, chat",
+        "significado": "morir"
+    },
+    {
+        "idioma": "wawgobiza",
+        "significado": "medio día"
+    },
+    {
+        "idioma": "waya’a",
+        "significado": "danzante"
+    },
+    {
+        "idioma": "waya’g",
+        "significado": "leña"
+    },
+    {
+        "idioma": "we’",
+        "significado": "golpear"
+    },
+    {
+        "idioma": "we’",
+        "significado": "herida"
+    },
+    {
+        "idioma": "we’",
+        "significado": "llaga"
+    },
+    {
+        "idioma": "we’",
+        "significado": "rabia"
+    },
+    {
+        "idioma": "we’",
+        "significado": "úlcera"
+    },
+    {
+        "idioma": "we’e",
+        "significado": "helecho"
+    },
+    {
+        "idioma": "we’e",
+        "significado": "pegar"
+    },
+    {
+        "idioma": "we’e",
+        "significado": "tomar"
+    },
+    {
+        "idioma": "webez",
+        "significado": "llorar"
+    },
+    {
+        "idioma": "wecao",
+        "significado": "jalar"
+    },
+    {
+        "idioma": "wechaze’, chayoze’",
+        "significado": "discutir"
+    },
+    {
+        "idioma": "wechhin",
+        "significado": "trabajar"
+    },
+    {
+        "idioma": "wechin",
+        "significado": "utilizar"
+    },
+    {
+        "idioma": "wechogolhaze’",
+        "significado": "valeroso"
+    },
+    {
+        "idioma": "wechox",
+        "significado": "pelar"
+    },
+    {
+        "idioma": "wecueze’",
+        "significado": "músico"
+    },
+    {
+        "idioma": "wedazaga’",
+        "significado": "vagabundo"
+    },
+    {
+        "idioma": "wede’diidza",
+        "significado": "traducir"
+    },
+    {
+        "idioma": "wedelhao",
+        "significado": "tolerar"
+    },
+    {
+        "idioma": "wedolja",
+        "significado": "zafar"
+    },
+    {
+        "idioma": "wego’, chhaban",
+        "significado": "joven"
+    },
+    {
+        "idioma": "wegozj, gozj",
+        "significado": "bañar"
+    },
+    {
+        "idioma": "wej",
+        "significado": "cigarro"
+    },
+    {
+        "idioma": "wej",
+        "significado": "tabaco"
+    },
+    {
+        "idioma": "wela’a",
+        "significado": "cantar"
+    },
+    {
+        "idioma": "welebe",
+        "significado": "hervir"
+    },
+    {
+        "idioma": "welhaba",
+        "significado": "leer"
+    },
+    {
+        "idioma": "welhatj",
+        "significado": "vaciar"
+    },
+    {
+        "idioma": "welhe’e",
+        "significado": "mirar"
+    },
+    {
+        "idioma": "wen’beda, wen’rhemed",
+        "significado": "curandero"
+    },
+    {
+        "idioma": "wen’beda, wen’rhemed",
+        "significado": "doctor"
+    },
+    {
+        "idioma": "wen’rhemed",
+        "significado": "medico"
+    },
+    {
+        "idioma": "wenbea’",
+        "significado": "conocer"
+    },
+    {
+        "idioma": "wenda’xhinj",
+        "significado": "pecador"
+    },
+    {
+        "idioma": "wene, choe’diidza",
+        "significado": "hablar"
+    },
+    {
+        "idioma": "wenha",
+        "significado": "lavar (las manos)"
+    },
+    {
+        "idioma": "wenha, choe’, diidze’",
+        "significado": "decir"
+    },
+    {
+        "idioma": "wenhabia",
+        "significado": "mandar"
+    },
+    {
+        "idioma": "wenhida’, chyela’",
+        "significado": "abrazar"
+    },
+    {
+        "idioma": "wenhize’",
+        "significado": "desaparecer"
+    },
+    {
+        "idioma": "weni’a",
+        "significado": "rico (millonario)"
+    },
+    {
+        "idioma": "wenlaze’",
+        "significado": "mentir"
+    },
+    {
+        "idioma": "wesalhja",
+        "significado": "abrir"
+    },
+    {
+        "idioma": "weshon",
+        "significado": "impedir"
+    },
+    {
+        "idioma": "wesia",
+        "significado": "garrapata"
+    },
+    {
+        "idioma": "wet, chhot",
+        "significado": "matar"
+    },
+    {
+        "idioma": "wetas",
+        "significado": "dormir"
+    },
+    {
+        "idioma": "wetilhayia’ (mimus polyglottos)",
+        "significado": "cenzontle"
+    },
+    {
+        "idioma": "wetin",
+        "significado": "tronar"
+    },
+    {
+        "idioma": "weto",
+        "significado": "moler"
+    },
+    {
+        "idioma": "weto",
+        "significado": "molino"
+    },
+    {
+        "idioma": "wetopa",
+        "significado": "untar"
+    },
+    {
+        "idioma": "wewia",
+        "significado": "observar"
+    },
+    {
+        "idioma": "wexha",
+        "significado": "abrir objetos"
+    },
+    {
+        "idioma": "wexhib",
+        "significado": "correcaminos (ave)"
+    },
+    {
+        "idioma": "wexhinja",
+        "significado": "descomponer"
+    },
+    {
+        "idioma": "wexhinja",
+        "significado": "destruir"
+    },
+    {
+        "idioma": "wexhize’",
+        "significado": "estornudar"
+    },
+    {
+        "idioma": "wexhize’",
+        "significado": "reír"
+    },
+    {
+        "idioma": "wexhize’",
+        "significado": "risa"
+    },
+    {
+        "idioma": "wexite, gozjalhas",
+        "significado": "libélula"
+    },
+    {
+        "idioma": "weya’a",
+        "significado": "bailarín"
+    },
+    {
+        "idioma": "weya’a",
+        "significado": "baile"
+    },
+    {
+        "idioma": "weya’a",
+        "significado": "danza"
+    },
+    {
+        "idioma": "weyanhe",
+        "significado": "desanimar"
+    },
+    {
+        "idioma": "weyeb",
+        "significado": "vomitar"
+    },
+    {
+        "idioma": "weyis",
+        "significado": "defecar"
+    },
+    {
+        "idioma": "weyis’",
+        "significado": "cagar"
+    },
+    {
+        "idioma": "weyo’nhez",
+        "significado": "viaje"
+    },
+    {
+        "idioma": "weyoze’",
+        "significado": "terminar"
+    },
+    {
+        "idioma": "weza’",
+        "significado": "cambiar"
+    },
+    {
+        "idioma": "wezan, wezan le’e",
+        "significado": "matriz"
+    },
+    {
+        "idioma": "weze’",
+        "significado": "parar"
+    },
+    {
+        "idioma": "weze’ge",
+        "significado": "confundir"
+    },
+    {
+        "idioma": "wezo",
+        "significado": "volar"
+    },
+    {
+        "idioma": "wia",
+        "significado": "maduro"
+    },
+    {
+        "idioma": "wibe",
+        "significado": "lavar"
+    },
+    {
+        "idioma": "wii ga’, limo",
+        "significado": "limón"
+    },
+    {
+        "idioma": "wii zix",
+        "significado": "lima"
+    },
+    {
+        "idioma": "wii, brax",
+        "significado": "naranja"
+    },
+    {
+        "idioma": "wii, wii je’j",
+        "significado": "guayaba"
+    },
+    {
+        "idioma": "wiizichj",
+        "significado": "naranja agria"
+    },
+    {
+        "idioma": "wiizitjo",
+        "significado": "sidra"
+    },
+    {
+        "idioma": "wiizitjo (malus sylvestris)",
+        "significado": "manzana"
+    },
+    {
+        "idioma": "wilao’",
+        "significado": "oruga"
+    },
+    {
+        "idioma": "wilha",
+        "significado": "regar"
+    },
+    {
+        "idioma": "winhe, xcheta",
+        "significado": "hígado"
+    },
+    {
+        "idioma": "winhi",
+        "significado": "paludismo"
+    },
+    {
+        "idioma": "wisio",
+        "significado": "grito"
+    },
+    {
+        "idioma": "witj",
+        "significado": "juego"
+    },
+    {
+        "idioma": "witj boshe",
+        "significado": "juguete"
+    },
+    {
+        "idioma": "wixowej",
+        "significado": "gusano blanco"
+    },
+    {
+        "idioma": "wizj",
+        "significado": "pasado mañana"
+    },
+    {
+        "idioma": "wxhe",
+        "significado": "mañana (día posterior)"
+    },
+    {
+        "idioma": "xa",
+        "significado": "padre"
+    },
+    {
+        "idioma": "xa",
+        "significado": "papá"
+    },
+    {
+        "idioma": "xa xhila’",
+        "significado": "lana"
+    },
+    {
+        "idioma": "xacula’, bechhjo bnha’",
+        "significado": "guajolota (hembra del pavo)"
+    },
+    {
+        "idioma": "xaga",
+        "significado": "mejilla"
+    },
+    {
+        "idioma": "xaxnha’",
+        "significado": "padres (padre y madre)"
+    },
+    {
+        "idioma": "xbab",
+        "significado": "idea"
+    },
+    {
+        "idioma": "xban, xbanjez",
+        "significado": "tlacuache"
+    },
+    {
+        "idioma": "xban, xbanjez",
+        "significado": "zarigüeya"
+    },
+    {
+        "idioma": "xbanyoj",
+        "significado": "mapache"
+    },
+    {
+        "idioma": "xben",
+        "significado": "dedo"
+    },
+    {
+        "idioma": "xche’e belhj",
+        "significado": "meteorito"
+    },
+    {
+        "idioma": "xche’ebelhja",
+        "significado": "aerolito"
+    },
+    {
+        "idioma": "xchega’",
+        "significado": "barbilla"
+    },
+    {
+        "idioma": "xchega’",
+        "significado": "mentón"
+    },
+    {
+        "idioma": "xchinlaze’",
+        "significado": "herramienta"
+    },
+    {
+        "idioma": "xchoga’",
+        "significado": "cáscara de nuez"
+    },
+    {
+        "idioma": "xchoga’",
+        "significado": "casco"
+    },
+    {
+        "idioma": "xchoga’",
+        "significado": "concha"
+    },
+    {
+        "idioma": "xchoga’zit",
+        "significado": "cáscara de huevo"
+    },
+    {
+        "idioma": "xcogo",
+        "significado": "nuca"
+    },
+    {
+        "idioma": "xcuitenhag",
+        "significado": "chiquihuite"
+    },
+    {
+        "idioma": "xcusad",
+        "significado": "baño público"
+    },
+    {
+        "idioma": "xcusad",
+        "significado": "letrina"
+    },
+    {
+        "idioma": "xdan",
+        "significado": "hermoso"
+    },
+    {
+        "idioma": "xe",
+        "significado": "creación"
+    },
+    {
+        "idioma": "xe’e, sban, schanhi",
+        "significado": "feo"
+    },
+    {
+        "idioma": "xgashe",
+        "significado": "amarillo obscuro"
+    },
+    {
+        "idioma": "xgia",
+        "significado": "daño"
+    },
+    {
+        "idioma": "xha",
+        "significado": "cáscara"
+    },
+    {
+        "idioma": "xha",
+        "significado": "prenda"
+    },
+    {
+        "idioma": "xha",
+        "significado": "ropa"
+    },
+    {
+        "idioma": "xhachherha",
+        "significado": "chamarra"
+    },
+    {
+        "idioma": "xhachherha",
+        "significado": "chaqueta"
+    },
+    {
+        "idioma": "xhachherha",
+        "significado": "cobija"
+    },
+    {
+        "idioma": "xhachherha",
+        "significado": "zamarra"
+    },
+    {
+        "idioma": "xhaga’",
+        "significado": "huipil (camizón femenino)"
+    },
+    {
+        "idioma": "xhan",
+        "significado": "abajo de"
+    },
+    {
+        "idioma": "xhan",
+        "significado": "debajo"
+    },
+    {
+        "idioma": "xhan",
+        "significado": "glúteo"
+    },
+    {
+        "idioma": "xhan",
+        "significado": "jefe"
+    },
+    {
+        "idioma": "xhan",
+        "significado": "nalga"
+    },
+    {
+        "idioma": "Xhapon",
+        "significado": "Japón"
+    },
+    {
+        "idioma": "xhapon, bene xhapon",
+        "significado": "japonés"
+    },
+    {
+        "idioma": "xhat",
+        "significado": "gordo"
+    },
+    {
+        "idioma": "xhawide’",
+        "significado": "egoísta"
+    },
+    {
+        "idioma": "xhe, xha",
+        "significado": "forro"
+    },
+    {
+        "idioma": "xhee",
+        "significado": "envidia"
+    },
+    {
+        "idioma": "xhejsa",
+        "significado": "disputa"
+    },
+    {
+        "idioma": "xhejsa",
+        "significado": "pelea"
+    },
+    {
+        "idioma": "xhejsa",
+        "significado": "riña"
+    },
+    {
+        "idioma": "xhen",
+        "significado": "cubierta"
+    },
+    {
+        "idioma": "xhen",
+        "significado": "funda"
+    },
+    {
+        "idioma": "xhen",
+        "significado": "humo"
+    },
+    {
+        "idioma": "xhenhe’",
+        "significado": "baba"
+    },
+    {
+        "idioma": "xhenhe’",
+        "significado": "saliva"
+    },
+    {
+        "idioma": "xhesoa, bene xhesoa",
+        "significado": "nieto"
+    },
+    {
+        "idioma": "xheza",
+        "significado": "escama"
+    },
+    {
+        "idioma": "xhi’a",
+        "significado": "malo"
+    },
+    {
+        "idioma": "Xhiapa",
+        "significado": "Chiapas"
+    },
+    {
+        "idioma": "xhiapa, bene xhiapa",
+        "significado": "chiapaneco"
+    },
+    {
+        "idioma": "xhib",
+        "significado": "rodilla"
+    },
+    {
+        "idioma": "xhichj",
+        "significado": "muslo"
+    },
+    {
+        "idioma": "xhid yixe’",
+        "significado": "gato montés"
+    },
+    {
+        "idioma": "xhid yixe’",
+        "significado": "lince"
+    },
+    {
+        "idioma": "xhila’",
+        "significado": "algodón"
+    },
+    {
+        "idioma": "xhila’",
+        "significado": "borrego"
+    },
+    {
+        "idioma": "xhila’",
+        "significado": "oveja"
+    },
+    {
+        "idioma": "xhilh",
+        "significado": "blanco"
+    },
+    {
+        "idioma": "xhilhaze’",
+        "significado": "higiene"
+    },
+    {
+        "idioma": "xhilid",
+        "significado": "chipil (niño llorón)"
+    },
+    {
+        "idioma": "xhilixe’e",
+        "significado": "hipo"
+    },
+    {
+        "idioma": "xhin",
+        "significado": "hijo"
+    },
+    {
+        "idioma": "xhinja",
+        "significado": "desgracia"
+    },
+    {
+        "idioma": "xhis",
+        "significado": "codo"
+    },
+    {
+        "idioma": "xhis",
+        "significado": "palo"
+    },
+    {
+        "idioma": "xhis",
+        "significado": "vara"
+    },
+    {
+        "idioma": "xhis xya",
+        "significado": "varilla"
+    },
+    {
+        "idioma": "xhita",
+        "significado": "hueso"
+    },
+    {
+        "idioma": "xhita chho’a",
+        "significado": "quijada"
+    },
+    {
+        "idioma": "xhita coze’",
+        "significado": "columna vertebral"
+    },
+    {
+        "idioma": "xhita xhan",
+        "significado": "cadera"
+    },
+    {
+        "idioma": "xhita yen",
+        "significado": "manzana de Adán (anatomía)"
+    },
+    {
+        "idioma": "xhitjo",
+        "significado": "barranca"
+    },
+    {
+        "idioma": "xhize’",
+        "significado": "chichi (seno)"
+    },
+    {
+        "idioma": "xhize’",
+        "significado": "estornudo"
+    },
+    {
+        "idioma": "xhize’",
+        "significado": "seno"
+    },
+    {
+        "idioma": "xhize’",
+        "significado": "ubre"
+    },
+    {
+        "idioma": "xho’ag",
+        "significado": "jarro"
+    },
+    {
+        "idioma": "xho’ze’",
+        "significado": "yerno"
+    },
+    {
+        "idioma": "xhoa",
+        "significado": "yacer"
+    },
+    {
+        "idioma": "xhoa’",
+        "significado": "maíz"
+    },
+    {
+        "idioma": "xhoa’yeza",
+        "significado": "maíz (mazorca)"
+    },
+    {
+        "idioma": "xhogo’",
+        "significado": "garra"
+    },
+    {
+        "idioma": "xhoj",
+        "significado": "salsa"
+    },
+    {
+        "idioma": "xholha",
+        "significado": "sombra"
+    },
+    {
+        "idioma": "xhon, bene xhon",
+        "significado": "zapoteco"
+    },
+    {
+        "idioma": "xhono’",
+        "significado": "bragas"
+    },
+    {
+        "idioma": "xhono’",
+        "significado": "calzón"
+    },
+    {
+        "idioma": "xhono’",
+        "significado": "calzoncillo"
+    },
+    {
+        "idioma": "xhono’",
+        "significado": "trusa"
+    },
+    {
+        "idioma": "xhono’bi’dao",
+        "significado": "pañal"
+    },
+    {
+        "idioma": "xhoque",
+        "significado": "muñeca (de la mano)"
+    },
+    {
+        "idioma": "xhue",
+        "significado": "comida"
+    },
+    {
+        "idioma": "xi’in yishe’",
+        "significado": "mano de metate (metlapil)"
+    },
+    {
+        "idioma": "xichna’",
+        "significado": "paraje"
+    },
+    {
+        "idioma": "xinha’",
+        "significado": "nariz"
+    },
+    {
+        "idioma": "xjalo",
+        "significado": "intestino"
+    },
+    {
+        "idioma": "xjalo",
+        "significado": "tripa"
+    },
+    {
+        "idioma": "xjesba’",
+        "significado": "molleja"
+    },
+    {
+        "idioma": "xlhega, xhita yichj",
+        "significado": "cráneo"
+    },
+    {
+        "idioma": "xna",
+        "significado": "colorado"
+    },
+    {
+        "idioma": "xna",
+        "significado": "rojo"
+    },
+    {
+        "idioma": "xnha’",
+        "significado": "madre"
+    },
+    {
+        "idioma": "xnha’bdao, xnha’nhis",
+        "significado": "madrina"
+    },
+    {
+        "idioma": "xnha’dao, xnha’we",
+        "significado": "mamá"
+    },
+    {
+        "idioma": "xnha’golh",
+        "significado": "abuela"
+    },
+    {
+        "idioma": "xnha’tacxhin",
+        "significado": "suegra"
+    },
+    {
+        "idioma": "xnha’zi",
+        "significado": "madrastra"
+    },
+    {
+        "idioma": "xnhez yelha",
+        "significado": "vía lactea"
+    },
+    {
+        "idioma": "xo’olhiz",
+        "significado": "nuera"
+    },
+    {
+        "idioma": "xoa",
+        "significado": "racimo"
+    },
+    {
+        "idioma": "xobe",
+        "significado": "yeso"
+    },
+    {
+        "idioma": "xogo’",
+        "significado": "uña"
+    },
+    {
+        "idioma": "xonhax",
+        "significado": "ajo"
+    },
+    {
+        "idioma": "xonhax",
+        "significado": "virgen"
+    },
+    {
+        "idioma": "xono’",
+        "significado": "ocho"
+    },
+    {
+        "idioma": "xope",
+        "significado": "seis"
+    },
+    {
+        "idioma": "xoze’",
+        "significado": "rama"
+    },
+    {
+        "idioma": "xsa",
+        "significado": "grano (semilla)"
+    },
+    {
+        "idioma": "xtalj",
+        "significado": "flojo (guango)"
+    },
+    {
+        "idioma": "xtalj",
+        "significado": "guango (que no aprieta)"
+    },
+    {
+        "idioma": "xtao’, xagolh",
+        "significado": "abuelo"
+    },
+    {
+        "idioma": "xtilh, bene xtilh",
+        "significado": "hispano"
+    },
+    {
+        "idioma": "xtilh, bene xtilha",
+        "significado": "castellano"
+    },
+    {
+        "idioma": "Xtilha",
+        "significado": "Castilla"
+    },
+    {
+        "idioma": "Xtilha",
+        "significado": "España"
+    },
+    {
+        "idioma": "xtilha, bene xtilha",
+        "significado": "español"
+    },
+    {
+        "idioma": "xya",
+        "significado": "hierro"
+    },
+    {
+        "idioma": "xya",
+        "significado": "metal"
+    },
+    {
+        "idioma": "xyicho’",
+        "significado": "ombligo"
+    },
+    {
+        "idioma": "ya",
+        "significado": "caña"
+    },
+    {
+        "idioma": "ya xtilh",
+        "significado": "caña de maíz"
+    },
+    {
+        "idioma": "ya xtilh",
+        "significado": "carrizo"
+    },
+    {
+        "idioma": "ya yetj",
+        "significado": "caña de azúcar"
+    },
+    {
+        "idioma": "ya’a",
+        "significado": "mercado"
+    },
+    {
+        "idioma": "ya’a",
+        "significado": "montaña"
+    },
+    {
+        "idioma": "ya’a",
+        "significado": "rifle"
+    },
+    {
+        "idioma": "ya’a",
+        "significado": "temascal (baño a vapor)"
+    },
+    {
+        "idioma": "ya’a, zi’a",
+        "significado": "cerro"
+    },
+    {
+        "idioma": "ya’adao",
+        "significado": "monte"
+    },
+    {
+        "idioma": "ya’g",
+        "significado": "árbol"
+    },
+    {
+        "idioma": "ya’g",
+        "significado": "madera"
+    },
+    {
+        "idioma": "ya’g btose’",
+        "significado": "colorín (árbol)"
+    },
+    {
+        "idioma": "ya’g cafe",
+        "significado": "cafeto"
+    },
+    {
+        "idioma": "ya’g doga, ya’g shide’",
+        "significado": "jonote (árbol)"
+    },
+    {
+        "idioma": "ya’g lhexe",
+        "significado": "caoba"
+    },
+    {
+        "idioma": "ya’g rhiza’",
+        "significado": "horcón (viga de madera)"
+    },
+    {
+        "idioma": "ya’g siy",
+        "significado": "banca (de madera)"
+    },
+    {
+        "idioma": "ya’g siy",
+        "significado": "silla de madera"
+    },
+    {
+        "idioma": "ya’g uba",
+        "significado": "viña"
+    },
+    {
+        "idioma": "ya’g yechhe",
+        "significado": "ocote"
+    },
+    {
+        "idioma": "ya’g yixwigo (ficus carica)",
+        "significado": "higuera"
+    },
+    {
+        "idioma": "ya’gdao",
+        "significado": "bosque"
+    },
+    {
+        "idioma": "ya’gozj",
+        "significado": "baño (cuarto)"
+    },
+    {
+        "idioma": "yaba’",
+        "significado": "cielo"
+    },
+    {
+        "idioma": "yaba’",
+        "significado": "cosmos"
+    },
+    {
+        "idioma": "yacha",
+        "significado": "sorpresa"
+    },
+    {
+        "idioma": "yachhe",
+        "significado": "limpio"
+    },
+    {
+        "idioma": "yalha",
+        "significado": "copal"
+    },
+    {
+        "idioma": "yalha",
+        "significado": "incienso"
+    },
+    {
+        "idioma": "yalha",
+        "significado": "tonto"
+    },
+    {
+        "idioma": "yalhjao",
+        "significado": "abierto"
+    },
+    {
+        "idioma": "yan",
+        "significado": "corazón de maíz (olote)"
+    },
+    {
+        "idioma": "yan",
+        "significado": "olote (corazón de maíz)"
+    },
+    {
+        "idioma": "yane",
+        "significado": "concentrado"
+    },
+    {
+        "idioma": "yap",
+        "significado": "chayote"
+    },
+    {
+        "idioma": "yaque",
+        "significado": "huacal"
+    },
+    {
+        "idioma": "yawage",
+        "significado": "hacha"
+    },
+    {
+        "idioma": "yaxtilh",
+        "significado": "jabón"
+    },
+    {
+        "idioma": "yaz",
+        "significado": "ciruela"
+    },
+    {
+        "idioma": "yaz",
+        "significado": "hoja de maíz"
+    },
+    {
+        "idioma": "yaze’",
+        "significado": "miserable"
+    },
+    {
+        "idioma": "yaze’",
+        "significado": "pobre"
+    },
+    {
+        "idioma": "Yaze’e",
+        "significado": "Istmo (Tehuantepec)"
+    },
+    {
+        "idioma": "Yaze’e",
+        "significado": "Tehuantepec"
+    },
+    {
+        "idioma": "ye’",
+        "significado": "roña"
+    },
+    {
+        "idioma": "ye’e",
+        "significado": "caca (mierda)"
+    },
+    {
+        "idioma": "ye’e",
+        "significado": "cagada"
+    },
+    {
+        "idioma": "ye’e",
+        "significado": "estiércol"
+    },
+    {
+        "idioma": "ye’e",
+        "significado": "mierda"
+    },
+    {
+        "idioma": "ye’e xinha’",
+        "significado": "moco"
+    },
+    {
+        "idioma": "ye’ena",
+        "significado": "plato"
+    },
+    {
+        "idioma": "ye’j",
+        "significado": "piedra"
+    },
+    {
+        "idioma": "ye’j sigo",
+        "significado": "cebolla"
+    },
+    {
+        "idioma": "yech xhil, ya’g xhil",
+        "significado": "abeto"
+    },
+    {
+        "idioma": "yechhe",
+        "significado": "pino"
+    },
+    {
+        "idioma": "yechho",
+        "significado": "agujero"
+    },
+    {
+        "idioma": "yechho",
+        "significado": "hoyo"
+    },
+    {
+        "idioma": "yechje",
+        "significado": "reuma"
+    },
+    {
+        "idioma": "yegarha, rhebesle",
+        "significado": "izquierda"
+    },
+    {
+        "idioma": "yego",
+        "significado": "río"
+    },
+    {
+        "idioma": "yej",
+        "significado": "flor"
+    },
+    {
+        "idioma": "yej bdao",
+        "significado": "lirio"
+    },
+    {
+        "idioma": "yej cua’",
+        "significado": "cempasúchil"
+    },
+    {
+        "idioma": "yej cua’",
+        "significado": "damasquina (cempasúchil)"
+    },
+    {
+        "idioma": "yej le’e",
+        "significado": "abdomen"
+    },
+    {
+        "idioma": "yej parhoe",
+        "significado": "floripondio (planta)"
+    },
+    {
+        "idioma": "yej pi’o",
+        "significado": "azalea"
+    },
+    {
+        "idioma": "yej tzib",
+        "significado": "azucena"
+    },
+    {
+        "idioma": "yejo",
+        "significado": "lluvia"
+    },
+    {
+        "idioma": "yejo bzan , yejo lase’",
+        "significado": "llovizna"
+    },
+    {
+        "idioma": "yela’",
+        "significado": "banana"
+    },
+    {
+        "idioma": "yela’",
+        "significado": "plátano"
+    },
+    {
+        "idioma": "yela’benach, benach",
+        "significado": "humanidad"
+    },
+    {
+        "idioma": "yela’beyo",
+        "significado": "virilidad"
+    },
+    {
+        "idioma": "yela’che’epa",
+        "significado": "fortaleza"
+    },
+    {
+        "idioma": "yela’chjalilhaze’",
+        "significado": "fe"
+    },
+    {
+        "idioma": "yela’chxhenlaze’",
+        "significado": "paciencia"
+    },
+    {
+        "idioma": "yela’cuide, yela’xi’a",
+        "significado": "odio"
+    },
+    {
+        "idioma": "yela’doa",
+        "significado": "pepino"
+    },
+    {
+        "idioma": "yela’just",
+        "significado": "justicia"
+    },
+    {
+        "idioma": "yela’nban",
+        "significado": "vida"
+    },
+    {
+        "idioma": "yela’waque",
+        "significado": "poder (fuerza)"
+    },
+    {
+        "idioma": "yela’wate",
+        "significado": "muerte"
+    },
+    {
+        "idioma": "yela’wedabaga",
+        "significado": "intento"
+    },
+    {
+        "idioma": "yela’wewia",
+        "significado": "observación"
+    },
+    {
+        "idioma": "yela’wine’",
+        "significado": "luto"
+    },
+    {
+        "idioma": "yela’xhoa’",
+        "significado": "maizal"
+    },
+    {
+        "idioma": "yela’xhon",
+        "significado": "mamey"
+    },
+    {
+        "idioma": "yela’xhon",
+        "significado": "zapote mamey"
+    },
+    {
+        "idioma": "yela’yaze’",
+        "significado": "miseria"
+    },
+    {
+        "idioma": "yela’yaze’",
+        "significado": "pobreza"
+    },
+    {
+        "idioma": "yela’yelhj",
+        "significado": "satisfacción"
+    },
+    {
+        "idioma": "yela’zide",
+        "significado": "chicozapote"
+    },
+    {
+        "idioma": "yelao’, shawe’",
+        "significado": "abundancia"
+    },
+    {
+        "idioma": "yelasdao, zto",
+        "significado": "vergüenza"
+    },
+    {
+        "idioma": "yelashi’lha",
+        "significado": "abnegación"
+    },
+    {
+        "idioma": "yelh",
+        "significado": "calzado"
+    },
+    {
+        "idioma": "yelh",
+        "significado": "huarache (sandalia)"
+    },
+    {
+        "idioma": "yelh",
+        "significado": "sandalia"
+    },
+    {
+        "idioma": "yelh",
+        "significado": "zapato"
+    },
+    {
+        "idioma": "yelha",
+        "significado": "lago"
+    },
+    {
+        "idioma": "yelha",
+        "significado": "laguna"
+    },
+    {
+        "idioma": "yelha’",
+        "significado": "jilote (maíz tierno)"
+    },
+    {
+        "idioma": "yelha’",
+        "significado": "sueño"
+    },
+    {
+        "idioma": "yelisa",
+        "significado": "copiar"
+    },
+    {
+        "idioma": "yen",
+        "significado": "cuello"
+    },
+    {
+        "idioma": "yen",
+        "significado": "pescuezo"
+    },
+    {
+        "idioma": "yesa",
+        "significado": "sudor"
+    },
+    {
+        "idioma": "yeso’",
+        "significado": "olla"
+    },
+    {
+        "idioma": "yetago’",
+        "significado": "tamal"
+    },
+    {
+        "idioma": "yetoda’",
+        "significado": "otra vez"
+    },
+    {
+        "idioma": "yetzdao",
+        "significado": "comunidad"
+    },
+    {
+        "idioma": "yetzdao",
+        "significado": "población"
+    },
+    {
+        "idioma": "yetzdao",
+        "significado": "poblado"
+    },
+    {
+        "idioma": "yetzdao",
+        "significado": "villa"
+    },
+    {
+        "idioma": "yetzi",
+        "significado": "ciudad"
+    },
+    {
+        "idioma": "yetzi, yetzdao",
+        "significado": "pueblo"
+    },
+    {
+        "idioma": "yexhe’xhil",
+        "significado": "encino"
+    },
+    {
+        "idioma": "yeyaze’",
+        "significado": "compadecer"
+    },
+    {
+        "idioma": "yeza",
+        "significado": "mazorca"
+    },
+    {
+        "idioma": "yezanhe",
+        "significado": "acidez"
+    },
+    {
+        "idioma": "yeze’",
+        "significado": "espina"
+    },
+    {
+        "idioma": "yezilhaze’",
+        "significado": "descalzo"
+    },
+    {
+        "idioma": "yezja",
+        "significado": "harina"
+    },
+    {
+        "idioma": "yezlhio’",
+        "significado": "mundo"
+    },
+    {
+        "idioma": "yezlio’",
+        "significado": "Tierra (planeta)"
+    },
+    {
+        "idioma": "yezo’",
+        "significado": "grano"
+    },
+    {
+        "idioma": "yezo’",
+        "significado": "sarampión"
+    },
+    {
+        "idioma": "yezo’bdite",
+        "significado": "sarna"
+    },
+    {
+        "idioma": "yi",
+        "significado": "hinchazón"
+    },
+    {
+        "idioma": "yi’",
+        "significado": "fuego"
+    },
+    {
+        "idioma": "yi’",
+        "significado": "lumbre"
+    },
+    {
+        "idioma": "yi’",
+        "significado": "luz"
+    },
+    {
+        "idioma": "yi’bel",
+        "significado": "fogata"
+    },
+    {
+        "idioma": "yi’bel",
+        "significado": "llama"
+    },
+    {
+        "idioma": "yi’na",
+        "significado": "baúl"
+    },
+    {
+        "idioma": "yibedao",
+        "significado": "cometa"
+    },
+    {
+        "idioma": "yibedao",
+        "significado": "estrella fugaz"
+    },
+    {
+        "idioma": "yichijyaljo",
+        "significado": "inteligente"
+    },
+    {
+        "idioma": "yichj",
+        "significado": "cabeza"
+    },
+    {
+        "idioma": "yid",
+        "significado": "cuero"
+    },
+    {
+        "idioma": "yid",
+        "significado": "piel"
+    },
+    {
+        "idioma": "yid blis",
+        "significado": "globo"
+    },
+    {
+        "idioma": "yid chho’a",
+        "significado": "labio"
+    },
+    {
+        "idioma": "yid nag",
+        "significado": "pabellón de la oreja"
+    },
+    {
+        "idioma": "yid nixe’",
+        "significado": "vejiga"
+    },
+    {
+        "idioma": "yid wezan",
+        "significado": "vagina"
+    },
+    {
+        "idioma": "yij xixe’",
+        "significado": "abdomen"
+    },
+    {
+        "idioma": "yinha’",
+        "significado": "ají"
+    },
+    {
+        "idioma": "yinha’",
+        "significado": "chile"
+    },
+    {
+        "idioma": "yinha’ ya’a",
+        "significado": "chile verde"
+    },
+    {
+        "idioma": "yinha’dao",
+        "significado": "mole (guisado mexicano)"
+    },
+    {
+        "idioma": "yioj",
+        "significado": "mancha"
+    },
+    {
+        "idioma": "yishe",
+        "significado": "papel"
+    },
+    {
+        "idioma": "yishe’",
+        "significado": "metate"
+    },
+    {
+        "idioma": "yita",
+        "significado": "tortilla"
+    },
+    {
+        "idioma": "yita, yita xtilh",
+        "significado": "pan"
+    },
+    {
+        "idioma": "yito",
+        "significado": "calabaza"
+    },
+    {
+        "idioma": "yito che’en",
+        "significado": "calabacín"
+    },
+    {
+        "idioma": "yixe’",
+        "significado": "hierba"
+    },
+    {
+        "idioma": "yixe’",
+        "significado": "maleza"
+    },
+    {
+        "idioma": "yixe’",
+        "significado": "salvaje"
+    },
+    {
+        "idioma": "yixe’",
+        "significado": "silvestre"
+    },
+    {
+        "idioma": "yixe’",
+        "significado": "vegetación"
+    },
+    {
+        "idioma": "yixe’cuan",
+        "significado": "planta"
+    },
+    {
+        "idioma": "yixhe",
+        "significado": "paja"
+    },
+    {
+        "idioma": "yixhe",
+        "significado": "zacate"
+    },
+    {
+        "idioma": "yixjo",
+        "significado": "red"
+    },
+    {
+        "idioma": "yixjo, yixjodo",
+        "significado": "hamaca"
+    },
+    {
+        "idioma": "yixo",
+        "significado": "aguacate"
+    },
+    {
+        "idioma": "yixo",
+        "significado": "palta"
+    },
+    {
+        "idioma": "yixwigo",
+        "significado": "higo"
+    },
+    {
+        "idioma": "yiz",
+        "significado": "cicatriz"
+    },
+    {
+        "idioma": "yize, chej",
+        "significado": "grueso"
+    },
+    {
+        "idioma": "yizwe’",
+        "significado": "enfermedad"
+    },
+    {
+        "idioma": "yo",
+        "significado": "tierra"
+    },
+    {
+        "idioma": "yo’o",
+        "significado": "cal"
+    },
+    {
+        "idioma": "yo’o",
+        "significado": "casa"
+    },
+    {
+        "idioma": "yo’o",
+        "significado": "edificio"
+    },
+    {
+        "idioma": "yo’o",
+        "significado": "vamos!"
+    },
+    {
+        "idioma": "yoa’",
+        "significado": "carga"
+    },
+    {
+        "idioma": "yoa’, wa",
+        "significado": "cargar"
+    },
+    {
+        "idioma": "yoche",
+        "significado": "desinflar"
+    },
+    {
+        "idioma": "yodao",
+        "significado": "iglesia"
+    },
+    {
+        "idioma": "yogo, dote, bala",
+        "significado": "todo"
+    },
+    {
+        "idioma": "yolhawe",
+        "significado": "delegación"
+    },
+    {
+        "idioma": "yolhawe",
+        "significado": "municipio"
+    },
+    {
+        "idioma": "yolhawedao",
+        "significado": "municipalidad"
+    },
+    {
+        "idioma": "yoxhe",
+        "significado": "arena"
+    },
+    {
+        "idioma": "yoz",
+        "significado": "saturado"
+    },
+    {
+        "idioma": "za",
+        "significado": "día"
+    },
+    {
+        "idioma": "za",
+        "significado": "grasa"
+    },
+    {
+        "idioma": "za",
+        "significado": "grasoso"
+    },
+    {
+        "idioma": "za",
+        "significado": "manteca"
+    },
+    {
+        "idioma": "za",
+        "significado": "pomada"
+    },
+    {
+        "idioma": "za, bene za",
+        "significado": "istmeño (zapoteco)"
+    },
+    {
+        "idioma": "za, bene za",
+        "significado": "tehuano"
+    },
+    {
+        "idioma": "za’",
+        "significado": "fríjol"
+    },
+    {
+        "idioma": "za’a",
+        "significado": "choclo"
+    },
+    {
+        "idioma": "za’a",
+        "significado": "elote"
+    },
+    {
+        "idioma": "za’laze’",
+        "significado": "salud"
+    },
+    {
+        "idioma": "za’ya’a",
+        "significado": "chícharo (guisante)"
+    },
+    {
+        "idioma": "za’ya’a",
+        "significado": "ejote (judía)"
+    },
+    {
+        "idioma": "za’ya’a",
+        "significado": "judía (legumbre)"
+    },
+    {
+        "idioma": "zag",
+        "significado": "invierno"
+    },
+    {
+        "idioma": "zaga",
+        "significado": "frío"
+    },
+    {
+        "idioma": "zan",
+        "significado": "hermana (del hombre)"
+    },
+    {
+        "idioma": "zan",
+        "significado": "mucho"
+    },
+    {
+        "idioma": "zan",
+        "significado": "muy"
+    },
+    {
+        "idioma": "zanhe",
+        "significado": "ácido"
+    },
+    {
+        "idioma": "zarhij",
+        "significado": "maltratar"
+    },
+    {
+        "idioma": "zayache, yache",
+        "significado": "triste"
+    },
+    {
+        "idioma": "zaze’",
+        "significado": "valer"
+    },
+    {
+        "idioma": "zchaga",
+        "significado": "ruido"
+    },
+    {
+        "idioma": "ze’",
+        "significado": "parado"
+    },
+    {
+        "idioma": "ze’e",
+        "significado": "muro"
+    },
+    {
+        "idioma": "ze’e",
+        "significado": "pared"
+    },
+    {
+        "idioma": "zede, chhequeyij",
+        "significado": "molestar"
+    },
+    {
+        "idioma": "zede’",
+        "significado": "sal"
+    },
+    {
+        "idioma": "zendao",
+        "significado": "niebla"
+    },
+    {
+        "idioma": "zendao lase’",
+        "significado": "neblina"
+    },
+    {
+        "idioma": "zexhi",
+        "significado": "sabroso"
+    },
+    {
+        "idioma": "zeye’",
+        "significado": "calentura"
+    },
+    {
+        "idioma": "zi’",
+        "significado": "pesado"
+    },
+    {
+        "idioma": "zi’, zi’rha",
+        "significado": "abajo"
+    },
+    {
+        "idioma": "zichj",
+        "significado": "agrio"
+    },
+    {
+        "idioma": "zide",
+        "significado": "chicle"
+    },
+    {
+        "idioma": "zilha",
+        "significado": "mañana"
+    },
+    {
+        "idioma": "zin",
+        "significado": "ciénega"
+    },
+    {
+        "idioma": "zin",
+        "significado": "hoja (de palma)"
+    },
+    {
+        "idioma": "zinha",
+        "significado": "palma"
+    },
+    {
+        "idioma": "zit",
+        "significado": "huevo"
+    },
+    {
+        "idioma": "zit yen",
+        "significado": "nuez"
+    },
+    {
+        "idioma": "zix",
+        "significado": "dulce"
+    },
+    {
+        "idioma": "zix beye’",
+        "significado": "helado (postre)"
+    },
+    {
+        "idioma": "zode’",
+        "significado": "falda"
+    },
+    {
+        "idioma": "zome, zomewag",
+        "significado": "canasta"
+    },
+    {
+        "idioma": "zonj",
+        "significado": "taco (comida mexicana)"
+    },
+    {
+        "idioma": "zu",
+        "significado": "pulga"
+    },
+    {
+        "idioma": "zu",
+        "significado": "pulque"
+    }
+]

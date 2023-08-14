@@ -1,0 +1,927 @@
+[
+    {
+        "esp": "abrir la puerta de la casa",
+        "nah": "caltlapoa",
+        "aud": "lecciones/verbos/audios/caltlapoa.mp3"
+    },
+    {
+        "esp": "acomodar",
+        "nah": "tlacuahtlalia",
+        "aud": "lecciones/verbos/audios/tlacuahtlalia.mp3"
+    },
+    {
+        "esp": "aflojar lo que esta amarrado",
+        "nah": "cacaxatza",
+        "aud": "lecciones/verbos/audios/cacaxatza.mp3"
+    },
+    {
+        "esp": "agarrar",
+        "nah": "itzquia",
+        "aud": "lecciones/verbos/audios/itzquia.mp3"
+    },
+    {
+        "esp": "agrio",
+        "nah": "xococ",
+        "aud": "lecciones/verbos/audios/xococ.mp3"
+    },
+    {
+        "esp": "aguado",
+        "nah": "atic",
+        "aud": "lecciones/verbos/audios/atic.mp3"
+    },
+    {
+        "esp": "ahogarse",
+        "nah": "meltzimia",
+        "aud": "lecciones/verbos/audios/meltzimia.mp3"
+    },
+    {
+        "esp": "alargar lo que esta corto",
+        "nah": "huehueyaquilia",
+        "aud": "lecciones/verbos/audios/huehueyaquilia.mp3"
+    },
+    {
+        "esp": "algo doblado de una lado",
+        "nah": "pelechtic",
+        "aud": "lecciones/verbos/audios/pelechtic.mp3"
+    },
+    {
+        "esp": "amarrar",
+        "nah": "ilpia",
+        "aud": "lecciones/verbos/audios/ilpia.mp3"
+    },
+    {
+        "esp": "amasar",
+        "nah": "xacualoa",
+        "aud": "lecciones/verbos/audios/xacualoa.mp3"
+    },
+    {
+        "esp": "amontonar",
+        "nah": "olchoa",
+        "aud": "lecciones/verbos/audios/olchoa.mp3"
+    },
+    {
+        "esp": "apesta",
+        "nah": "potehui",
+        "aud": "lecciones/verbos/audios/potehui.mp3"
+    },
+    {
+        "esp": "apilar",
+        "nah": "tecpichoa",
+        "aud": "lecciones/verbos/audios/tecpichoa.mp3"
+    },
+    {
+        "esp": "aplanar algo con la mano",
+        "nah": "mahpachoa",
+        "aud": "lecciones/verbos/audios/mahpachoa.mp3"
+    },
+    {
+        "esp": "aplanar con algun objeto",
+        "nah": "cuapachoa",
+        "aud": "lecciones/verbos/audios/cuapachoa.mp3"
+    },
+    {
+        "esp": "aplastar en forma de pellizcar",
+        "nah": "pitztla",
+        "aud": "lecciones/verbos/audios/pitztla.mp3"
+    },
+    {
+        "esp": "apretar algo que esta amarrado",
+        "nah": "tatacatzoa",
+        "aud": "lecciones/verbos/audios/tatacatzoa.mp3"
+    },
+    {
+        "esp": "arreglar para alguna fiesta",
+        "nah": "tlachihchihua",
+        "aud": "lecciones/verbos/audios/tlachihchihua.mp3"
+    },
+    {
+        "esp": "atrapar",
+        "nah": "maciltia",
+        "aud": "lecciones/verbos/audios/maciltia.mp3"
+    },
+    {
+        "esp": "aventar, tirar",
+        "nah": "mahcahua",
+        "aud": "lecciones/verbos/audios/mahcahua.mp3"
+    },
+    {
+        "esp": "ayudar",
+        "nah": "palehuia",
+        "aud": "lecciones/verbos/audios/palehuia.mp3"
+    },
+    {
+        "esp": "bajar",
+        "nah": "temohuia",
+        "aud": "lecciones/verbos/audios/temohuia.mp3"
+    },
+    {
+        "esp": "bañar",
+        "nah": "maltia",
+        "aud": "lecciones/verbos/audios/maltia.mp3"
+    },
+    {
+        "esp": "beber",
+        "nah": "oni",
+        "aud": "lecciones/verbos/audios/oni.mp3"
+    },
+    {
+        "esp": "beber agua",
+        "nah": "atli",
+        "aud": "lecciones/verbos/audios/atli.mp3"
+    },
+    {
+        "esp": "bialar",
+        "nah": "mihtotia",
+        "aud": "lecciones/verbos/audios/mihtotia.mp3"
+    },
+    {
+        "esp": "bordar",
+        "nah": "tlahtzoma",
+        "aud": "lecciones/verbos/audios/tlahtzoma.mp3"
+    },
+    {
+        "esp": "borrar lo que esta escrito",
+        "nah": "ixpolihuiltia",
+        "aud": "lecciones/verbos/audios/ixpolihuiltia.mp3"
+    },
+    {
+        "esp": "buscar",
+        "nah": "temoa",
+        "aud": "lecciones/verbos/audios/temoa.mp3"
+    },
+    {
+        "esp": "caer",
+        "nah": "huetzi",
+        "aud": "lecciones/verbos/audios/huetzi.mp3"
+    },
+    {
+        "esp": "calentar",
+        "nah": "totonia",
+        "aud": "lecciones/verbos/audios/totonia.mp3"
+    },
+    {
+        "esp": "callar a una persona (puede ser con la mano taparle la boca)",
+        "nah": "cuamatzacua",
+        "aud": "lecciones/verbos/audios/cuamatzacua.mp3"
+    },
+    {
+        "esp": "cambiar",
+        "nah": "patla",
+        "aud": "lecciones/verbos/audios/patla.mp3"
+    },
+    {
+        "esp": "caminar",
+        "nah": "nehnemi",
+        "aud": "lecciones/verbos/audios/nehnemi.mp3"
+    },
+    {
+        "esp": "cantar",
+        "nah": "huica",
+        "aud": "lecciones/verbos/audios/huica.mp3"
+    },
+    {
+        "esp": "cargar en la espalda",
+        "nah": "mama",
+        "aud": "lecciones/verbos/audios/mama.mp3"
+    },
+    {
+        "esp": "cerrar",
+        "nah": "tzacua",
+        "aud": "lecciones/verbos/audios/tzacua.mp3"
+    },
+    {
+        "esp": "cerrar la puerta de la casa",
+        "nah": "caltzacua",
+        "aud": "lecciones/verbos/audios/caltzacua.mp3"
+    },
+    {
+        "esp": "cerrar la superficie",
+        "nah": "ixtzacua",
+        "aud": "lecciones/verbos/audios/ixtzacua.mp3"
+    },
+    {
+        "esp": "cobijar",
+        "nah": "piqui",
+        "aud": "lecciones/verbos/audios/piqui.mp3"
+    },
+    {
+        "esp": "cobrar",
+        "nah": "inama",
+        "aud": "lecciones/verbos/audios/inama.mp3"
+    },
+    {
+        "esp": "cocer",
+        "nah": "ixca",
+        "aud": "lecciones/verbos/audios/ixca.mp3"
+    },
+    {
+        "esp": "cocinar",
+        "nah": "tlacualchihua",
+        "aud": "lecciones/verbos/audios/tlacualchihua.mp3"
+    },
+    {
+        "esp": "colar o sacudir",
+        "nah": "tzehtzeloa",
+        "aud": "lecciones/verbos/audios/tzehtzeloa.mp3"
+    },
+    {
+        "esp": "colgar",
+        "nah": "huiyonia",
+        "aud": "lecciones/verbos/audios/huiyonia.mp3"
+    },
+    {
+        "esp": "comer",
+        "nah": "tlacua",
+        "aud": "lecciones/verbos/audios/tlacua.mp3"
+    },
+    {
+        "esp": "comezar",
+        "nah": "pehua",
+        "aud": "lecciones/verbos/audios/pehua.mp3"
+    },
+    {
+        "esp": "como",
+        "nah": "quence",
+        "aud": "lecciones/verbos/audios/quence.mp3"
+    },
+    {
+        "esp": "completar",
+        "nah": "ahxitia",
+        "aud": "lecciones/verbos/audios/ahxitia.mp3"
+    },
+    {
+        "esp": "continuar",
+        "nah": "cencuilia",
+        "aud": "lecciones/verbos/audios/cencuilia.mp3"
+    },
+    {
+        "esp": "copiar",
+        "nah": "copina",
+        "aud": "lecciones/verbos/audios/copina.mp3"
+    },
+    {
+        "esp": "correr",
+        "nah": "motlaloa",
+        "aud": "lecciones/verbos/audios/motlaloa.mp3"
+    },
+    {
+        "esp": "cortar",
+        "nah": "tequi",
+        "aud": "lecciones/verbos/audios/tequi.mp3"
+    },
+    {
+        "esp": "cosquillar",
+        "nah": "quequeloa",
+        "aud": "lecciones/verbos/audios/quequeloa.mp3"
+    },
+    {
+        "esp": "curar",
+        "nah": "pahtia",
+        "aud": "lecciones/verbos/audios/pahtia.mp3"
+    },
+    {
+        "esp": "dar",
+        "nah": "maca",
+        "aud": "lecciones/verbos/audios/maca.mp3"
+    },
+    {
+        "esp": "dar de comer a alguien (a la fuerza)",
+        "nah": "cualtialia",
+        "aud": "lecciones/verbos/audios/cualtialia.mp3"
+    },
+    {
+        "esp": "dar una cachetada",
+        "nah": "ixcapania",
+        "aud": "lecciones/verbos/audios/ixcapania.mp3"
+    },
+    {
+        "esp": "decir",
+        "nah": "illia",
+        "aud": "lecciones/verbos/audios/illia.mp3"
+    },
+    {
+        "esp": "dejar",
+        "nah": "cahua",
+        "aud": "lecciones/verbos/audios/cahua.mp3"
+    },
+    {
+        "esp": "desarmar algún objeto",
+        "nah": "tlaxolehua",
+        "aud": "lecciones/verbos/audios/tlaxolehua.mp3"
+    },
+    {
+        "esp": "desatar",
+        "nah": "xitoma",
+        "aud": "lecciones/verbos/audios/xitoma.mp3"
+    },
+    {
+        "esp": "descargar (de un vehiculo)",
+        "nah": "tepexohuia",
+        "aud": "lecciones/verbos/audios/tepexohuia.mp3"
+    },
+    {
+        "esp": "desenrredar",
+        "nah": "ixtoma",
+        "aud": "lecciones/verbos/audios/ixtoma.mp3"
+    },
+    {
+        "esp": "despegar",
+        "nah": "copehua",
+        "aud": "lecciones/verbos/audios/copehua.mp3"
+    },
+    {
+        "esp": "detener",
+        "nah": "tzacuilia",
+        "aud": "lecciones/verbos/audios/tzacuilia.mp3"
+    },
+    {
+        "esp": "dividir",
+        "nah": "xeloa",
+        "aud": "lecciones/verbos/audios/xeloa.mp3"
+    },
+    {
+        "esp": "doblar",
+        "nah": "pachoa",
+        "aud": "lecciones/verbos/audios/pachoa.mp3"
+    },
+    {
+        "esp": "doblar",
+        "nah": "cuelpachoa",
+        "aud": "lecciones/verbos/audios/cuelpachoa.mp3"
+    },
+    {
+        "esp": "doblar algo",
+        "nah": "cueloa",
+        "aud": "lecciones/verbos/audios/cueloa.mp3"
+    },
+    {
+        "esp": "duro",
+        "nah": "chicahuac",
+        "aud": "lecciones/verbos/audios/chicahuac.mp3"
+    },
+    {
+        "esp": "empujar",
+        "nah": "cuatopehua",
+        "aud": "lecciones/verbos/audios/cuatopehua.mp3"
+    },
+    {
+        "esp": "enderezar",
+        "nah": "xitlahua",
+        "aud": "lecciones/verbos/audios/xitlahua.mp3"
+    },
+    {
+        "esp": "enfriar",
+        "nah": "cehuia",
+        "aud": "lecciones/verbos/audios/cehuia.mp3"
+    },
+    {
+        "esp": "enrrollar",
+        "nah": "mimiloa",
+        "aud": "lecciones/verbos/audios/mimiloa.mp3"
+    },
+    {
+        "esp": "enrrollar",
+        "nah": "ololoa",
+        "aud": "lecciones/verbos/audios/ololoa.mp3"
+    },
+    {
+        "esp": "enseñar",
+        "nah": "machtia",
+        "aud": "lecciones/verbos/audios/machtia.mp3"
+    },
+    {
+        "esp": "enseñar",
+        "nah": "tlamachtia",
+        "aud": "lecciones/verbos/audios/tlamachtia.mp3"
+    },
+    {
+        "esp": "ensuciar",
+        "nah": "zocohuia",
+        "aud": "lecciones/verbos/audios/zocohuia.mp3"
+    },
+    {
+        "esp": "entregar",
+        "nah": "mactilia",
+        "aud": "lecciones/verbos/audios/mactilia.mp3"
+    },
+    {
+        "esp": "esconder",
+        "nah": "tlatia",
+        "aud": "lecciones/verbos/audios/tlatia.mp3"
+    },
+    {
+        "esp": "escribir",
+        "nah": "tlahcuiloa",
+        "aud": "lecciones/verbos/audios/tlahcuiloa.mp3"
+    },
+    {
+        "esp": "escribir",
+        "nah": "ihcuiloa",
+        "aud": "lecciones/verbos/audios/ihcuiloa.mp3"
+    },
+    {
+        "esp": "escuchar",
+        "nah": "caqui",
+        "aud": "lecciones/verbos/audios/caqui.mp3"
+    },
+    {
+        "esp": "esperar",
+        "nah": "chiya",
+        "aud": "lecciones/verbos/audios/chiya.mp3"
+    },
+    {
+        "esp": "estar para objetos",
+        "nah": "eltoc",
+        "aud": "lecciones/verbos/audios/eltoc.mp3"
+    },
+    {
+        "esp": "estar para personas",
+        "nah": "iztoc",
+        "aud": "lecciones/verbos/audios/iztoc.mp3"
+    },
+    {
+        "esp": "Estornudar",
+        "nah": "ahhuexoa",
+        "aud": "lecciones/verbos/audios/ahhuexoa.mp3"
+    },
+    {
+        "esp": "exprimir",
+        "nah": "patzca",
+        "aud": "lecciones/verbos/audios/patzca.mp3"
+    },
+    {
+        "esp": "extender",
+        "nah": "ixmelahua",
+        "aud": "lecciones/verbos/audios/ixmelahua.mp3"
+    },
+    {
+        "esp": "forma redonda",
+        "nah": "malacachtic",
+        "aud": "lecciones/verbos/audios/malacachtic.mp3"
+    },
+    {
+        "esp": "freir o guisar",
+        "nah": "tzoyonia",
+        "aud": "lecciones/verbos/audios/tzoyonia.mp3"
+    },
+    {
+        "esp": "frio",
+        "nah": "cecec",
+        "aud": "lecciones/verbos/audios/cecec.mp3"
+    },
+    {
+        "esp": "ganar",
+        "nah": "tlahtlani",
+        "aud": "lecciones/verbos/audios/tlahtlani.mp3"
+    },
+    {
+        "esp": "golpear",
+        "nah": "tehtzona",
+        "aud": "lecciones/verbos/audios/tehtzona.mp3"
+    },
+    {
+        "esp": "guardar",
+        "nah": "ahcocui",
+        "aud": "lecciones/verbos/audios/ahcocui.mp3"
+    },
+    {
+        "esp": "gusto",
+        "nah": "amati",
+        "aud": "lecciones/verbos/audios/amati.mp3"
+    },
+    {
+        "esp": "hablar",
+        "nah": "zaniloa",
+        "aud": "lecciones/verbos/audios/zaniloa.mp3"
+    },
+    {
+        "esp": "hacer en trozos algo largo",
+        "nah": "huehhueloa",
+        "aud": "lecciones/verbos/audios/huehhueloa.mp3"
+    },
+    {
+        "esp": "hiervir",
+        "nah": "molonia",
+        "aud": "lecciones/verbos/audios/molonia.mp3"
+    },
+    {
+        "esp": "huele feo",
+        "nah": "fieroh mihyotia",
+        "aud": "lecciones/verbos/audios/fieroh_mihyotia.mp3"
+    },
+    {
+        "esp": "huele mal",
+        "nah": "axcualli mihyotia",
+        "aud": "lecciones/verbos/audios/axcualli_mihyotia.mp3"
+    },
+    {
+        "esp": "huir",
+        "nah": "choloa",
+        "aud": "lecciones/verbos/audios/choloa.mp3"
+    },
+    {
+        "esp": "inclinar",
+        "nah": "chihquiloa",
+        "aud": "lecciones/verbos/audios/chihquiloa.mp3"
+    },
+    {
+        "esp": "intentar hacer algo",
+        "nah": "yehyecoa",
+        "aud": "lecciones/verbos/audios/yehyecoa.mp3"
+    },
+    {
+        "esp": "inyectar",
+        "nah": "tzopinia",
+        "aud": "lecciones/verbos/audios/tzopinia.mp3"
+    },
+    {
+        "esp": "jalar",
+        "nah": "tilana",
+        "aud": "lecciones/verbos/audios/tilana.mp3"
+    },
+    {
+        "esp": "jugar",
+        "nah": "mahuiltia",
+        "aud": "lecciones/verbos/audios/mahuiltia.mp3"
+    },
+    {
+        "esp": "lavar algo",
+        "nah": "pahpaca",
+        "aud": "lecciones/verbos/audios/pahpaca.mp3"
+    },
+    {
+        "esp": "lavar la ropa",
+        "nah": "tlachicuenia",
+        "aud": "lecciones/verbos/audios/tlachicuenia.mp3"
+    },
+    {
+        "esp": "lavar trastes",
+        "nah": "tlapahpaca",
+        "aud": "lecciones/verbos/audios/tlapahpaca.mp3"
+    },
+    {
+        "esp": "lavarse las manos",
+        "nah": "mahtequia",
+        "aud": "lecciones/verbos/audios/mahtequia.mp3"
+    },
+    {
+        "esp": "leer",
+        "nah": "tlapohua",
+        "aud": "lecciones/verbos/audios/tlapohua.mp3"
+    },
+    {
+        "esp": "levantar",
+        "nah": "tlalana",
+        "aud": "lecciones/verbos/audios/tlalana.mp3"
+    },
+    {
+        "esp": "limpiar",
+        "nah": "pohpohua",
+        "aud": "lecciones/verbos/audios/pohpohua.mp3"
+    },
+    {
+        "esp": "llamar, hablarle a alguien",
+        "nah": "notza",
+        "aud": "lecciones/verbos/audios/notza.mp3"
+    },
+    {
+        "esp": "llenar algun recipiente.",
+        "nah": "temi",
+        "aud": "lecciones/verbos/audios/temi.mp3"
+    },
+    {
+        "esp": "llevar",
+        "nah": "huica",
+        "aud": "lecciones/verbos/audios/huica.mp3"
+    },
+    {
+        "esp": "mecerse",
+        "nah": "mohuizoa",
+        "aud": "lecciones/verbos/audios/mohuizoa.mp3"
+    },
+    {
+        "esp": "mojar",
+        "nah": "xolonia",
+        "aud": "lecciones/verbos/audios/xolonia.mp3"
+    },
+    {
+        "esp": "moler",
+        "nah": "tici",
+        "aud": "lecciones/verbos/audios/tici.mp3"
+    },
+    {
+        "esp": "mover",
+        "nah": "olinia",
+        "aud": "lecciones/verbos/audios/olinia.mp3"
+    },
+    {
+        "esp": "mover de lugar",
+        "nah": "ihcuenia",
+        "aud": "lecciones/verbos/audios/ihcuenia.mp3"
+    },
+    {
+        "esp": "nadar",
+        "nah": "ahqui",
+        "aud": "lecciones/verbos/audios/ahqui.mp3"
+    },
+    {
+        "esp": "nevar",
+        "nah": "tlacehuetzi",
+        "aud": "lecciones/verbos/audios/tlacehuetzi.mp3"
+    },
+    {
+        "esp": "no esta rico",
+        "nah": "ahhuiac",
+        "aud": "lecciones/verbos/audios/ahhuiac.mp3"
+    },
+    {
+        "esp": "ordenar",
+        "nah": "nahuatia",
+        "aud": "lecciones/verbos/audios/nahuatia.mp3"
+    },
+    {
+        "esp": "pagar",
+        "nah": "tlaxtlahua",
+        "aud": "lecciones/verbos/audios/tlaxtlahua.mp3"
+    },
+    {
+        "esp": "pasa",
+        "nah": "pano",
+        "aud": "lecciones/verbos/audios/pano.mp3"
+    },
+    {
+        "esp": "pegar",
+        "nah": "pepechoa",
+        "aud": "lecciones/verbos/audios/pepechoa.mp3"
+    },
+    {
+        "esp": "pelar",
+        "nah": "xipehua",
+        "aud": "lecciones/verbos/audios/xipehua.mp3"
+    },
+    {
+        "esp": "pelear",
+        "nah": "huilana",
+        "aud": "lecciones/verbos/audios/huilana.mp3"
+    },
+    {
+        "esp": "pelear",
+        "nah": "maquilia",
+        "aud": "lecciones/verbos/audios/maquilia.mp3"
+    },
+    {
+        "esp": "pellizcar",
+        "nah": "tziquipiloa",
+        "aud": "lecciones/verbos/audios/tziquipiloa.mp3"
+    },
+    {
+        "esp": "pensar",
+        "nah": "nehnehuilia",
+        "aud": "lecciones/verbos/audios/nehnehuilia.mp3"
+    },
+    {
+        "esp": "picoso",
+        "nah": "cococ",
+        "aud": "lecciones/verbos/audios/cococ.mp3"
+    },
+    {
+        "esp": "poder",
+        "nah": "hueli",
+        "aud": "lecciones/verbos/audios/hueli.mp3"
+    },
+    {
+        "esp": "poner",
+        "nah": "mana",
+        "aud": "lecciones/verbos/audios/mana.mp3"
+    },
+    {
+        "esp": "poner",
+        "nah": "tlalia",
+        "aud": "lecciones/verbos/audios/tlalia.mp3"
+    },
+    {
+        "esp": "poner boca bajo",
+        "nah": "ixtlapachoa",
+        "aud": "lecciones/verbos/audios/ixtlapachoa.mp3"
+    },
+    {
+        "esp": "por segunda vez pasar la masa en metate",
+        "nah": "ompohuia",
+        "aud": "lecciones/verbos/audios/ompohuia.mp3"
+    },
+    {
+        "esp": "quebrar",
+        "nah": "poztequi",
+        "aud": "lecciones/verbos/audios/poztequi.mp3"
+    },
+    {
+        "esp": "quemar",
+        "nah": "tlatia",
+        "aud": "lecciones/verbos/audios/tlatia.mp3"
+    },
+    {
+        "esp": "querer",
+        "nah": "nequi",
+        "aud": "lecciones/verbos/audios/nequi.mp3"
+    },
+    {
+        "esp": "quitar",
+        "nah": "cuilia",
+        "aud": "lecciones/verbos/audios/cuilia.mp3"
+    },
+    {
+        "esp": "recoger",
+        "nah": "pehpena",
+        "aud": "lecciones/verbos/audios/pehpena.mp3"
+    },
+    {
+        "esp": "redondo",
+        "nah": "tolontic",
+        "aud": "lecciones/verbos/audios/tolontic.mp3"
+    },
+    {
+        "esp": "reducir lo que esta largo",
+        "nah": "locotzoa",
+        "aud": "lecciones/verbos/audios/locotzoa.mp3"
+    },
+    {
+        "esp": "reir",
+        "nah": "huetzca",
+        "aud": "lecciones/verbos/audios/huetzca.mp3"
+    },
+    {
+        "esp": "romper alguna prenda o papel",
+        "nah": "tzayana",
+        "aud": "lecciones/verbos/audios/tzayana.mp3"
+    },
+    {
+        "esp": "romper objeto",
+        "nah": "tlapana",
+        "aud": "lecciones/verbos/audios/tlapana.mp3"
+    },
+    {
+        "esp": "saber",
+        "nah": "mati",
+        "aud": "lecciones/verbos/audios/mati.mp3"
+    },
+    {
+        "esp": "sacudir",
+        "nah": "tlapohpohua",
+        "aud": "lecciones/verbos/audios/tlapohpohua.mp3"
+    },
+    {
+        "esp": "salado",
+        "nah": "poyec",
+        "aud": "lecciones/verbos/audios/poyec.mp3"
+    },
+    {
+        "esp": "salir",
+        "nah": "quiza",
+        "aud": "lecciones/verbos/audios/quiza.mp3"
+    },
+    {
+        "esp": "saltar",
+        "nah": "huitoni",
+        "aud": "lecciones/verbos/audios/huitoni.mp3"
+    },
+    {
+        "esp": "se quema",
+        "nah": "tlatla",
+        "aud": "lecciones/verbos/audios/tlatla.mp3"
+    },
+    {
+        "esp": "se seca algún lugar donde habia agua o algún liquido.",
+        "nah": "huaqui",
+        "aud": "lecciones/verbos/audios/huaqui.mp3"
+    },
+    {
+        "esp": "secar algo que esta mojado",
+        "nah": "huatza",
+        "aud": "lecciones/verbos/audios/huatza.mp3"
+    },
+    {
+        "esp": "seguir a alguien",
+        "nah": "tepotztoca",
+        "aud": "lecciones/verbos/audios/tepotztoca.mp3"
+    },
+    {
+        "esp": "sentir, probar",
+        "nah": "machilia",
+        "aud": "lecciones/verbos/audios/machilia.mp3"
+    },
+    {
+        "esp": "señalar",
+        "nah": "nextia",
+        "aud": "lecciones/verbos/audios/nextia.mp3"
+    },
+    {
+        "esp": "soplar",
+        "nah": "ilpitza",
+        "aud": "lecciones/verbos/audios/ilpitza.mp3"
+    },
+    {
+        "esp": "subir",
+        "nah": "tlehcoltia",
+        "aud": "lecciones/verbos/audios/tlehcoltia.mp3"
+    },
+    {
+        "esp": "sueño",
+        "nah": "cochi",
+        "aud": "lecciones/verbos/audios/cochi.mp3"
+    },
+    {
+        "esp": "tapar (cobijar solo para bebé)",
+        "nah": "quimiloa",
+        "aud": "lecciones/verbos/audios/quimiloa.mp3"
+    },
+    {
+        "esp": "tardar",
+        "nah": "huahcahua",
+        "aud": "lecciones/verbos/audios/huahcahua.mp3"
+    },
+    {
+        "esp": "tender",
+        "nah": "patlahua",
+        "aud": "lecciones/verbos/audios/patlahua.mp3"
+    },
+    {
+        "esp": "tener",
+        "nah": "piya",
+        "aud": "lecciones/verbos/audios/piya.mp3"
+    },
+    {
+        "esp": "tener mucha sed",
+        "nah": "amiqui",
+        "aud": "lecciones/verbos/audios/amiqui.mp3"
+    },
+    {
+        "esp": "tener mucho calor",
+        "nah": "patzmiqui",
+        "aud": "lecciones/verbos/audios/patzmiqui.mp3"
+    },
+    {
+        "esp": "tenerle miedo a alguien",
+        "nah": "mahuilia",
+        "aud": "lecciones/verbos/audios/mahuilia.mp3"
+    },
+    {
+        "esp": "terminar de algo o de realizar alguna actividad.",
+        "nah": "tlami",
+        "aud": "lecciones/verbos/audios/tlami.mp3"
+    },
+    {
+        "esp": "tirar algun líquido",
+        "nah": "toyahua",
+        "aud": "lecciones/verbos/audios/toyahua.mp3"
+    },
+    {
+        "esp": "tomar",
+        "nah": "cui",
+        "aud": "lecciones/verbos/audios/cui.mp3"
+    },
+    {
+        "esp": "torcer",
+        "nah": "ilacatzoa",
+        "aud": "lecciones/verbos/audios/ilacatzoa.mp3"
+    },
+    {
+        "esp": "tortear",
+        "nah": "tlaxcaloa",
+        "aud": "lecciones/verbos/audios/tlaxcaloa.mp3"
+    },
+    {
+        "esp": "tostar",
+        "nah": "cacatzoa",
+        "aud": "lecciones/verbos/audios/cacatzoa.mp3"
+    },
+    {
+        "esp": "traer",
+        "nah": "huallica",
+        "aud": "lecciones/verbos/audios/huallica.mp3"
+    },
+    {
+        "esp": "unir",
+        "nah": "motzquiltia",
+        "aud": "lecciones/verbos/audios/motzquiltia.mp3"
+    },
+    {
+        "esp": "ver",
+        "nah": "itta",
+        "aud": "lecciones/verbos/audios/itta.mp3"
+    },
+    {
+        "esp": "ver",
+        "nah": "tlachilia",
+        "aud": "lecciones/verbos/audios/tlachilia.mp3"
+    },
+    {
+        "esp": "visitar",
+        "nah": "paxaloa",
+        "aud": "lecciones/verbos/audios/paxaloa.mp3"
+    },
+    {
+        "esp": "voltear",
+        "nah": "cuahcuapa",
+        "aud": "lecciones/verbos/audios/cuahcuapa.mp3"
+    }
+]

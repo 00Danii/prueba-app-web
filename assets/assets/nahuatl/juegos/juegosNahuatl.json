@@ -1,0 +1,50 @@
+[
+    {
+        "titulo": "Ahorcado",
+        "descripcion": "Juego del ahorcado para aprender palabras.",
+        "icono": "assets/iconos/buscar2.png",
+        "id": "00"
+    },
+    {
+        "titulo": "Animales 1",
+        "descripcion": "Practica el nombre de los animales.",
+        "icono": "assets/iconos/iniciales/animales.png",
+        "id": "03"
+    },
+    {
+        "titulo": "Colores",
+        "descripcion": "Preguntas y respuestas sobre colores.",
+        "icono": "assets/iconos/iniciales/colores.png",
+        "id": "01"
+    },
+    {
+        "titulo": "Animales 2",
+        "descripcion": "Practica el nombre de los animales.",
+        "icono": "assets/iconos/iniciales/animales.png",
+        "id": "04"
+    },
+    {
+        "titulo": "Números [1 - 10]",
+        "descripcion": "Practica los números del 1 al 10.",
+        "icono": "assets/iconos/iniciales/numeros.png",
+        "id": "02"
+    },
+    {
+        "titulo": "Animales 3",
+        "descripcion": "Practica el nombre de los animales.",
+        "icono": "assets/iconos/iniciales/animales.png",
+        "id": "05"
+    },
+    {
+        "titulo": "Agricultura",
+        "descripcion": "Repaso de las palabras relacionadas con la agricultura.",
+        "icono": "assets/iconos/iniciales/agricultura.png",
+        "id": "06"
+    },
+    {
+        "titulo": "Clima",
+        "descripcion": "Repasa los terminos principales del clima.",
+        "icono": "assets/iconos/iniciales/clima.png",
+        "id": "07"
+    }
+]

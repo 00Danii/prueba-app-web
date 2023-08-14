@@ -1,0 +1,42 @@
+[
+    {
+        "esp": "Libélula",
+        "idioma": "Skatkut",
+        "img": "assets/imagenes/animales/libelula.png"
+    },
+    {
+        "esp": "Mariposa",
+        "idioma": "Xpipíleeq",
+        "img": "assets/lecciones/animales/imagenes/mariposa.png"
+    },
+    {
+        "esp": "Alacrán",
+        "idioma": "Tántsuk",
+        "img": "assets/lecciones/animales/imagenes/alacran.jpg"
+    },
+    {
+        "esp": "Ajolote",
+        "idioma": "Aqpuluut",
+        "img": "assets/lecciones/animales/imagenes/ajolote.png"
+    },
+    {
+        "esp": "Águila",
+        "idioma": "Pichaawa'",
+        "img": "assets/lecciones/animales/imagenes/aguila.png"
+    },
+    {
+        "esp": "Pez",
+        "idioma": "Skii'ti'",
+        "img": "assets/imagenes/animales/pez.png"
+    },
+    {
+        "esp": "Perro",
+        "idioma": "Chichi'",
+        "img": "assets/mixteco/aprender/animales/perro.jpg"
+    },
+    {
+        "esp": "Gato",
+        "idioma": "Mitsi'",
+        "img": "assets/lecciones/animales/imagenes/gatoMontez.png"
+    }
+]

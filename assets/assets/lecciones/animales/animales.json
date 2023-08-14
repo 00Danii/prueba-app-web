@@ -1,0 +1,136 @@
+[
+    {
+        "esp": "Águila",
+        "nah": "Quahutli",
+        "img": "assets/lecciones/animales/imagenes/aguila.png"
+    },
+    {
+        "esp": "Ajolote",
+        "nah": "Axolotl",
+        "img": "assets/lecciones/animales/imagenes/ajolote.png"
+    },
+    {
+        "esp": "Araña",
+        "nah": "Tocatl",
+        "img": "assets/lecciones/animales/imagenes/araña.png",
+        "aud": "lecciones/animales/audios/tocatl.mp3"
+    },
+    {
+        "esp": "Ardilla",
+        "nah": "Tlachalot",
+        "img": "assets/lecciones/animales/imagenes/ardilla.png"
+    },
+    {
+        "esp": "Armadillo",
+        "nah": "Calolo",
+        "img": "assets/lecciones/animales/imagenes/armadillo.png",
+        "aud": "lecciones/animales/audios/calolo.mp3"
+    },
+    {
+        "esp": "Colibrí",
+        "nah": "Huitzillin",
+        "img": "assets/lecciones/animales/imagenes/colibri.png"
+    },
+    {
+        "esp": "Conejo",
+        "nah": "Cuatochin",
+        "img": "assets/lecciones/animales/imagenes/conejo.png",
+        "aud": "lecciones/animales/audios/cuatochin.mp3"
+    },
+    {
+        "esp": "Coyote",
+        "nah": "Coyotl",
+        "img": "assets/lecciones/animales/imagenes/coyote.png",
+        "aud": "lecciones/animales/audios/coyotl.mp3"
+    },
+    {
+        "esp": "Cocodrilo",
+        "nah": "Cipactli",
+        "img": "assets/lecciones/animales/imagenes/cocodrilo.jpg"
+    },
+    {
+        "esp": "Escorpión",
+        "nah": "Colotl",
+        "img": "assets/lecciones/animales/imagenes/alacran.jpg",
+        "aud": "lecciones/animales/audios/colotl.mp3"
+    },
+    {
+        "esp": "Gato Montés",
+        "nah": "Zacamiztli",
+        "img": "assets/lecciones/animales/imagenes/gatoMontez.png",
+        "aud": "lecciones/animales/audios/zacamiztli.mp3"
+    },
+    {
+        "esp": "Iguana",
+        "nah": "Tlacuaquilotl",
+        "img": "assets/lecciones/animales/imagenes/iguana.png",
+        "aud": "lecciones/animales/audios/tlacuaquilotl.mp3"
+    },
+    {
+        "esp": "Jabalí, Verraco",
+        "nah": "Cuapitzotl",
+        "img": "assets/lecciones/animales/imagenes/jabali.png",
+        "aud": "lecciones/animales/audios/cuapitzotl.mp3"
+    },
+    {
+        "esp": "Jaguar",
+        "nah": "Ocelotl",
+        "img": "assets/lecciones/animales/imagenes/jaguar.png"
+    },
+    {
+        "esp": "Mapache",
+        "nah": "Mapachin",
+        "img": "assets/lecciones/animales/imagenes/mapache.png",
+        "aud": "lecciones/animales/audios/mapachin.mp3"
+    },
+    {
+        "esp": "Mariposa",
+        "nah": "Papalotl",
+        "img": "assets/lecciones/animales/imagenes/mariposa.png"
+    },
+    {
+        "esp": "Mono",
+        "nah": "Ozomatli",
+        "img": "assets/lecciones/animales/imagenes/mono.jpg"
+    },
+    {
+        "esp": "Pájaro",
+        "nah": "Tototl",
+        "img": "assets/lecciones/animales/imagenes/pajaro.png",
+        "aud": "lecciones/animales/audios/tototl.mp3"
+    },
+    {
+        "esp": "Perro",
+        "nah": "Itzcuintli",
+        "img": "assets/lecciones/animales/imagenes/perro.jpeg"
+    },
+    {
+        "esp": "Serpiente",
+        "nah": "Coatl",
+        "img": "assets/lecciones/animales/imagenes/serpiente.png",
+        "aud": "lecciones/animales/audios/coatl.mp3"
+    },
+    {
+        "esp": "Tlacuache, Zarigüeya",
+        "nah": "Tlacuachin",
+        "img": "assets/lecciones/animales/imagenes/tlacuache.png",
+        "aud": "lecciones/animales/audios/tlacuachin.mp3"
+    },
+    {
+        "esp": "Tejón",
+        "nah": "Tehon",
+        "img": "assets/lecciones/animales/imagenes/tejon.png",
+        "aud": "lecciones/animales/audios/tehon.mp3"
+    },
+    {
+        "esp": "Venado, Ciervo",
+        "nah": "Mazatl",
+        "img": "assets/lecciones/animales/imagenes/venado.png",
+        "aud": "lecciones/animales/audios/mazatl.mp3"
+    },
+    {
+        "esp": "Zorro",
+        "nah": "Cuetlaxcoyotl",
+        "img": "assets/lecciones/animales/imagenes/zorro.png"
+    }
+]
