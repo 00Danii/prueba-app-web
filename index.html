@@ -287,14 +287,7 @@
            * EngineInitializer, or will be rejected with the error caused by the loader.
            * Returns undefined when an `onEntrypointLoaded` callback is supplied in `options`.
            */
-          async loadEntrypoint(options) {
-            const {
-              entrypointUrl = `${baseUri}main.dart.js`,
-              onEntrypointLoaded,
-            } = options || {};
-
-            return this._loadEntrypoint(entrypointUrl, onEntrypointLoaded);
-          }
+          
 
           /**
            * Resolves the promise created by loadEntrypoint, and calls the `onEntrypointLoaded`
